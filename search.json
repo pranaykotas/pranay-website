@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Lectures",
+    "section": "",
+    "text": "I try to open access to my slides from talks I have delivered on semiconductor geopolitics, public policy, technology strategy, and related topics. PDFs are hosted here for easy reference."
+  },
+  {
     "objectID": "talks.html#semiconductor-geopolitics",
     "href": "talks.html#semiconductor-geopolitics",
     "title": "Talks & Lectures",
@@ -32,14 +39,7 @@
     "href": "talks.html#public-finance-fiscal-federalism",
     "title": "Talks & Lectures",
     "section": "Public Finance & Fiscal Federalism",
-    "text": "Public Finance & Fiscal Federalism\n\nFinance Commission and Fiscal Federalism in India\nEvent: Add event name Date: Add date\nAn introduction to India’s fiscal federal architecture, the role of Finance Commissions, and the north-south resource distribution debate.\nDownload slides →"
-  },
-  {
-    "objectID": "talks.html#india-foreign-policy",
-    "href": "talks.html#india-foreign-policy",
-    "title": "Talks & Lectures",
-    "section": "India Foreign Policy",
-    "text": "India Foreign Policy\n\nIndia’s Neighbourhood Policy\nEvent: Add event name Date: Add date\nA framework for understanding India’s strategic neighbourhood, key relationships, and foreign policy priorities.\nDownload slides →"
+    "text": "Public Finance & Fiscal Federalism\n\nThe regressive nature of central transfers on health\nEvent: CEPPF, Patna Date: December 7, 2018\nTransfers are not linked to health indicators. Instead, such transfers by and large tend to be incremental. The specific purpose transfer system for health has not been very helpful in offsetting the fiscal disabilities of the poorer states. States tend to substitute grants received from the union for their own spending. Hence no commensurate increase in overall spending. Download slides →"
   },
   {
     "objectID": "talks.html#public-policy",
