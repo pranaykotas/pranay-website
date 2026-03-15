@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+  resources:
+    - robots.txt
+    - llms.txt
+    - assets/slides/
+
+website:
+  title: "Pranay Kotasthane"
+  description: "Policy researcher, educator, and writer"
+  site-url: https://pranaykotas.com
+
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Writing"
+        menu:
+          - text: "Blog"
+            href: blog/index.qmd
+          - text: "Op-eds"
+            href: op-eds/index.qmd
+          - text: "Publications"
+            href: publications/index.qmd
+      - text: "Books"
+        href: books.qmd
+      - text: "Courses"
+        href: courses.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Big Ideas"
+        href: big-ideas.qmd
+    right:
+      - text: "Newsletter"
+        href: newsletter.qmd
+      - text: "Podcast"
+        href: podcast.qmd
+      - icon: rss
+        href: blog/index.xml
+        aria-label: RSS Feed
+      - icon: twitter
+        href: https://twitter.com/pranaborodin
+        aria-label: Twitter
+      - icon: linkedin
+        href: https://linkedin.com/in/pranaykotasthane
+        aria-label: LinkedIn
+
+  page-footer:
+    left: |
+      &copy; 2025 Pranay Kotasthane
+    center: |
+      Made with [Quarto](https://quarto.org)
+    right: |
+      [Subscribe via RSS](blog/index.xml)
+
+  search: true
+
+  open-graph:
+    title: "Pranay Kotasthane"
+    description: "Policy researcher, educator, and writer at the Takshashila Institution. Writing on semiconductor geopolitics, critical minerals, technology policy, and Indian public finance."
+    image: images/Pranay-official.jpeg
+    site-name: "Pranay Kotasthane"
+
+  twitter-card:
+    title: "Pranay Kotasthane"
+    description: "Policy researcher, educator, and writer at the Takshashila Institution. Writing on semiconductor geopolitics, critical minerals, technology policy, and Indian public finance."
+    image: images/Pranay-official.jpeg
+    card-style: summary_large_image
+    creator: "@pranaykotas"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    mainfont: "DM Sans"
+    monofont: "JetBrains Mono"

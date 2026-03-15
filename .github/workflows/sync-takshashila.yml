@@ -1,0 +1,38 @@
+name: Sync Takshashila Content
+
+on:
+  schedule:
+    - cron: '0 6 * * 1,4'   # Monday + Thursday, 6 am UTC (11:30 am IST)
+  workflow_dispatch:          # manual trigger button in GitHub Actions UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        id: scraper
+        run: python scripts/sync_takshashila.py
+
+      - name: Commit updated YAMLs (if any changes)
+        run: |
+          git config user.name "takshashila-sync[bot]"
+          git config user.email "actions@github.com"
+          git add publications/publications.yml blog/blog.yml op-eds/op-eds.yml
+          git diff --cached --quiet \
+            && echo "No new content found — nothing to commit." \
+            || git commit -m "auto: sync new content from Takshashila"
+
+      - name: Push changes
+        run: git push

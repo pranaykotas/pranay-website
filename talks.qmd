@@ -1,0 +1,106 @@
+---
+title: "Talks & Lectures"
+description: "Slides from lectures, workshops, and conference presentations"
+---
+
+I try to open access to my slides from talks I have delivered on semiconductor geopolitics, public policy, technology strategy, and related topics. PDFs are hosted here for easy reference.
+---
+
+## Semiconductor Geopolitics
+
+::: {.talk-card}
+### India's Semiconductor Strategy: A Policy Overview
+
+**Event:** CHIDIPLO Paris Policy Dialogue on *Semiconductor Industrial and Innovation Policy:What Works and What Does Not*
+
+**Date:** February 11, 2026
+
+Overview of India's semiconductor policy landscape, the India Semiconductor Mission, and the geopolitical context shaping chip supply chains.
+
+[Download slides →](assets/slides/CHIPDIPLO-India.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## Critical Minerals
+
+::: {.talk-card}
+### The Geopolitics of Critical Minerals
+**Event:** A Talk at National Defence College, New Delhi
+**Date:** March 10, 2026
+
+I have given several versions of this talk, most recently being for the 66th cohort of India's top military institution for learning strategy, the National Defence College. In this talk, I explain the past, present, and future of mineral politics.
+
+[Download slides →](assets/slides/NDC-2026.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## Technology Geopolitics
+
+::: {.talk-card}
+### High Tech Geopolitics: Trends & Assessments
+**Event:** Lecture for PGP course at Indian Institute of Management, Bangalore
+**Date:** February 17, 2026
+
+The means, goals, and fallouts of technology contestation. 
+
+[Download slides →](assets/slides/IIMB-tech-geopolitics.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## AI Geopolitics
+
+:::{.talk-card}
+### The Geopolitics of AI: Perspectives and Implications
+**Event:** Lecture for the Takshashila GCPP Tech Policy course
+**Date:** Every four months
+
+This talk analyses the domains, instruments, and narratives of AI geopolitics.
+
+[Download slides →](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
+
+:::
+
+---
+
+## Public Finance & Fiscal Federalism
+
+::: {.talk-card}
+### Finance Commission and Fiscal Federalism in India
+**Event:** *Add event name*
+**Date:** *Add date*
+
+An introduction to India's fiscal federal architecture, the role of Finance Commissions, and the north-south resource distribution debate.
+
+[Download slides →](assets/slides/fiscal-federalism-finance-commission.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## India Foreign Policy
+
+::: {.talk-card}
+### India's Neighbourhood Policy
+**Event:** *Add event name*
+**Date:** *Add date*
+
+A framework for understanding India's strategic neighbourhood, key relationships, and foreign policy priorities.
+
+[Download slides →](assets/slides/india-neighbourhood-policy.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## Public Policy
+
+::: {.talk-card}
+### Indian Society as a Change Maker
+**Event:** Manthan, Hyderabad
+**Date:** September 2020
+
+Institutionally, there are three major actors in any community: the market, the State, and the civil society. However, in the state vs markets debate, we often forget that civil society itself can be a powerful actor for positive change. This is true especially in the Indian context where the ability of Indian society to correct itself has been underplayed, underestimated, and undermined by the Indian State. This talk makes a case for why certain tasks are best left for the Indian society to resolve. 
+
+[Download slides →](assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
+:::

@@ -1,0 +1,22 @@
+---
+title: "Publications"
+description: "Research papers, policy briefs, and academic writing"
+listing:
+  - id: publications-list
+    contents: publications.yml
+    type: table
+    sort: "date desc"
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    fields: [date, title, description]
+    field-display-names:
+      description: "Venue / Co-authors"
+      title: "Paper"
+    date-format: "MMM YYYY"
+---
+
+Research papers, policy briefs, and academic writing. Titles link to the original publication or PDF.
+
+::: {#publications-list}
+:::

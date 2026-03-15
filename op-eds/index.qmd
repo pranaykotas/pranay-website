@@ -1,0 +1,24 @@
+---
+title: "Op-eds"
+description: "Opinion pieces I have authored or co-authored in newspapers and magazines"
+listing:
+  - id: op-eds-list
+    contents:
+      - "*.qmd"
+      - op-eds.yml
+    type: table
+    sort: "date desc"
+    categories: true
+    sort-ui: true
+    filter-ui: true
+    fields: [date, title, description]
+    field-display-names:
+      description: "Publication"
+      title: "Article"
+    date-format: "MMM YYYY"
+---
+
+Opinion pieces published in newspapers, magazines, and online outlets. Titles link to the original publication.
+
+::: {#op-eds-list}
+:::
