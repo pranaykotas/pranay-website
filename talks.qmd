@@ -4,7 +4,6 @@ description: "Slides from lectures, workshops, and conference presentations"
 ---
 
 I try to open access to my slides from talks I have delivered on semiconductor geopolitics, public policy, technology strategy, and related topics. PDFs are hosted here for easy reference.
----
 
 ## Semiconductor Geopolitics
 
@@ -68,27 +67,12 @@ This talk analyses the domains, instruments, and narratives of AI geopolitics.
 ## Public Finance & Fiscal Federalism
 
 ::: {.talk-card}
-### Finance Commission and Fiscal Federalism in India
-**Event:** *Add event name*
-**Date:** *Add date*
+### The regressive nature of central transfers on health
+**Event:** CEPPF, Patna
+**Date:** December 7, 2018
 
-An introduction to India's fiscal federal architecture, the role of Finance Commissions, and the north-south resource distribution debate.
-
-[Download slides →](assets/slides/fiscal-federalism-finance-commission.pdf){.btn .btn-primary target="_blank"}
-:::
-
----
-
-## India Foreign Policy
-
-::: {.talk-card}
-### India's Neighbourhood Policy
-**Event:** *Add event name*
-**Date:** *Add date*
-
-A framework for understanding India's strategic neighbourhood, key relationships, and foreign policy priorities.
-
-[Download slides →](assets/slides/india-neighbourhood-policy.pdf){.btn .btn-primary target="_blank"}
+Transfers are not linked to health indicators. Instead, such transfers by and large tend to be incremental. The specific purpose transfer system for health has not been very helpful in offsetting the fiscal disabilities of the poorer states. States tend to substitute grants received from the union for their own spending. Hence no commensurate increase in overall spending.
+[Download slides →](assets/slides/central-transfers-health.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
