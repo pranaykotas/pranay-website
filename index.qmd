@@ -52,12 +52,11 @@ I co-write *Anticipating the Unintended*, a thoughtletter that break down comple
 ```{=html}
 <div class="home-search-bar">
   <button class="home-search-trigger" onclick="
-    var btn = document.getElementById('quarto-search');
-    if (btn) { btn.click(); }
-    else {
-      var inp = document.querySelector('.aa-DetachedSearchButtonPlaceholder, #quarto-search-input');
-      if (inp) inp.focus();
-    }
+    var el = document.getElementById('quarto-search') ||
+             document.querySelector('.aa-DetachedSearchButton') ||
+             document.querySelector('[aria-label=Search]') ||
+             document.querySelector('.quarto-search-button');
+    if (el) { el.click(); }
   ">
     <svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16' style='margin-right:0.5rem;vertical-align:-2px'><path d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.099zm-5.242 1.156a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11'/></svg>
     Search posts, op-eds, talks…
