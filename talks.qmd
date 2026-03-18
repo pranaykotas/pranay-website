@@ -88,3 +88,26 @@ Institutionally, there are three major actors in any community: the market, the 
 
 [Download slides →](assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
 :::
+
+
+::: {.talk-card}
+### Why is the Indian State Like This Only?
+**Event:** ClassRoom @ The Conversation Room, Kolkata
+**Date:** July 2025
+
+This was my first talk at a bar. The setting was quite fun but instead of a stand-up, we were discussing public policy issues. In this talk, I explain the core features of the Indian State and why it behaves the way it does.
+
+Here are some images from the talk. 
+
+:::columns
+:::column
+![](images/kolkata-1.jpeg)
+:::
+
+:::column
+![](images/kolkata-2.jpeg)
+:::
+:::
+
+[Download slides →](assets/slides/ClassRoom-talk.pdf){.btn .btn-primary target="_blank"}
+
