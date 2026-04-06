@@ -10,7 +10,23 @@
 <atom:link href="https://pranaykotas.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on public policy, technology, and geopolitics</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Mon, 23 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Democracy, Constitution, and National Power</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution</description>
+  <category>Public Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Investigating the Potential of Pax Silica</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution</description>
+  <category>Semiconductor Geopolitics</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>India Formally Joins the Pax Silica</title>
   <link>https://pranaykotas.com/</link>
@@ -165,23 +181,6 @@
   <category>India Foreign Policy</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>English is the MP3 Format of Scripts</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution</description>
-  <category>Public Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Digging Deep: Tunnel Boring Machines and India&#39;s China Challenge</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution · with Amit Kumar</description>
-  <category>Technology Policy</category>
-  <category>India Foreign Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
