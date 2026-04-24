@@ -9,7 +9,7 @@
 <link>https://pranaykotas.com/blog/</link>
 <atom:link href="https://pranaykotas.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on public policy, technology, and geopolitics</description>
-<generator>quarto-1.9.36</generator>
+<generator>quarto-1.9.37</generator>
 <lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Democracy, Constitution, and National Power</title>
@@ -26,6 +26,14 @@
   <category>Semiconductor Geopolitics</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Proposed Lok Sabha Seat ApportionmentâWhat Should the Southern States Really Demand?</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution · with Suman Joshi</description>
+  <category>Public Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>India Formally Joins the Pax Silica</title>
@@ -173,14 +181,6 @@
   <category>Semiconductor Geopolitics</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The Iranian Bomb That Wasn&#39;t</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution</description>
-  <category>India Foreign Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
