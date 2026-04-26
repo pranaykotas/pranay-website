@@ -8,7 +8,6 @@ project:
     - robots.txt
     - llms.txt
     - assets/slides/
-    - podcast/
 
 website:
   title: "Pranay Kotasthane"

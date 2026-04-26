@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /podcast/
 
 Sitemap: https://pranaykotasthane.com/sitemap.xml
