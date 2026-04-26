@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 08:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 10:34:44 +0000</lastBuildDate>
     <itunes:author>Pranay Kotasthane</itunes:author>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary"/>
@@ -19,11 +19,11 @@
       <itunes:email>pranay@takshashila.org.in</itunes:email>
     </itunes:owner>
     <item>
-      <title>The Web Beneath the Waves — Samanth Subramanian</title>
-      <description>Subramanian's reporting on the 870,000 miles of fiber optic cable that carry 95% of the world's internet, the small clubby industry that maintains them, and how they have become the central front of US-China conflict. Voiced via Sarvam.</description>
-      <guid isPermaLink="false">https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-web-beneath-the-waves.mp3</guid>
-      <enclosure url="https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-web-beneath-the-waves.mp3" length="17546805" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Apr 2026 08:07:34 +0000</pubDate>
+      <title>Focus: The ASML Way — Marc Hijink</title>
+      <description>Hijink's inside history of ASML, the Dutch company that built the most complex machine ever made and now sits at the center of the US-China tech war. A monologue walk-through of the EUV bet, the TSMC marriage, the Trump-Biden export rules, and what an Indian semiconductor strategist should take away. Voiced via Sarvam.</description>
+      <guid isPermaLink="false">https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-focus-the-asml-way.mp3</guid>
+      <enclosure url="https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-focus-the-asml-way.mp3" length="19682367" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 10:34:44 +0000</pubDate>
     </item>
     <item>
       <title>The Gifts of Athena — Joel Mokyr</title>
@@ -31,6 +31,13 @@
       <guid isPermaLink="false">https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-gifts-of-athena.mp3</guid>
       <enclosure url="https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-gifts-of-athena.mp3" length="22795954" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 05:24:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Web Beneath the Waves — Samanth Subramanian</title>
+      <description>Subramanian's reporting on the 870,000 miles of fiber optic cable that carry 95% of the world's internet, the small clubby industry that maintains them, and how they have become the central front of US-China conflict. Voiced via Sarvam.</description>
+      <guid isPermaLink="false">https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-web-beneath-the-waves.mp3</guid>
+      <enclosure url="https://pranaykotas.com/podcast/dBQ0mf2H4HxrOCAw/20260426-the-web-beneath-the-waves.mp3" length="17546805" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 08:07:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
