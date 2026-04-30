@@ -6,6 +6,12 @@
 #   path:        Full URL to paper/PDF/DOI
 #   categories:  List of tags
 
+- title: "Should the US Sell Advanced GPUs to China? An Indian Perspective"
+  date: 2026-04-29
+  description: "Takshashila Issue Brief 2026-15."
+  path: "https://takshashila.org.in/content/publications/20260429-Nvidia-and-China-India.html"
+  categories: [India Foreign Policy]
+
 - title: "Clingendael Report â Enhancing IndiaâEU Engagement on âMeta-Criticalâ Technologies: A Case for Collaboration on Semiconductors"
   date: 2023-01-05
   description: "Takshashila Publication"
