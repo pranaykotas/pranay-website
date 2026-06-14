@@ -23,12 +23,7 @@ description: "Books on public policy, technology geopolitics, and public finance
         "@type": "Organization",
         "name": "Takshashila Institution",
         "url": "https://takshashila.org.in"
-      },
-      "author": [
-        { "@id": "https://pranaykotas.com/books/#missing-in-action" },
-        { "@id": "https://pranaykotas.com/books/#when-the-chips-are-down" },
-        { "@id": "https://pranaykotas.com/books/#we-the-citizens" }
-      ]
+      }
     },
     {
       "@type": "Book",
