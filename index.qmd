@@ -14,7 +14,7 @@ about:
       href: https://www.linkedin.com/in/pranaykotas/
     - icon: envelope
       text: Email
-      href: mailto:pranay@takshashila.org.in
+      href: "#contact"
 ---
 
 ## About Me
@@ -70,4 +70,20 @@ I co-write *Anticipating the Unintended*, a thoughtletter that break down comple
 
 ```{=html}
 <a href="blog/" class="btn btn-outline-primary">View all posts →</a>
+```
+
+## Contact {#contact}
+
+```{=html}
+<p>
+  To reach me by email:
+  <a id="email-link" href="#"
+     data-u="pranay"
+     data-d="takshashila.org.in"
+     onclick="this.href='mailto:'+this.dataset.u+String.fromCharCode(64)+this.dataset.d;"
+     onmouseover="this.href='mailto:'+this.dataset.u+String.fromCharCode(64)+this.dataset.d;"
+     onfocus="this.href='mailto:'+this.dataset.u+String.fromCharCode(64)+this.dataset.d;">
+    pranay&nbsp;[at]&nbsp;takshashila.org.in
+  </a>
+</p>
 ```
