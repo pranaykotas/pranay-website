@@ -38,11 +38,31 @@ I have given several versions of this talk, most recently being for the 66th coh
 ## Technology Geopolitics
 
 ::: {.talk-card}
+### Geopolitics is Now a Business Problem
+**Event:** [IMA India CEO Roundtable](https://www.imaindia.com/events/sessions/geopolitics-is-now-a-business-problem)
+**Date:** June 2026
+
+A fresh lecture for IMA India's CEO forum on why technology geopolitics has become a first-order business concern, and how firms should read the contest between the US, China, and middle powers.
+
+[Download slides →](assets/slides/IMA-CEO-HTG.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
+### High Tech Geopolitics: Trends, Misconceptions, and Creative Insecurity
+**Event:** Lecture for the PGP-YL programme, Indian School of Business (ISB)
+**Date:** June 2026
+
+A variant of the high tech geopolitics deck, tailored for young leaders at ISB. Covers the means, goals, and fallouts of technology contestation, and the misconceptions that shape business and policy responses.
+
+[Download slides →](assets/slides/ISB-htg.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
 ### High Tech Geopolitics: Trends & Assessments
 **Event:** Lecture for PGP course at Indian Institute of Management, Bangalore
 **Date:** February 17, 2026
 
-The means, goals, and fallouts of technology contestation. 
+The means, goals, and fallouts of technology contestation.
 
 [Download slides →](assets/slides/IIMB-tech-geopolitics.pdf){.btn .btn-primary target="_blank"}
 :::
@@ -119,4 +139,19 @@ Here are some images from the talk.
 :::
 
 [Download slides →](assets/slides/ClassRoom-talk.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## India Foreign Policy
+
+::: {.talk-card}
+### The Situation in the Strait of Hormuz and Its Potential Impact on India
+**Event:** [Indian Danish Chamber of Commerce — Quarterly Seminar](https://app.glueup.com/event/idcc-quarterly-seminar-the-situation-in-the-strait-of-hormuz-and-its-potential-impact-on-india-182019/)
+**Date:** June 2026
+
+How disruption in the Strait of Hormuz would propagate to India through energy, trade, and remittance channels — and what India's resilience options look like across short, medium, and long horizons.
+
+[Download slides →](assets/slides/india_resilience_idcc--2-.pdf){.btn .btn-primary target="_blank"}
+:::
 
