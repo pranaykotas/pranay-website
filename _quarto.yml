@@ -36,6 +36,20 @@ website:
         href: talks.qmd
       - text: "Big Ideas"
         href: big-ideas.qmd
+      - text: "Topics"
+        menu:
+          - text: "Semiconductor Geopolitics"
+            href: topics/semiconductor-geopolitics.qmd
+      - text: "Projects"
+        menu:
+          - text: "All Projects"
+            href: projects.qmd
+          - text: "Semiconductor Tracker"
+            href: https://fabs.pranaykotas.com
+          - text: "AI for Public Policy Directory"
+            href: https://aipublicpolicy.org
+          - text: "GitHub"
+            href: https://github.com/pranaykotas
     right:
       - text: "Newsletter"
         href: newsletter.qmd

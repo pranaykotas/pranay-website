@@ -1,0 +1,136 @@
+---
+title: "Projects"
+description: "Trackers, dashboards, directories, and research tools for public policy"
+toc: true
+---
+
+I build and maintain public-interest research infrastructure: trackers, dashboards, directories, and tools that make policy questions easier to monitor, verify, and explain.
+
+These projects are public-facing. I have left out unreleased experiments, internal dashboards, and tools that require private credentials.
+
+## Featured Projects
+
+::: {.project-grid}
+
+::: {.project-card .featured}
+### [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com)
+
+::: {.project-meta}
+Tracker · Semiconductors · India
+:::
+
+An interactive tracker for India's semiconductor manufacturing facilities: fabs, ATMP/OSAT units, compound semiconductor projects, milestones, investment, slippage, and technology complexity.
+
+::: {.project-actions}
+[Open tracker](https://fabs.pranaykotas.com){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/india-semiconductor-tracker){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.project-card .featured}
+### [AI for Public Policy Directory](https://aipublicpolicy.org)
+
+::: {.project-meta}
+Directory · AI · Public policy
+:::
+
+A community-curated, searchable directory of AI tools, dashboards, and projects built for public policy.
+
+::: {.project-actions}
+[Open directory](https://aipublicpolicy.org){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/IndianPublicPolicy){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.project-card}
+### [Frameworks for Public Policy](https://frameworks.pranaykotas.com)
+
+::: {.project-meta}
+Reference · Frameworks · Policy thinking
+:::
+
+A growing collection of public-policy frameworks and mental models explained in plain language, drawn from books, papers, and years of writing at *Anticipating the Unintended*.
+
+::: {.project-actions}
+[Browse frameworks](https://frameworks.pranaykotas.com){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/public-policy-frameworks){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.project-card}
+### [ParliamentWatch](https://parliamentcommittee.streamlit.app)
+
+::: {.project-meta}
+Tracker · Parliament · AI summaries
+:::
+
+A tool to browse, search, and generate AI-powered summaries of Indian Parliamentary Committee reports from Departmentally Related Standing Committees.
+
+::: {.project-actions}
+[Try live demo](https://parliamentcommittee.streamlit.app){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/parliamentwatch){.btn .btn-outline-primary}
+:::
+:::
+
+:::
+
+## Trackers & Dashboards
+
+::: {.project-grid}
+
+::: {.project-card}
+### [OECD Semiconductor Watch](https://oecdwatch.pranaykotas.com)
+
+::: {.project-meta}
+Tracker · OECD · Semiconductors
+:::
+
+Curated OECD semiconductor research, interpreted for India's policy community.
+
+::: {.project-actions}
+[Open project](https://oecdwatch.pranaykotas.com){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/oecdwatch){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.project-card}
+### [Tracking People's Daily — China-US Rhetoric Dashboard](https://pranaykotas.github.io/china-us-rhetoric/)
+
+::: {.project-meta}
+Dashboard · China · Geopolitics
+:::
+
+An interactive dashboard tracking how Chinese government officials characterise the United States over time, based on systematic analysis of the *Tracking People's Daily* newsletter.
+
+::: {.project-actions}
+[Open dashboard](https://pranaykotas.github.io/china-us-rhetoric/){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/china-us-rhetoric){.btn .btn-outline-primary}
+:::
+:::
+
+:::
+
+## Research Tools
+
+::: {.project-grid}
+
+::: {.project-card}
+### [Takshashila Scholar](https://takshashilainst.github.io/scholar-web/)
+
+::: {.project-meta}
+Research tool · AI · Methods
+:::
+
+A browser-based companion for Takshashila research methods: policy analysis, stakeholder mapping, causal loops, drafting, review, and guided research workflows.
+
+::: {.project-actions}
+[Open tool](https://takshashilainst.github.io/scholar-web/){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/takshashila-scholar){.btn .btn-outline-primary}
+:::
+:::
+
+:::
+
+## What is not listed here
+
+Some tools are intentionally absent: unreleased games, internal dashboards, private automation scripts, and experiments that are not yet useful for a public visitor. This page is for projects that someone else can open, use, inspect, or build upon.

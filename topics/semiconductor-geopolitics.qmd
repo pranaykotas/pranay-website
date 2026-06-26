@@ -1,0 +1,81 @@
+---
+title: "Semiconductor Geopolitics"
+description: "A gateway to my work on chips, fabs, supply chains, and technology geopolitics"
+toc: true
+---
+
+Semiconductors sit at the intersection of technology, economics, national security, trade, and industrial policy. This page brings together my work on chip supply chains, India's semiconductor strategy, fabrication and packaging, and the geopolitics of technological interdependence.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Start here
+
+[*When the Chips Are Down: A Deep Dive into a Global Crisis*](../books.qmd#when-the-chips-are-down-a-deep-dive-into-a-global-crisis) explains how semiconductors became a meta-critical technology and why chip supply chains now shape geopolitics.
+:::
+
+::: {.topic-hero-card}
+### Live tracker
+
+The [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) monitors India's fabs, ATMP/OSAT units, compound semiconductor projects, milestones, investment, slippage, and technical complexity.
+:::
+:::
+
+## Core Questions
+
+- What should India's semiconductor strategy prioritise: leading-edge fabs, mature nodes, packaging, design, equipment, or talent?
+- How can countries reduce asymmetric dependence in chip supply chains without falling into technology autarky?
+- What does semiconductor manufacturing reveal about state capacity, industrial policy, and global technology alliances?
+- How should India work with partners such as the US, Japan, Taiwan, Australia, and the EU?
+
+## Projects
+
+::: {.project-grid}
+
+::: {.project-card .featured}
+### [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com)
+
+::: {.project-meta}
+Tracker · India · Manufacturing
+:::
+
+Interactive tracker of India's semiconductor manufacturing facilities, including status, investment, milestones, slippage, and technical complexity.
+
+::: {.project-actions}
+[Open tracker](https://fabs.pranaykotas.com){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/india-semiconductor-tracker){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.project-card}
+### [OECD Semiconductor Watch](https://oecdwatch.pranaykotas.com)
+
+::: {.project-meta}
+Tracker · OECD · Policy research
+:::
+
+A curated watch on OECD semiconductor research and what it means for India's policy community.
+
+::: {.project-actions}
+[Open project](https://oecdwatch.pranaykotas.com){.btn .btn-primary}
+[GitHub](https://github.com/pranaykotas/oecdwatch){.btn .btn-outline-primary}
+:::
+:::
+
+:::
+
+## Talks & Slides
+
+I try to make slides from my semiconductor talks publicly available. Start with the [Semiconductor Geopolitics section on the Talks page](../talks.qmd#semiconductor-geopolitics), including lectures on India's semiconductor strategy and the geopolitical context shaping chip supply chains.
+
+## Selected Writings
+
+My semiconductor writing appears across formats:
+
+- [Blog](../blog/index.qmd) — filter by **Semiconductor Geopolitics**.
+- [Op-eds](../op-eds/index.qmd) — filter by **Semiconductor Geopolitics**.
+- [Publications](../publications/index.qmd) — filter by **Semiconductor Geopolitics**.
+- [Books](../books.qmd) — see *When the Chips Are Down*.
+
+## Related Themes
+
+Semiconductor geopolitics connects to my work on [Critical Minerals](../talks.qmd#critical-minerals), AI geopolitics, technology policy, trade, industrial strategy, and public finance.

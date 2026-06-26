@@ -879,3 +879,119 @@ hr {
 @media print {
   .navbar, .nav-footer { display: none; }
 }
+
+// ── Project and topic cards ──────────────────────────────────────
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 1.75rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-card,
+.topic-hero-card {
+  background: #fff;
+  border: 1px solid #E2E8F0;
+  border-top: 3px solid $primary;
+  border-radius: 8px;
+  padding: 1.35rem 1.5rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease, border-top-color 0.2s ease;
+
+  &:hover {
+    border-top-color: $accent;
+    box-shadow: 0 6px 22px rgba(13,31,60,0.09);
+    transform: translateY(-1px);
+  }
+
+  &.featured {
+    border-top-color: $accent;
+    background: linear-gradient(180deg, #fff 0%, #FFF9F1 100%);
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.45rem;
+    font-size: 1.12rem;
+    line-height: 1.35;
+  }
+
+  h3 a {
+    color: $primary;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent;
+      text-decoration: none;
+    }
+  }
+
+  p {
+    font-family: $font-family-sans-serif !important;
+    font-size: 0.94rem !important;
+    line-height: 1.6 !important;
+    color: $secondary;
+    margin-bottom: 0.8rem;
+  }
+}
+
+.project-meta {
+  display: inline-flex;
+  width: fit-content;
+  margin-bottom: 0.75rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  background: $accent-light;
+  color: $accent;
+  font-family: $font-family-sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.project-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+
+  .btn {
+    font-size: 0.82rem;
+    padding: 0.42rem 0.8rem;
+  }
+}
+
+.home-projects {
+  margin-bottom: 1rem;
+}
+
+.topic-hero {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-meta p {
+  margin: 0 !important;
+  font-family: $font-family-sans-serif !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  color: inherit !important;
+}
+
+.project-actions p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0 !important;
+  font-family: $font-family-sans-serif !important;
+}

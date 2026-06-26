@@ -49,6 +49,58 @@ I co-write *Anticipating the Unintended*, a thoughtletter that break down comple
 
 :::
 
+## Selected Projects
+
+I also build public-interest research infrastructure: trackers, dashboards, directories, and tools that make policy questions easier to monitor, verify, and explain.
+
+::: {.project-grid .home-projects}
+
+::: {.project-card .featured}
+### [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com)
+
+::: {.project-meta}
+Tracker · Semiconductors · India
+:::
+
+Tracks India's semiconductor manufacturing facilities, milestones, investment, slippage, and technology complexity.
+:::
+
+::: {.project-card .featured}
+### [AI for Public Policy Directory](https://aipublicpolicy.org)
+
+::: {.project-meta}
+Directory · AI · Public policy
+:::
+
+A searchable catalog of AI tools, dashboards, and projects built for public policy.
+:::
+
+::: {.project-card}
+### [Frameworks for Public Policy](https://frameworks.pranaykotas.com)
+
+::: {.project-meta}
+Reference · Frameworks · Policy thinking
+:::
+
+Plain-language public-policy frameworks and mental models for students, practitioners, and curious readers.
+:::
+
+::: {.project-card}
+### [ParliamentWatch](https://parliamentcommittee.streamlit.app)
+
+::: {.project-meta}
+Tracker · Parliament · AI summaries
+:::
+
+Browse, search, and generate AI-powered summaries of Indian Parliamentary Committee reports.
+:::
+
+:::
+
+```{=html}
+<a href="projects.html" class="btn btn-outline-primary">View all projects →</a>
+```
+
 ```{=html}
 <div class="home-search-bar">
   <button class="home-search-trigger" onclick="
