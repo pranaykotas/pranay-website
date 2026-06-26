@@ -1,0 +1,634 @@
+---
+title: "Field Notes"
+description: "Short observations, quips, and insights — notebook-worthy thoughts from across conversations, talks, and social media"
+toc: true
+toc-depth: 2
+---
+
+Observations worth preserving — things I find myself returning to. Some are from Twitter, some from conversations, some from the margins of my notebooks.
+
+---
+
+## India
+
+::: {.field-note-card}
+Found this public policy nugget at the Chennai Rail Museum quite interesting. Indian Railways expanded quickly across the sub-continent due to private participation backed by government guarantees.
+
+*Mar 2026*
+:::
+
+::: {.field-note-card}
+Back from a holiday. A gentle suggestion: our restaurants should move beyond calling their cuisine "North Indian"/"South Indian". These classifiers are too broad and hence meaningless for India in 2026. Eg, there are Awadhi, Punjabi, and Bihari etc. cuisines, not "North…
+
+*Jan 2026*
+:::
+
+::: {.field-note-card}
+My learning from this exercise was: the biggest hurdle to an amicable India-China rnship is an irreconcilable difference in strategic cultures. India demands equal partnership but cannot fathom Chinese dominance. China wants only dominance & cannot fathom an equal partnership.
+
+*Dec 2025*
+:::
+
+::: {.field-note-card}
+Govt & aided-schools in Bengaluru are shut for 8 days so that teachers can be deployed for caste survey work. No school between Dasara & Deepavali breaks. Amazed how this is not seen as a denial of social justice. If it's important, request govt to do this digitally/in holidays
+
+*Oct 2025*
+:::
+
+::: {.field-note-card}
+The poverty of low expectations. The Dy CM of one of India's richest states is inspecting a small flyover loop while the PM of the world's fifth largest economy is inaugurating a 19 km metro line. Meanwhile, the city government which should be leading such works doesn't exist.
+
+*Aug 2025*
+:::
+
+::: {.field-note-card}
+We can see the Indian State through @AuthorJMac's framing: "I want AI to do my laundry and dishes so I can focus on art and writing, not for AI to do art and writing so I can do laundry and dishes". Something like: I want the Indian government to do the invisible infrastructure…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+Steelmanning = पूर्वपक्ष: The idea of presenting the opposing viewpoint faithfully before presenting your own is called purva paksha. It is an ancient Indian tradition of analytical debate and logic. I wish we used it more today.
+
+*May 2025*
+:::
+
+::: {.field-note-card}
+Things we can anticipate now after the latest round of urban flooding in Bengaluru: 1. BWSSB will get funds for upgrading storm water drains 2. It will break existing drains, desilt them, and put all the dirt right next to the drain. 3. The next round of rain will bring the dirt…
+
+*May 2025*
+:::
+
+::: {.field-note-card}
+Left (Feb 2023): product rejection rate is 50% in India. Right (Apr 2025): Apple aims to source all US iPhones from India Tech reportage often examines partial equilibrium. When a new process begins, high rejection rates are standard. Things improve. Images: @FT
+
+*Apr 2025*
+:::
+
+::: {.field-note-card}
+It's been more than a month since the PM announced that a Deregulation Commission would be formed. Deregulation will be crucial for the next phase of India's economic journey. Doubling down on industrial policy will not help. Hope the govt is serious about this move.
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+From an Indian lens, I find it amazing that a city I hadn't heard of before has the financial and administrative capacity to try such a policy. The policy will most likely fail (I remember reading about the Soviet Mother Heroine Award). Nevertheless some of China's success is…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+We think that India has too many people for its land. That's rubbish. If every family of 4 in India had a 1000 sqft house, it would still occupy just 0.99% of India's land (assuming a low FSI of 1). Original calculation by @ajay_shah (2008) was 0.76%.
+
+*Feb 2025*
+:::
+
+::: {.field-note-card}
+Of 100 rupees earned by the government, 61 rupees in Pakistan, 66 rupees in Sri Lanka, and 25 rupees in India go into paying interest (not principal) on existing loans. Feldstein's warning is relevant: "Fiscal deficits are like obesity. You can see your weight rising on the…
+
+*Feb 2025*
+:::
+
+::: {.field-note-card}
+Urban areas contribute 60% of India's GDP, yet the total self-generated revenue of all municipal corporations combined is merely 0.4% of GDP. There will be no Viksit Bharat without decent cities. Data:
+
+*Nov 2024*
+:::
+
+::: {.field-note-card}
+Now that the idea of two two different Indian men's teams in cricket is no longer revolutionary, why not have two different boards competing with each other to provide better options to players and spectators?
+
+*Nov 2024*
+:::
+
+::: {.field-note-card}
+When people asked for examples of policy successes in India, I often cited the New Pension Scheme as one of the prominent ones. Gotta find another example now.
+
+*Aug 2024*
+:::
+
+::: {.field-note-card}
+No point in trying to guess why Musk visited China and not India. And that's a wrong question to ask. What we should take away is that such setbacks are a feature of pro-business policies (rather than pro-market ones). In the former, govt is spending time & enery in designing…
+
+*Apr 2024*
+:::
+
+::: {.field-note-card}
+I remember writing a post on Pakistan not having done censuses regularly, and how it indicates dysfunctional politics and poor state capacity. And today, Pakistan census 2017 data is in the public domain while India's doesn't seem to be on the cards.
+
+*Apr 2024*
+:::
+
+::: {.field-note-card}
+Bengaluru - Chennai traffic will be halved once the new US Consulate comes up. Major energy saver move ;p
+
+*Jun 2023*
+:::
+
+::: {.field-note-card}
+Wow, Singapore has more skyscrapers than the whole of India! Malaysia has twice as many as India does.
+
+*May 2023*
+:::
+
+::: {.field-note-card}
+In some urban Indian homes like ours, stainless steel vessels are the only daily-use artefacts that remind us of past family connections. The engraved names, dates, & lost connections. Eg, the plate on the right is almost my age. So is that tumbler.
+
+*Dec 2022*
+:::
+
+::: {.field-note-card}
+Price caps on 50 per cent of private college medical seats is a terrible policy. It will lead to fewer and smaller private colleges. The fee of the remaining 50 per cent will rise further. Instead of increasing the total number of seats, we will end up creating more scarcity.
+
+*Mar 2022*
+:::
+
+::: {.field-note-card}
+One consequence of this fuel tax driven inflation is that darshani dosas and vadas have shrunk in size. As a Bengaluru resident, I consider this as a serious escalation.
+
+*Oct 2021*
+:::
+
+::: {.field-note-card}
+The Indian State to Markets and Society: I won't do what I'm supposed to but why the hell aren't you two doing what I'm supposed to do?
+
+*Feb 2021*
+:::
+
+::: {.field-note-card}
+I'm truly amazed how interested and knowledgeable many Indians are on US elections. It indicates US power on one hand and deep social linkages on the other.
+
+*Nov 2020*
+:::
+
+::: {.field-note-card}
+Chinese govt: Confucianism Indian govt: Confusionism
+
+*Jun 2020*
+:::
+
+::: {.field-note-card}
+Just a reminder for all "ban China goods" people: India as an importer accounted for just about 3% of all China's exports in 2018 (source: WITS). So it's an instrument with limited benefit and huge self-inflicted costs.
+
+*Jun 2020*
+:::
+
+::: {.field-note-card}
+A request to all public policy writers in India: use Union government instead of Central government. The former's in the Constitution. The latter implies that those outside Delhi are at the periphery.
+
+*Jul 2019*
+:::
+
+::: {.field-note-card}
+India has nearly 2.59 lakh governments. Let that sink in.
+
+*Mar 2018*
+:::
+
+::: {.field-note-card}
+#TIL Bengaluru's population outside its Outer Ring Road is already greater than the population inside it.
+
+*Jun 2016*
+:::
+
+::: {.field-note-card}
+Bangalore's been enjoying 24hrs power supply over the last few days. Reason: municipal elections. Cost: upto 10hr cuts outside city limits.
+
+*Aug 2015*
+:::
+
+## Public Policy
+
+::: {.field-note-card}
+Found this public policy nugget at the Chennai Rail Museum quite interesting. Indian Railways expanded quickly across the sub-continent due to private participation backed by government guarantees.
+
+*Mar 2026*
+:::
+
+::: {.field-note-card}
+It's amazing how our governments directly think of new programmes rather than policy changes: - car pooling apps not allowed - bike taxes were banned - private buses (stage carriage) not allowed - private app-based buses not allowed But let's charge a congestion tax first.
+
+*Sep 2025*
+:::
+
+::: {.field-note-card}
+The poverty of low expectations. The Dy CM of one of India's richest states is inspecting a small flyover loop while the PM of the world's fifth largest economy is inaugurating a 19 km metro line. Meanwhile, the city government which should be leading such works doesn't exist.
+
+*Aug 2025*
+:::
+
+::: {.field-note-card}
+We can see the Indian State through @AuthorJMac's framing: "I want AI to do my laundry and dishes so I can focus on art and writing, not for AI to do art and writing so I can do laundry and dishes". Something like: I want the Indian government to do the invisible infrastructure…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+It's been more than a month since the PM announced that a Deregulation Commission would be formed. Deregulation will be crucial for the next phase of India's economic journey. Doubling down on industrial policy will not help. Hope the govt is serious about this move.
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+A solution to this latest controversy is to end the centrally sponsored scheme for education (Samagra Shiksha Abhiyaan) once and for all; give an equivalent general-purpose transfer to states instead. Let them do what they want with that money. If a state government can't provide…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+From an Indian lens, I find it amazing that a city I hadn't heard of before has the financial and administrative capacity to try such a policy. The policy will most likely fail (I remember reading about the Soviet Mother Heroine Award). Nevertheless some of China's success is…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+Of 100 rupees earned by the government, 61 rupees in Pakistan, 66 rupees in Sri Lanka, and 25 rupees in India go into paying interest (not principal) on existing loans. Feldstein's warning is relevant: "Fiscal deficits are like obesity. You can see your weight rising on the…
+
+*Feb 2025*
+:::
+
+::: {.field-note-card}
+The reason why urban govt elections have no support while ONOE has a lot of support is the same. We intuitively think election is a part of the problem rather than the solution. Those in the government (regardless of the party) have doubled down on this intuition and made us feel…
+
+*Oct 2024*
+:::
+
+::: {.field-note-card}
+When people asked for examples of policy successes in India, I often cited the New Pension Scheme as one of the prominent ones. Gotta find another example now.
+
+*Aug 2024*
+:::
+
+::: {.field-note-card}
+Things our governments blame on rodents: 1. Eating government files 2. Drinking alcohol under government custody 3. Causing electrocution, leading to the deaths of two citizens. Amazing how governments manage to escape accountability.
+
+*Nov 2023*
+:::
+
+::: {.field-note-card}
+The policy-relevant insight is that our states are way too big for preference discovery and good governance. We probably need 2x the number of states. UP is twice as populous as China's most-populous province, Guangdong.
+
+*Jul 2023*
+:::
+
+::: {.field-note-card}
+Three examples show how competitive federalism without guardrails can go wrong. - Rajasthan and then Punjab governments thinking of going back on pension reforms. - Maharashtra - Gujarat tussle over the display & semi fab plant - copycat freebie schemes.
+
+*Sep 2022*
+:::
+
+::: {.field-note-card}
+Price caps on 50 per cent of private college medical seats is a terrible policy. It will lead to fewer and smaller private colleges. The fee of the remaining 50 per cent will rise further. Instead of increasing the total number of seats, we will end up creating more scarcity.
+
+*Mar 2022*
+:::
+
+::: {.field-note-card}
+One consequence of this fuel tax driven inflation is that darshani dosas and vadas have shrunk in size. As a Bengaluru resident, I consider this as a serious escalation.
+
+*Oct 2021*
+:::
+
+::: {.field-note-card}
+I try to use this stat in my public policy 101 lectures. The single-largest expenditure item in GoI's expenditure profile is: interest on previous loans. Interest alone, not principal. 23 paise out of ₹1. Talk about intergenerational inequity.
+
+*Mar 2020*
+:::
+
+::: {.field-note-card}
+A request to all public policy writers in India: use Union government instead of Central government. The former's in the Constitution. The latter implies that those outside Delhi are at the periphery.
+
+*Jul 2019*
+:::
+
+::: {.field-note-card}
+India has nearly 2.59 lakh governments. Let that sink in.
+
+*Mar 2018*
+:::
+
+## Observations
+
+::: {.field-note-card}
+I hope schools and parents realise the futility and absurdity of Model United Nations, when the real UN itself is merely a simulation, a charade. Use that time instead for community engagement projects instead.
+
+*Mar 2026*
+:::
+
+::: {.field-note-card}
+The anti-fragility of nation-states is underrated. Resourceful, large States find ways to survive.
+
+*Mar 2026*
+:::
+
+::: {.field-note-card}
+I wonder what a perverse incentive the Nobel Peace Prize has become. Its enshittification began with Barack Obama getting it for merely talking peace. And now it’s reached a stage where another US President is virtually demanding that he be feted as an apostle of peace. We're…
+
+*Aug 2025*
+:::
+
+::: {.field-note-card}
+I'm no expert at public speaking, but I've been part of enough panel discussions to list a few pitfalls we can avoid: 1> If your speaking duration has been shortened, don't spend that precious time saying "...but I don't have enough time". The audience doesn't care. Just get to…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+It's amusing to see GoI suddenly realising the merit of low tariffs after being pressed by a person who loves tariffs. High tariffs and other barriers have hurt our competitiveness and we should have got rid of them much earlier. The political expediency masks a step that's…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+Biden administration overestimated America's narrative power and Trump administration is overestimating America's coercive power. Don't underestimate the agency of nation-states. They will find smart ways to bypass coercion and restrictions.
+
+*Feb 2025*
+:::
+
+::: {.field-note-card}
+It's cool to see that a former Mexico City mayor will be the country's next President. I wait for the day when our city governance is left to cities so that new leaders emerge & a city mayor can hope to be a PM one day. (JL Nehru was chairman of the Allahabad municipality,…
+
+*Jun 2024*
+:::
+
+::: {.field-note-card}
+Once whole sectors are defined as "strategic", the Overton Window stretches to encompass all sorts of crazy ideas. The motivation can be something else, but the justification is the same, "reduce imports", "it's strategic".
+
+*Aug 2023*
+:::
+
+::: {.field-note-card}
+What you WON'T see in news today: Claims that EVMs were manipulated/hacked.
+
+*May 2023*
+:::
+
+::: {.field-note-card}
+Decency and disgust are System 1 responses. Tolerance and hate are System 2 responses. Education is about converting decency into tolerance, and preventing disgust from converting into hate.
+
+*Nov 2022*
+:::
+
+::: {.field-note-card}
+Today's one of those rare days when you get to see positivity reinforcing cascades, instead of partisan sniping, on this platform. Sports success has an inexplicably uplifting influence.
+
+*Aug 2021*
+:::
+
+::: {.field-note-card}
+I'm amazed how quickly cloth masks have improved. From the ugly synthetic cloth ones that bruised the ears to ones with multiple layers, adjustable straps behind the head, better fits to avoid fogging glasses etc. No centrally planned design; market incentives at work.
+
+*Dec 2020*
+:::
+
+::: {.field-note-card}
+At @wef, Xi will speak on countering protectionism, Raheel will talk about countering terrorism. Wondering who'll speak on how pigs can fly.
+
+*Jan 2017*
+:::
+
+## Professional Craft
+
+::: {.field-note-card}
+If you are in a brainstorming meeting and you think you don't have much to say, volunteer to be the note taker. It always pays off.
+
+*Jun 2026*
+:::
+
+::: {.field-note-card}
+My learning from this exercise was: the biggest hurdle to an amicable India-China rnship is an irreconcilable difference in strategic cultures. India demands equal partnership but cannot fathom Chinese dominance. China wants only dominance & cannot fathom an equal partnership.
+
+*Dec 2025*
+:::
+
+::: {.field-note-card}
+Govt & aided-schools in Bengaluru are shut for 8 days so that teachers can be deployed for caste survey work. No school between Dasara & Deepavali breaks. Amazed how this is not seen as a denial of social justice. If it's important, request govt to do this digitally/in holidays
+
+*Oct 2025*
+:::
+
+::: {.field-note-card}
+We can see the Indian State through @AuthorJMac's framing: "I want AI to do my laundry and dishes so I can focus on art and writing, not for AI to do art and writing so I can do laundry and dishes". Something like: I want the Indian government to do the invisible infrastructure…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+Now that the idea of two two different Indian men's teams in cricket is no longer revolutionary, why not have two different boards competing with each other to provide better options to players and spectators?
+
+*Nov 2024*
+:::
+
+::: {.field-note-card}
+I remember writing a post on Pakistan not having done censuses regularly, and how it indicates dysfunctional politics and poor state capacity. And today, Pakistan census 2017 data is in the public domain while India's doesn't seem to be on the cards.
+
+*Apr 2024*
+:::
+
+::: {.field-note-card}
+I find writing lists to be more productive than reading lists. Writing gets reading done. Not the other way around.
+
+*Jul 2023*
+:::
+
+::: {.field-note-card}
+New grad students: it might be a good idea to send your professional status update to the people who wrote letters of recommendation for you. That'll make a seemingly thankless task, worth it :).
+
+*Nov 2021*
+:::
+
+::: {.field-note-card}
+Toddler points us to our masks every time he wants us to take him out. Is it too late to teach "correlation is not causation"? :D
+
+*Apr 2021*
+:::
+
+::: {.field-note-card}
+Newsletter is the new blog. Podcast is the new op-ed. And twitter still remains the place for posting such metaphors.
+
+*Oct 2019*
+:::
+
+## Geopolitics
+
+::: {.field-note-card}
+Over the last couple of years, the variety of fruits available in my small neighbourhood vegetable shop has increased substantially. Avacado from Tanzania, Blueberry from Peru, Kiwis from New Zealand, Grapes from Japan, and Tasmanian Cherries from Australia. Fantastic…
+
+*Feb 2026*
+:::
+
+::: {.field-note-card}
+My learning from this exercise was: the biggest hurdle to an amicable India-China rnship is an irreconcilable difference in strategic cultures. India demands equal partnership but cannot fathom Chinese dominance. China wants only dominance & cannot fathom an equal partnership.
+
+*Dec 2025*
+:::
+
+::: {.field-note-card}
+I'm curious about this. When the US imposed chip export controls, many reports claimed that this would propel China to catch up. Now that China has put export restrictions on dumb rare earth magnets, I haven't yet come across reports saying the rest of the world will catch up…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+From an Indian lens, I find it amazing that a city I hadn't heard of before has the financial and administrative capacity to try such a policy. The policy will most likely fail (I remember reading about the Soviet Mother Heroine Award). Nevertheless some of China's success is…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+No point in trying to guess why Musk visited China and not India. And that's a wrong question to ask. What we should take away is that such setbacks are a feature of pro-business policies (rather than pro-market ones). In the former, govt is spending time & enery in designing…
+
+*Apr 2024*
+:::
+
+::: {.field-note-card}
+The policy-relevant insight is that our states are way too big for preference discovery and good governance. We probably need 2x the number of states. UP is twice as populous as China's most-populous province, Guangdong.
+
+*Jul 2023*
+:::
+
+::: {.field-note-card}
+We need to rethink the blanket ban on *.cn websites. Today I wanted to read the widely-discussed paper on China's semiconductor ambitions, but I can't do that without a VPN. I have to rely on Western news reportage. How do we fight an adversary we know so little about?
+
+*Feb 2023*
+:::
+
+::: {.field-note-card}
+Just a reminder for all "ban China goods" people: India as an importer accounted for just about 3% of all China's exports in 2018 (source: WITS). So it's an instrument with limited benefit and huge self-inflicted costs.
+
+*Jun 2020*
+:::
+
+::: {.field-note-card}
+China giving gyaan on human rights and Pakistan giving a talk about nuclear security are the funniest highlights of the last week. All that's left is for Trump to talk about the merits of migration.
+
+*Aug 2019*
+:::
+
+## Books & Reading
+
+::: {.field-note-card}
+The US' most impactful 'soft' power instrument is the number of non-fiction books on the world its scholars write. The new terms, frameworks, and labels in these books 'shape the preferences of others' more than other instruments.
+
+*Feb 2021*
+:::
+
+::: {.field-note-card}
+What does Claude Code and Cowork mean for think tanks? Perhaps that asking the right question is more important than figuring a way to get the answer. But asking the right questions needs deep expertise. And that can only come through deep and wide reading, which will become…
+
+*Feb 2026*
+:::
+
+::: {.field-note-card}
+We can see the Indian State through @AuthorJMac's framing: "I want AI to do my laundry and dishes so I can focus on art and writing, not for AI to do art and writing so I can do laundry and dishes". Something like: I want the Indian government to do the invisible infrastructure…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+From an Indian lens, I find it amazing that a city I hadn't heard of before has the financial and administrative capacity to try such a policy. The policy will most likely fail (I remember reading about the Soviet Mother Heroine Award). Nevertheless some of China's success is…
+
+*Mar 2025*
+:::
+
+::: {.field-note-card}
+I find writing lists to be more productive than reading lists. Writing gets reading done. Not the other way around.
+
+*Jul 2023*
+:::
+
+::: {.field-note-card}
+Read an article that criticises income growth figure because it don't measure inequality. Analysis101: a model cannot be criticised for not measuring what it's not supposed to measure in the first place. It's like chastising Virat Kohli for not taking wickets.
+
+*Mar 2023*
+:::
+
+::: {.field-note-card}
+We need to rethink the blanket ban on *.cn websites. Today I wanted to read the widely-discussed paper on China's semiconductor ambitions, but I can't do that without a VPN. I have to rely on Western news reportage. How do we fight an adversary we know so little about?
+
+*Feb 2023*
+:::
+
+::: {.field-note-card}
+The more I read and the more I write, I realise how simple it is to write in tough prose and how tough it is to write in simple prose.
+
+*Mar 2017*
+:::
+
+## Technology & Geopolitics
+
+::: {.field-note-card}
+Found this public policy nugget at the Chennai Rail Museum quite interesting. Indian Railways expanded quickly across the sub-continent due to private participation backed by government guarantees.
+
+*Mar 2026*
+:::
+
+::: {.field-note-card}
+We can see the Indian State through @AuthorJMac's framing: "I want AI to do my laundry and dishes so I can focus on art and writing, not for AI to do art and writing so I can do laundry and dishes". Something like: I want the Indian government to do the invisible infrastructure…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+I'm curious about this. When the US imposed chip export controls, many reports claimed that this would propel China to catch up. Now that China has put export restrictions on dumb rare earth magnets, I haven't yet come across reports saying the rest of the world will catch up…
+
+*Jun 2025*
+:::
+
+::: {.field-note-card}
+Bengaluru - Chennai traffic will be halved once the new US Consulate comes up. Major energy saver move ;p
+
+*Jun 2023*
+:::
+
+::: {.field-note-card}
+We need to rethink the blanket ban on *.cn websites. Today I wanted to read the widely-discussed paper on China's semiconductor ambitions, but I can't do that without a VPN. I have to rely on Western news reportage. How do we fight an adversary we know so little about?
+
+*Feb 2023*
+:::
+
+::: {.field-note-card}
+Three examples show how competitive federalism without guardrails can go wrong. - Rajasthan and then Punjab governments thinking of going back on pension reforms. - Maharashtra - Gujarat tussle over the display & semi fab plant - copycat freebie schemes.
+
+*Sep 2022*
+:::
+
+## Public Finance
+
+::: {.field-note-card}
+Of 100 rupees earned by the government, 61 rupees in Pakistan, 66 rupees in Sri Lanka, and 25 rupees in India go into paying interest (not principal) on existing loans. Feldstein's warning is relevant: "Fiscal deficits are like obesity. You can see your weight rising on the…
+
+*Feb 2025*
+:::
+
+::: {.field-note-card}
+Urban areas contribute 60% of India's GDP, yet the total self-generated revenue of all municipal corporations combined is merely 0.4% of GDP. There will be no Viksit Bharat without decent cities. Data:
+
+*Nov 2024*
+:::
+
+::: {.field-note-card}
+I try to use this stat in my public policy 101 lectures. The single-largest expenditure item in GoI's expenditure profile is: interest on previous loans. Interest alone, not principal. 23 paise out of ₹1. Talk about intergenerational inequity.
+
+*Mar 2020*
+:::
+
+## Research
+
+::: {.field-note-card}
+Anecdata on how badly our urban governance is broken. There are two small parks about 2 km apart. One falls under the local panchayat. It's open through the day, and is well-maintained. The other, run by BBMP, is open for just four hours a day, and is poorly maintained.…
+
+*May 2024*
+:::
+
+::: {.field-note-card}
+I remember writing a post on Pakistan not having done censuses regularly, and how it indicates dysfunctional politics and poor state capacity. And today, Pakistan census 2017 data is in the public domain while India's doesn't seem to be on the cards.
+
+*Apr 2024*
+:::
+
+::: {.field-note-card}
+We need to rethink the blanket ban on *.cn websites. Today I wanted to read the widely-discussed paper on China's semiconductor ambitions, but I can't do that without a VPN. I have to rely on Western news reportage. How do we fight an adversary we know so little about?
+
+*Feb 2023*
+:::

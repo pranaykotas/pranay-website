@@ -68,3 +68,39 @@ And finally, this strategy can benefit the union government as well. It frees up
 
 A popular way to think about strengthening the Indian Republic is to ponder on improving its institutions. However, this route often ends up in mere despondence over our many underperforming institutions. While confronting these demons is an absolute necessity, here’s another way to think about this issue: what are the meta-institutions that the Indian Republic is missing altogether?
 :::
+
+::: {.idea-card}
+### India isn’t competing with China — it’s competing with 200+ Chinese cities
+
+Analysing India-China competition from a national level is not helpful. We need competitiveness at the city level. China is not federal and yet more decentralised than India. While India’s city-level governance remains weak, China’s cities compete fiercely with each other for investment and talent. The real gap is not between two countries but between Indian cities and hundreds of Chinese ones.
+:::
+
+::: {.idea-card}
+### State Capacity is a flow, not a stock
+
+Earlier, my mental model was that state capacity is cumulative. Once you build it in a domain, it is semi-permanent. You then focus on other domains. Now I think state capacity is more like a flow — it needs constant investment and maintenance. Without it, even well-built institutions decay. The repeated self-goals of the US administration illustrate this vividly.
+:::
+
+::: {.idea-card}
+### Industrial Policy has become a religion
+
+China is its prophet, and even its mistakes are seen as masterstrokes. The message of this religion is simple: governments have the knowledge and tools to guide the economy towards excellence and productivity. As with all messages of this kind, industrial policy overlooks the information problem — governments don’t know enough to pick winners consistently, and the political incentives around industrial policy are rarely aligned with economic efficiency.
+:::
+
+::: {.idea-card}
+### The Programmes vs Policies distinction
+
+Programmes refer to government-led measures involving public expenditure. Policies are government directives that allow or disallow specific economic activities. Programmes are easy to begin — there’s a budget, a ministry, and a visible launch. Policies are harder because they require changing rules and confronting entrenched interests. India’s bias is overwhelmingly towards programmes over policies, which is why we spend more than we reform.
+:::
+
+::: {.idea-card}
+### The Tyranny of Context
+
+Arguments defending alternative systems often compare the worst form of the current arrangement with the best form of the alternative proposal. This is the ‘tyranny of context’ — using the flaws of the status quo to make an idealised alternative look inevitable. The honest comparison is between realistic versions of both.
+:::
+
+::: {.idea-card}
+### Indian Cities: An Impossible Trinity
+
+Indian cities cannot simultaneously be affordable, well-governed, and liveable. Most are none of the three, but even the best manage at most two. Unless we recognise this structural constraint, we will not search for the right institutional solutions — particularly around urban governance, municipal finance, and land-use regulation.
+:::

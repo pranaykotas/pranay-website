@@ -8,6 +8,7 @@ project:
     - robots.txt
     - llms.txt
     - assets/slides/
+    - field-notes/field-notes.yml
 
 website:
   title: "Pranay Kotasthane"
@@ -28,6 +29,8 @@ website:
             href: op-eds/index.qmd
           - text: "Publications"
             href: publications/index.qmd
+          - text: "Field Notes"
+            href: field-notes/index.qmd
       - text: "Books"
         href: books.qmd
       - text: "Courses"

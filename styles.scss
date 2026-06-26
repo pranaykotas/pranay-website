@@ -995,3 +995,79 @@ hr {
   margin: 0 !important;
   font-family: $font-family-sans-serif !important;
 }
+
+// ── Field Notes ──────────────────────────────────────────────────
+.field-notes-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1.5rem 0;
+}
+
+.fn-filter-btn {
+  background: #fff;
+  border: 1px solid #E2E8F0;
+  border-radius: 20px;
+  padding: 0.3rem 0.85rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  color: $secondary;
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover {
+    border-color: $accent;
+    color: $accent;
+  }
+
+  &.active {
+    background: $primary;
+    border-color: $primary;
+    color: #fff;
+  }
+}
+
+.field-note-card {
+  border-left: 3px solid $accent;
+  padding: 1rem 1.25rem;
+  margin: 0.75rem 0;
+  background: $accent-light;
+  border-radius: 0 6px 6px 0;
+  transition: border-left-color 0.2s;
+
+  &:hover {
+    border-left-color: darken($accent, 12%);
+  }
+}
+
+.fn-text {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.97rem;
+  line-height: 1.65;
+  color: $body-color;
+}
+
+.fn-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.fn-date {
+  font-family: $font-family-sans-serif;
+  font-size: 0.75rem;
+  color: $secondary;
+  margin-right: 0.3rem;
+}
+
+.fn-cat {
+  display: inline-block;
+  background: rgba($primary, 0.08);
+  color: $primary;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.72rem;
+  font-weight: 500;
+  cursor: pointer;
+}
