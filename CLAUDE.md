@@ -193,6 +193,41 @@ Edit `big-ideas.qmd`. Same structure as projects:
 
 ---
 
+### 9. Field Note
+
+Add a new entry at the **top** of `field-notes/field-notes.yml`:
+
+```yaml
+- text: "Your observation or insight here"
+  date: 2025-03-01
+  categories: [Observations]
+```
+
+Then add a corresponding card in `field-notes/index.qmd` under the appropriate category `## Section`:
+
+```markdown
+::: {.field-note-card}
+Your observation or insight here
+
+*Mar 2025*
+:::
+```
+
+**Field Notes categories (use these consistently):**
+- `India`
+- `Public Policy`
+- `Observations`
+- `Professional Craft`
+- `Geopolitics`
+- `Books & Reading`
+- `Technology & Geopolitics`
+- `Public Finance`
+- `Research`
+
+Notes appear under category headings (with TOC navigation). A note can appear under multiple categories if listed in multiple `## Sections` in `index.qmd`.
+
+---
+
 ## Site structure
 
 ```
@@ -212,6 +247,10 @@ op-eds/
 publications/
   index.qmd          # publications listing
   publications.yml   # all publications
+
+field-notes/
+  index.qmd          # field notes page (static cards grouped by category, with TOC)
+  field-notes.yml    # all field notes data
 
 books.qmd
 courses.qmd
