@@ -115,6 +115,22 @@ Browse, search, and generate AI-powered summaries of Indian Parliamentary Commit
 </div>
 ```
 
+## Ideas & Observations
+
+::: {.grid}
+
+::: {.g-col-6}
+### [Big Ideas](big-ideas.qmd)
+Claims, hypotheses, and frameworks I keep returning to — from the tyranny of context to why state capacity is a flow, not a stock.
+:::
+
+::: {.g-col-6}
+### [Field Notes](field-notes/)
+Short observations, quips, and insights worth preserving — on policy, geopolitics, cities, and the craft of research.
+:::
+
+:::
+
 ## Recent Writings
 
 ::: {#recent-writings}
