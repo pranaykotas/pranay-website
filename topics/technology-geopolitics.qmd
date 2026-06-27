@@ -1,0 +1,416 @@
+---
+title: "Technology Geopolitics"
+description: "Technology contestation, AI geopolitics, techno-strategic autonomy, and digital policy"
+toc: true
+toc-depth: 2
+---
+
+Technology has become the primary arena of great power competition. I research how technology interdependencies shape geopolitics, why techno-strategic autonomy is often counterproductive, and what a more effective technology strategy for India and other middle powers looks like.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Core idea
+
+India should spearhead an [Open Technology Maitri](../big-ideas.html) — a principled alliance of developing countries to promote open-source software, open standards, open hardware, and interoperability as safeguards for techno-strategic autonomy.
+:::
+
+::: {.topic-hero-card}
+### Directory
+
+The [AI for Public Policy Directory](https://aipublicpolicy.org) is a searchable catalogue of AI tools, dashboards, and projects built for public policy.
+:::
+
+:::
+
+## Talks & Slides
+
+::: {.talk-card}
+### Geopolitics is Now a Business Problem
+**Event:** [IMA India CEO Roundtable](https://www.imaindia.com/events/sessions/geopolitics-is-now-a-business-problem)
+
+**Date:** June 2026
+
+[Download slides →](../assets/slides/IMA-CEO-HTG.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
+### High Tech Geopolitics: Trends, Misconceptions, and Creative Insecurity
+**Event:** Lecture for the PGP-YL programme, Indian School of Business (ISB)
+
+**Date:** June 2026
+
+[Download slides →](../assets/slides/ISB-htg.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
+### High Tech Geopolitics: Trends & Assessments
+**Event:** Lecture for PGP course at Indian Institute of Management, Bangalore
+
+**Date:** February 17, 2026
+
+[Download slides →](../assets/slides/IIMB-tech-geopolitics.pdf){.btn .btn-primary target="_blank"}
+:::
+
+## Selected Writings
+
+60 pieces across blog posts, op-eds, and publications.
+
+::: {.writing-item}
+[An Analysis of the India-EU Technology Action Agenda](https://takshashila.org.in/content/blogs/20260130-science-magazine-india-eu-response.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[India Should Double Down on Rare Earth Recycling](https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Tannmay Kumarr Baid and Narayan Ramachandran · Jan 2026
+:::
+
+::: {.writing-item}
+[India is talking about critical minerals. But do we have a plan?](https://www.indianexpress.com/article/opinion/columns/critical-minerals-pax-silica-donald-trump-10482197/){target="_blank"}
+
+**Op-ed** · Indian Express · Jan 2026
+:::
+
+::: {.writing-item}
+[Inside the Tent: India and the Limits of Pax Sinica](https://www.indiasworld.in/inside-the-tent-india-and-the-limits-of-pax-silica/){target="_blank"}
+
+**Op-ed** · India's World · Jan 2026
+:::
+
+::: {.writing-item}
+[The Reported Solutions for Allowing Chinese Investment in India](https://takshashila.org.in/content/blogs/20260105-the-reported-solutions-for-allowing-chinese-investment-in-india.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Social Media's Wake-Up Call](https://takshashila.org.in/content/blogs/20251218-social-medias-wake-up-call.html){target="_blank"}
+
+**Blog** · Dec 2025
+:::
+
+::: {.writing-item}
+[Juggernaut or Embers of a Dying Fire: China's Technology Landscape and Its Implications for India](https://takshashila.org.in/content/publications/20251121-juggernaut-or-embers-of-a-dying-fire.html){target="_blank"}
+
+**Publication** · Book Chapter · with Shobhankita Reddy · Nov 2025
+:::
+
+::: {.writing-item}
+[China Doubles Down on Weaponising Antitrust Regulations](https://takshashila.org.in/content/blogs/20251103-china-doubles-down-on-weaponising-antitrust-regulations.html){target="_blank"}
+
+**Blog** · Nov 2025
+:::
+
+::: {.writing-item}
+[What India and Canada Can Do Together](https://takshashila.org.in/content/blogs/20251010-What-India-Canada-Tech-Partnership.html){target="_blank"}
+
+**Blog** · Oct 2025
+:::
+
+::: {.writing-item}
+[US, China bully India in global market. Delhi must get its own instruments of leverage](https://theprint.in/opinion/us-china-india-global-market-delhi-instruments-leverage/2751689/){target="_blank"}
+
+**Op-ed** · The Print · Sep 2025
+:::
+
+::: {.writing-item}
+[Geopolitics of Bengaluru's Yellow Metro Line](https://takshashila.org.in/content/publications/20250909-Geopolitics-of-Bengalurus-Yellow-Metro-Line.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Tannmay Kumarr Baid · Sep 2025
+:::
+
+::: {.writing-item}
+[Digital Strategic Autonomy: The Case for an EU-India Open Tech Maitri](https://indiasworld.in/digital-strategic-autonomy-the-case-for-an-eu-india-open-tech-maitri/){target="_blank"}
+
+**Op-ed** · India's World · Sep 2025
+:::
+
+::: {.writing-item}
+[Open Source AI Becomes a Strategic Priority](https://takshashila.org.in/content/blogs/20250728-OpenSource-AI-Becomes-a-Strategic-Priority.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[Implications of H20 Sale Resumption to China](https://takshashila.org.in/content/blogs/20250723-H20-China.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[Gaining Leverage: India’s Semiconductor Policy from a Strategic Perspective](https://indiasworld.in/gaining-leverage-indias-semiconductor-policy-from-a-strategic-perspective/){target="_blank"}
+
+**Op-ed** · India's World · Jul 2025
+:::
+
+::: {.writing-item}
+[Reconfiguring supply chains in a world where trust's eroding](https://www.moneycontrol.com/news/opinion/reconfiguring-supply-chains-in-a-world-where-trust-s-eroding-13201132.html){target="_blank"}
+
+**Op-ed** · Moneycontrol · Jun 2025
+:::
+
+::: {.writing-item}
+[The Way to Break China's Stranglehold on Rare-earths](https://indiasworld.in/the-way-to-break-chinas-stranglehold-on-rare-earths-2/){target="_blank"}
+
+**Op-ed** · India's World · Jun 2025
+:::
+
+::: {.writing-item}
+[Towards techno-strategic autonomy: India should spearhead an Open Technology Maitri](https://indiasworld.in/towards-techno-strategic-autonomy-india-should-spearhead-an-open-technology-maitri/){target="_blank"}
+
+**Op-ed** · India's World · Mar 2025
+:::
+
+::: {.writing-item}
+[Digging Deep: Tunnel Boring Machines and India's China Challenge](https://takshashila.org.in/content/blogs/digging-deep.html){target="_blank"}
+
+**Blog** · Jan 2025
+:::
+
+::: {.writing-item}
+[Why India needs a Techno-strategic Doctrine](https://indiasworld.in/why-india-needs-a-techno-strategic-doctrine/){target="_blank"}
+
+**Op-ed** · India's World · Dec 2024
+:::
+
+::: {.writing-item}
+[Policy tweaks can push private sector R&D](https://www.deccanherald.com/opinion/policy-tweakscan-push-private-sector-rd-3305698){target="_blank"}
+
+**Op-ed** · Deccan Herald · Dec 2024
+:::
+
+::: {.writing-item}
+[The shifting sands within global supply chains](https://www.thehindu.com/opinion/op-ed/the-shifting-sands-within-global-supply-chains/article68788375.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Nov 2024
+:::
+
+::: {.writing-item}
+[Perils of decentralisation with Chinese characteristics](https://www.thehindu.com/opinion/op-ed/perils-of-decentralisation-with-chinese-characteristics/article68631225.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Sep 2024
+:::
+
+::: {.writing-item}
+[India's Climb up the Innovation Ladder: Policy Enablers and Impediments](https://takshashila.org.in/content/publications/20240805-Indias-Climb-up-the-Innovation-Ladder.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Sarthak Pradhan · Aug 2024
+:::
+
+::: {.writing-item}
+[A self-harming stance on digital trade tariffs](https://www.hindustantimes.com/opinion/a-self-harming-stance-on-digital-trade-tariffs-101715177245040.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · May 2024
+:::
+
+::: {.writing-item}
+[The need to overhaul a semiconductor scheme](https://www.thehindu.com/opinion/op-ed/the-need-to-overhaul-a-semiconductor-scheme/article67768726.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Jan 2024
+:::
+
+::: {.writing-item}
+[The Techno-Economic Impact of the Israel-Hamas War](https://takshashila.org.in/content/publications/20231206-The-Techno-Economic-Impact-of-the-Israel-Hamas-war.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · with Aditya Ramanathan, Sarthak Pradhan, Satya Shoova Sahu · Dec 2023
+:::
+
+::: {.writing-item}
+[Chipmaking subsidies are not the answer to supply security worries](https://asia.nikkei.com/Opinion/Chipmaking-subsidies-are-not-the-answer-to-supply-security-worries){target="_blank"}
+
+**Op-ed** · Nikkei Asia · Oct 2023
+:::
+
+::: {.writing-item}
+[The essence of engineering](https://www.nitinpai.in/2023/09/15/the-essence-of-engineering){target="_blank"}
+
+**Op-ed** · Mint · Sep 2023
+:::
+
+::: {.writing-item}
+[The Laptop Licence: Why are Failed Policies Being Revived Again?](https://timesofindia.indiatimes.com/blogs/voices/laptop-licence-why-are-failed-policies-being-revived-again/){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2023
+:::
+
+::: {.writing-item}
+[Learning from the CHIPS Act of the U.S.](https://www.thehindu.com/opinion/op-ed/learning-from-the-chips-act-of-the-us/article67172378.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Aug 2023
+:::
+
+::: {.writing-item}
+[Confronting Trade-offs for India's Electronics Manufacturing Success](https://lkyspp.nus.edu.sg/cag/publications/center-publications/publication-article/detail/cib228-1){target="_blank"}
+
+**Op-ed** · Centre on Asia and Globalisation, NUS · Jul 2023
+:::
+
+::: {.writing-item}
+[Interrogating Power and Legitimacy in the Information Age from an Indian Perspective](https://takshashila.org.in/content/publications/20230515-Interrogating-Power-and-Legitimacy-in-the-Information-Age-from-an-Indian-Perspective.html){target="_blank"}
+
+**Publication** · Book Chapter · with Nitin Pai · May 2023
+:::
+
+::: {.writing-item}
+[Time to Launch the US-India Trade Relationship into Another Orbit](https://takshashila.org.in/content/publications/20230515-time-to-launch-the-us-india-trade-relationship-into-another-orbit.html){target="_blank"}
+
+**Publication** · Takshashila Publication · May 2023
+:::
+
+::: {.writing-item}
+[AI Race Must Not Overlook AI Hardware](https://takshashila.org.in/content/publications/20230320-AI-Race-AI-Hardware.html){target="_blank"}
+
+**Publication** · Takshashila Issue Brief · with Shrikrishna Upadhyaya · Mar 2023
+:::
+
+::: {.writing-item}
+[Rebooting AI in India](https://takshashila.org.in/content/publications/20230314-Rebooting-AI-in-India.html){target="_blank"}
+
+**Publication** · Clingendael Report · Mar 2023
+:::
+
+::: {.writing-item}
+[High-Technology Geopolitics in the Post-Pandemic World](https://takshashila.org.in/content/publications/20230210-High-Technology-Geopolitics-in-the-Post-Pandemic-World.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Feb 2023
+:::
+
+::: {.writing-item}
+[The Rare Earth Elements Opportunity for India](https://takshashila.org.in/content/publications/20230131-The-Rare-Earth-Elements-Opportunity-for-India.html){target="_blank"}
+
+**Publication** · Takshashila Issue Brief · with Shrikrishna Upadhyaya · Jan 2023
+:::
+
+::: {.writing-item}
+[Enhancing India–EU Engagement on 'Meta-Critical' Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-India%E2%80%93EU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Clingendael Report · Jan 2023
+:::
+
+::: {.writing-item}
+[Why we shouldn't copy-paste EU's 'one nation, one charger' policy](https://timesofindia.indiatimes.com/blogs/voices/why-we-shouldnt-copy-paste-eus-one-nation-one-charger-policy/){target="_blank"}
+
+**Op-ed** · Times of India · Dec 2022
+:::
+
+::: {.writing-item}
+[An Open Tech Strategy for India](https://takshashila.org.in/content/publications/20221223-open-tech-strategy-for-india.html){target="_blank"}
+
+**Publication** · Takshashila Report · with Nitin Pai · Dec 2022
+:::
+
+::: {.writing-item}
+[India's Semiconductor Push should Focus on Revamping the DLI Scheme](https://www.hindustantimes.com/opinion/indias-semiconductor-push-should-focus-on-revamping-the-dli-scheme-101657959377978.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jul 2022
+:::
+
+::: {.writing-item}
+[Comments on NITI Aayog's Draft Battery Swapping Policy](https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog's-Draft-Battery-Swapping-Policy.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Jun 2022
+:::
+
+::: {.writing-item}
+[Harnessing Trade Policy to Build India's Semiconductor Industry](https://takshashila.org.in/content/publications/20220503-Harnessing-trade-policies-to-build-Indias-semiconductor-industry.html){target="_blank"}
+
+**Publication** · Hinrich Foundation Report · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[Harnessing trade policy to build India's semiconductor industry](https://www.hinrichfoundation.com/research/wp/tech/trade-policy-build-india-semiconductor-industry/){target="_blank"}
+
+**Op-ed** · Hinrich Foundation · May 2022
+:::
+
+::: {.writing-item}
+[Atmashakti Over Atmanirbharta: Learn Right Lessons from Russia Sanctions](https://timesofindia.indiatimes.com/blogs/voices/atmashakti-not-atmanirbharta-learn-right-lessons-from-russia-sanctions-attempting-self-reliance-in-technology-is-self-defeating/){target="_blank"}
+
+**Op-ed** · Times of India · Mar 2022
+:::
+
+::: {.writing-item}
+[Comments to Parliamentary Standing Committee on Science & Technology (FY 2022-23)](https://takshashila.org.in/content/publications/20220214-Policy-advisory-on-Demand-for-grants-Union-Budget-FY22-23.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Feb 2022
+:::
+
+::: {.writing-item}
+[Are Government's New Schemes For Semiconductors Enough To Make India Atmanirbhar?](https://www.outlookindia.com/website/story/business-news-are-governments-new-schemes-for-semiconductors-enough-to-make-india-atmanirbhar/407936){target="_blank"}
+
+**Op-ed** · Outlook India · Jan 2022
+:::
+
+::: {.writing-item}
+[Three reasons why China's tech prowess is overhyped](https://timesofindia.indiatimes.com/blogs/voices/three-reasons-why-chinas-tech-prowess-is-overhyped){target="_blank"}
+
+**Op-ed** · Times of India · Dec 2021
+:::
+
+::: {.writing-item}
+[India Needs a 20-Year Semiconductor Strategy](https://www.hindustantimes.com/opinion/india-needs-a-20-year-semiconductor-strategy-101638457241356.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2021
+:::
+
+::: {.writing-item}
+[India's Semiconductor Ecosystem: A SWOT Analysis](https://takshashila.org.in/content/publications/20210809-indias-semiconductor-ecosystem-swot-analysis.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · with Anup Rajput, Samparna Tripathy, Amol Sarin · Aug 2021
+:::
+
+::: {.writing-item}
+[How to Beat China in the High-Tech Race](https://timesofindia.indiatimes.com/how-to-beat-china-in-the-high-tech-race/articleshow/83739897.cms){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2021
+:::
+
+::: {.writing-item}
+[Comments to Parliamentary Standing Committee on Science and Technology (FY 2021-22)](https://takshashila.org.in/content/publications/20210311-comments-to-parliamentary-standing-committee-on-science-and-technology-environment-forests-and-climate-change-on-demand-for-grants-dfgs-in-the-budget-for-fy-2021-22.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Mar 2021
+:::
+
+::: {.writing-item}
+[The Next Step for Quad: A Dialogue on High Tech](https://www.hindustantimes.com/analysis/the-next-step-for-quad-a-dialogue-on-high-tech/story-zuVC4Xv9axbCKSdRbsFqJL.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2020
+:::
+
+::: {.writing-item}
+[How Covid-19 Changes the Geopolitics of Semiconductor Supply Chains](https://www.scmp.com/tech/enterprises/article/3086998/how-covid-19-changes-geopolitics-semiconductor-supply-chains){target="_blank"}
+
+**Op-ed** · South China Morning Post · Jun 2020
+:::
+
+::: {.writing-item}
+[5G infrastructure in India: Holistic assessment of security, economic, strategic concerns needed](https://www.telegraphindia.com/opinion/5g-infrastructure-in-india-holistic-assessment-of-security-economic-strategic-concerns-needed/cid/1738436){target="_blank"}
+
+**Op-ed** · Telegraph India · Jan 2020
+:::
+
+::: {.writing-item}
+[Quality of Service Based Differential Pricing for Data Services](https://takshashila.org.in/content/publications/20190801-Quality-of-Service-Based-Differential-Pricing-for-Data-Services.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Aug 2019
+:::
+
+::: {.writing-item}
+[Individual Liberty vs Public Security in a Radically Networked Society](https://takshashila.org.in/content/publications/20170117-Individual-Liberty-vs-Public-Security-in-a-RNS.html){target="_blank"}
+
+**Publication** · Book Chapter · Jan 2017
+:::
+
+::: {.writing-item}
+[ICT Governance Agenda for BRICS: An Eightfold Path](https://takshashila.org.in/content/publications/20150531-ICT-Governance-Agenda-For-BRICS.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · May 2015
+:::
+
+::: {.writing-item}
+[Errors of Omission and Commission: How VLSI Relates to Subsidies](https://pramaanik.wordpress.com/2014/07/07/errors-of-omission-and-commission-how-vlsi-relates-to-subsidies/){target="_blank"}
+
+**Blog** · Jul 2014
+:::

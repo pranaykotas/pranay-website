@@ -43,6 +43,16 @@ website:
         menu:
           - text: "Semiconductor Geopolitics"
             href: topics/semiconductor-geopolitics.qmd
+          - text: "Critical Minerals"
+            href: topics/critical-minerals.qmd
+          - text: "Technology Geopolitics"
+            href: topics/technology-geopolitics.qmd
+          - text: "India Foreign Policy"
+            href: topics/india-foreign-policy.qmd
+          - text: "Public Policy"
+            href: topics/public-policy.qmd
+          - text: "Public Finance"
+            href: topics/public-finance.qmd
       - text: "Projects"
         menu:
           - text: "All Projects"

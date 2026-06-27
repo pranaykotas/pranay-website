@@ -1,0 +1,128 @@
+---
+title: "Critical Minerals"
+description: "Rare earths, supply chain dependencies, and the geopolitics of non-fuel minerals"
+toc: true
+toc-depth: 2
+---
+
+Critical minerals — rare earths, lithium, cobalt, gallium, germanium — underpin everything from electric vehicles to defence systems. I research how mineral supply chains create geopolitical leverage, why China's dominance is less permanent than assumed, and what India's mineral strategy should look like.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Key claim
+
+By December 2028, China will lose its geopolitical leverage from rare earths dominance. The strategic importance of these materials will decline, and China will begin diluting its export controls. [Read more →](../big-ideas.html)
+:::
+
+::: {.topic-hero-card}
+### Related tracker
+
+Critical minerals supply chains are closely linked to semiconductor manufacturing. See the [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) for the downstream impact.
+:::
+
+:::
+
+## Talks & Slides
+
+::: {.talk-card}
+### The Geopolitics of Critical Minerals
+**Event:** A Talk at National Defence College, New Delhi
+
+**Date:** March 10, 2026
+
+[Download slides →](../assets/slides/NDC-2026.pdf){.btn .btn-primary target="_blank"}
+:::
+
+## Selected Writings
+
+15 pieces across blog posts, op-eds, and publications.
+
+::: {.writing-item}
+[Letâs make critical minerals deal work](https://hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jun 5, 2026
+:::
+
+::: {.writing-item}
+[Chinaâs critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
+
+**Op-ed** · Thinkchina · Apr 21, 2026
+:::
+
+::: {.writing-item}
+[Sand Slipping Through Fingers](https://takshashila.org.in/content/publications/China-Ga-Ge-Export-Restrictions-29032026.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document 2026-09. · with Amit Kumar · Mar 2026
+:::
+
+::: {.writing-item}
+[Rare earths sector can do with recycling thrust](https://www.hindustantimes.com/opinion/rare-earths-sector-can-do-with-recycling-thrust-101769970010181.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Feb 2026
+:::
+
+::: {.writing-item}
+[India Should Double Down on Rare Earth Recycling](https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Tannmay Kumarr Baid and Narayan Ramachandran · Jan 2026
+:::
+
+::: {.writing-item}
+[India is talking about critical minerals. But do we have a plan?](https://www.indianexpress.com/article/opinion/columns/critical-minerals-pax-silica-donald-trump-10482197/){target="_blank"}
+
+**Op-ed** · Indian Express · Jan 2026
+:::
+
+::: {.writing-item}
+[The Geopolitics of Critical Minerals](https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Rare earths in India, Bridging the gaps to ensure sufficiency](https://www.hindustantimes.com/opinion/rare-earths-in-india-bridging-the-gaps-to-ensure-sufficiency-101764605571306.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2025
+:::
+
+::: {.writing-item}
+[Pakistan is bluffing. There's no proof for $6 trillion mineral wealth claim](https://theprint.in/opinion/pakistan-bluffing-6-trillion-mineral-wealth/2780538/){target="_blank"}
+
+**Op-ed** · The Print · Nov 2025
+:::
+
+::: {.writing-item}
+[Seven Points Worth Thinking About China's Gameplay on Rare Earths](https://takshashila.org.in/content/blogs/20251020-seven-points-worth-thinking-about-chinas-gameplay-on-rare-earths.html){target="_blank"}
+
+**Blog** · Oct 2025
+:::
+
+::: {.writing-item}
+[Beijing's rare earth playbook is tired. It's time India wrote its own](https://timesofindia.indiatimes.com/blogs/toi-edit-page/beijings-rare-earth-playbook-is-tired-its-time-india-wrote-its-own/){target="_blank"}
+
+**Op-ed** · Times of India · Oct 2025
+:::
+
+::: {.writing-item}
+[Tracks Without Trains](https://www.thehindu.com/opinion/op-ed/tracks-without-trains/article70134580.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Oct 2025
+:::
+
+::: {.writing-item}
+[China's moves must recast India's critical minerals push](https://www.thehindu.com/opinion/op-ed/chinas-moves-must-recast-indias-critical-minerals-push/article69128387.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Jan 2025
+:::
+
+::: {.writing-item}
+[The Rare Earth Elements Opportunity for India](https://takshashila.org.in/content/publications/20230131-The-Rare-Earth-Elements-Opportunity-for-India.html){target="_blank"}
+
+**Publication** · Takshashila Issue Brief · with Shrikrishna Upadhyaya · Jan 2023
+:::
+
+::: {.writing-item}
+[Takshashila Policy Advisory - Comments on NITI Aayogâs Draft Battery Swapping Policy](https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayogâs-Draft-Battery-Swapping-Policy.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Jun 2022
+:::

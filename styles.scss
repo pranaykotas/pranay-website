@@ -996,6 +996,40 @@ hr {
   font-family: $font-family-sans-serif !important;
 }
 
+// ── Topic page writing items ─────────────────────────────────────
+.writing-item {
+  border-left: 2px solid #E2E8F0;
+  padding: 0.5rem 0 0.5rem 1rem;
+  margin: 0.35rem 0;
+  transition: border-left-color 0.15s;
+
+  &:hover {
+    border-left-color: $accent;
+  }
+
+  p:first-child {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+
+    a {
+      color: $primary;
+      font-weight: 500;
+
+      &:hover {
+        color: $accent;
+      }
+    }
+  }
+
+  p:last-child {
+    margin: 0.15rem 0 0 0;
+    font-size: 0.78rem;
+    color: $secondary;
+    font-family: $font-family-sans-serif;
+  }
+}
+
 // ── Field Notes ──────────────────────────────────────────────────
 .field-notes-filters {
   display: flex;

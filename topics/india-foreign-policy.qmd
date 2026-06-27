@@ -1,0 +1,740 @@
+---
+title: "India Foreign Policy"
+description: "India's neighbourhood policy, the Quad, great power dynamics, and strategic autonomy"
+toc: true
+toc-depth: 2
+---
+
+India's foreign policy operates at the intersection of strategic autonomy, neighbourhood management, and great power alignment. I write on India's relations with China, Pakistan, and the countries of the Indian subcontinent, the Quad and Indo-Pacific strategy, and how domestic political economy shapes foreign policy choices.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Newsletter
+
+The *Matsyanyaaya* section of [Anticipating the Unintended](../newsletter.html) covers India's foreign policy and geopolitics every week.
+:::
+
+::: {.topic-hero-card}
+### Book
+
+[*Missing in Action*](../books.html) (Penguin India, 2023) includes chapters on India's foreign policy frameworks and how to think about national interest.
+:::
+
+:::
+
+## Talks & Slides
+
+::: {.talk-card}
+### The Situation in the Strait of Hormuz and Its Potential Impact on India
+**Event:** [Indian Danish Chamber of Commerce — Quarterly Seminar](https://app.glueup.com/event/idcc-quarterly-seminar-the-situation-in-the-strait-of-hormuz-and-its-potential-impact-on-india-182019/)
+
+**Date:** June 2026
+
+[Download slides →](../assets/slides/india_resilience_idcc--2-.pdf){.btn .btn-primary target="_blank"}
+:::
+
+## Selected Writings
+
+117 pieces across blog posts, op-eds, and publications.
+
+::: {.writing-item}
+[Chinaâs critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
+
+**Op-ed** · Thinkchina · Apr 21, 2026
+:::
+
+::: {.writing-item}
+[Should the US Sell Advanced GPUs to China? An Indian Perspective](https://takshashila.org.in/content/publications/20260429-Nvidia-and-China-India.html){target="_blank"}
+
+**Publication** · Takshashila Issue Brief 2026-15. · Apr 2026
+:::
+
+::: {.writing-item}
+[An Analysis of the India-EU Technology Action Agenda](https://takshashila.org.in/content/blogs/20260130-science-magazine-india-eu-response.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Challenges and Opportunities for India-Japan Semiconductor Collaboration](https://takshashila.org.in/content/blogs/20260109-challenges-opportunities-for-india-japan-semiconductor-collaboration.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[The Reported Solutions for Allowing Chinese Investment in India](https://takshashila.org.in/content/blogs/20260105-the-reported-solutions-for-allowing-chinese-investment-in-india.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Pakistan is bluffing. There's no proof for $6 trillion mineral wealth claim](https://theprint.in/opinion/pakistan-bluffing-6-trillion-mineral-wealth/2780538/){target="_blank"}
+
+**Op-ed** · The Print · Nov 2025
+:::
+
+::: {.writing-item}
+[China Doubles Down on Weaponising Antitrust Regulations](https://takshashila.org.in/content/blogs/20251103-china-doubles-down-on-weaponising-antitrust-regulations.html){target="_blank"}
+
+**Blog** · Nov 2025
+:::
+
+::: {.writing-item}
+[Seven Points Worth Thinking About China's Gameplay on Rare Earths](https://takshashila.org.in/content/blogs/20251020-seven-points-worth-thinking-about-chinas-gameplay-on-rare-earths.html){target="_blank"}
+
+**Blog** · Oct 2025
+:::
+
+::: {.writing-item}
+[What India and Canada Can Do Together](https://takshashila.org.in/content/blogs/20251010-What-India-Canada-Tech-Partnership.html){target="_blank"}
+
+**Blog** · Oct 2025
+:::
+
+::: {.writing-item}
+[US, China bully India in global market. Delhi must get its own instruments of leverage](https://theprint.in/opinion/us-china-india-global-market-delhi-instruments-leverage/2751689/){target="_blank"}
+
+**Op-ed** · The Print · Sep 2025
+:::
+
+::: {.writing-item}
+[Yo-yoing is the New Normal](https://takshashila.org.in/content/blogs/20250908-India-US-Tariffs.html){target="_blank"}
+
+**Blog** · Sep 2025
+:::
+
+::: {.writing-item}
+[Digital Strategic Autonomy: The Case for an EU-India Open Tech Maitri](https://indiasworld.in/digital-strategic-autonomy-the-case-for-an-eu-india-open-tech-maitri/){target="_blank"}
+
+**Op-ed** · India's World · Sep 2025
+:::
+
+::: {.writing-item}
+[The Iranian Bomb That Wasn't](https://takshashila.org.in/content/blogs/20250721-Irans-bomb-that-wasnt.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[Towards techno-strategic autonomy: India should spearhead an Open Technology Maitri](https://indiasworld.in/towards-techno-strategic-autonomy-india-should-spearhead-an-open-technology-maitri/){target="_blank"}
+
+**Op-ed** · India's World · Mar 2025
+:::
+
+::: {.writing-item}
+[Digging Deep: Tunnel Boring Machines and India's China Challenge](https://takshashila.org.in/content/blogs/digging-deep.html){target="_blank"}
+
+**Blog** · Jan 2025
+:::
+
+::: {.writing-item}
+[Why India needs a Techno-strategic Doctrine](https://indiasworld.in/why-india-needs-a-techno-strategic-doctrine/){target="_blank"}
+
+**Op-ed** · India's World · Dec 2024
+:::
+
+::: {.writing-item}
+[Environmental Cooperation: An Imperative for Subcontinental Thinking](https://takshashila.org.in/content/publications/20241023-environmental-cooperation.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Adya Madhavan, Nitin Pai, Anand Arni, Y. Nithiyanandam · Oct 2024
+:::
+
+::: {.writing-item}
+[A practical agenda for India-Australia semiconductor collaboration](https://www.aspistrategist.org.au/a-practical-agenda-for-india-australia-semiconductor-collaboration/){target="_blank"}
+
+**Op-ed** · ASPI – The Strategist · Apr 2024
+:::
+
+::: {.writing-item}
+[Pannun case: Time to reimagine spy agency for Information Age](https://timesofindia.indiatimes.com/india/pannun-case-time-to-reimagine-spy-agency-for-information-age/articleshow/106237265.cms){target="_blank"}
+
+**Op-ed** · Times of India · Dec 2023
+:::
+
+::: {.writing-item}
+[The Techno-Economic Impact of the Israel-Hamas War](https://takshashila.org.in/content/publications/20231206-The-Techno-Economic-Impact-of-the-Israel-Hamas-war.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · with Aditya Ramanathan, Sarthak Pradhan, Satya Shoova Sahu · Dec 2023
+:::
+
+::: {.writing-item}
+[A road map to propel US-India chips push](https://www.hindustantimes.com/opinion/a-road-map-to-propel-us-india-chips-push-101686632430523.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jun 2023
+:::
+
+::: {.writing-item}
+[Interrogating Power and Legitimacy in the Information Age from an Indian Perspective](https://takshashila.org.in/content/publications/20230515-Interrogating-Power-and-Legitimacy-in-the-Information-Age-from-an-Indian-Perspective.html){target="_blank"}
+
+**Publication** · Book Chapter · with Nitin Pai · May 2023
+:::
+
+::: {.writing-item}
+[Time to Launch the US-India Trade Relationship into Another Orbit](https://takshashila.org.in/content/publications/20230515-time-to-launch-the-us-india-trade-relationship-into-another-orbit.html){target="_blank"}
+
+**Publication** · Takshashila Publication · May 2023
+:::
+
+::: {.writing-item}
+[MEA needs more hands on deck quickly. It must consider surge hiring](https://www.hindustantimes.com/opinion/indias-foreign-policy-capacity-surge-hiring-strategy-needed-for-a-high-stakes-game-101682946542459.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · May 2023
+:::
+
+::: {.writing-item}
+[India's Defence Budget: As Border Tensions With China Simmer, Can Govt Level Up?](https://www.thequint.com/voices/opinion/indias-defence-budget-as-border-tensions-with-china-simmer-can-govt-level-up){target="_blank"}
+
+**Op-ed** · The Quint · Jan 2023
+:::
+
+::: {.writing-item}
+[India's Russia problem will grow: Locked out of semiconductor supply, Moscow will be hard-pressed to fulfil New Delhi's military needs](https://timesofindia.indiatimes.com/blogs/toi-edit-page/indias-russia-problem-will-grow-locked-out-of-semiconductor-supply-moscow-will-be-hard-pressed-to-fulfil-new-delhis-military-needs/){target="_blank"}
+
+**Op-ed** · Times of India · Sep 2022
+:::
+
+::: {.writing-item}
+[What the Quad must do to build a resilient semiconductor chain](https://timesofindia.indiatimes.com/blogs/toi-edit-page/3-ideas-for-4-countries-hunting-for-chips-what-the-quad-must-do-to-build-a-resilient-semiconductor-chain/){target="_blank"}
+
+**Op-ed** · Times of India · May 2022
+:::
+
+::: {.writing-item}
+[Complement to Succeed: A Case for India-Taiwan Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20220503-A-Case-for-India-Taiwan-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Taiwan Asia Exchange Foundation · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[The Semiconductor Question in the Russia-Ukraine Conflict](https://takshashila.org.in/content/publications/20220324-The-Semiconductor-Question-in-the-Russia-Ukraine-Conflict.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Arjun Gargeyas and Aditya Prateek · Mar 2022
+:::
+
+::: {.writing-item}
+[Ukraine: India must look beyond Russia](https://www.hindustantimes.com/opinion/ukraine-india-must-look-beyond-russia-101647271666342.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Mar 2022
+:::
+
+::: {.writing-item}
+[The Quad Makes the First Siliconpolitik Move](https://www.isas.nus.edu.sg/papers/the-quad-makes-the-first-siliconpolitik-move/){target="_blank"}
+
+**Op-ed** · ISAS, National University of Singapore · Oct 2021
+:::
+
+::: {.writing-item}
+[In Quad's Semiconductor Gambit against China, India Stands to Gain](https://news18.com/news/opinion/in-quads-semiconductor-gambit-against-china-india-stands-to-gain-4245311.html){target="_blank"}
+
+**Op-ed** · News18 · Sep 2021
+:::
+
+::: {.writing-item}
+[The Taliban Government and What it Means for India](https://timesofindia.indiatimes.com/blogs/voices/pak-run-taliban-can-be-even-worse-this-time-kabuls-new-govt-will-want-to-remake-afghanistan-expect-some-steadfast-domestic-rebellion/){target="_blank"}
+
+**Op-ed** · Times of India · Sep 2021
+:::
+
+::: {.writing-item}
+[Pak's Generals and Af's Taliban: New Delhi should know Islamabad's military-jihadi complex will ruthlessly use Kabul](https://timesofindia.indiatimes.com/blogs/voices/paks-generals-afs-taliban-new-delhi-should-know-islamabads-military-jihadi-complex-will-ruthlessly-use-kabul){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2021
+:::
+
+::: {.writing-item}
+[What Taliban's victory means for Pakistan and therefore India](https://timesofindia.indiatimes.com/blogs/voices/what-talibans-victory-means-for-pakistan-and-therefore-india/){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2021
+:::
+
+::: {.writing-item}
+[What are India's options for deploying peace-keeping troops in Afghanistan?](https://www.telegraphindia.com/opinion/what-are-india-options-for-deploying-peace-keeping-troops-in-afghanistan/cid/1747920){target="_blank"}
+
+**Op-ed** · Telegraph India · Aug 2021
+:::
+
+::: {.writing-item}
+[Siliconpolitik: The Case for a Quad Semiconductor Partnership](https://takshashila.org.in/content/publications/20210427-Siliconpolitik-The-Case-for-a-Quad-Semiconductor-Partnership.html){target="_blank"}
+
+**Publication** · ISAS Working Paper · Apr 2021
+:::
+
+::: {.writing-item}
+[The Next Step for Quad: A Dialogue on High Tech](https://www.hindustantimes.com/analysis/the-next-step-for-quad-a-dialogue-on-high-tech/story-zuVC4Xv9axbCKSdRbsFqJL.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2020
+:::
+
+::: {.writing-item}
+[The world is changing. India needs to get its priorities right](https://www.hindustantimes.com/analysis/the-world-is-changing-india-needs-to-get-its-priorities-right/story-efnmKpYckKUMegDkrUzf7M.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2020
+:::
+
+::: {.writing-item}
+[Constraining the Pakistani Military-Jihadi Complex in a Post-COVID World](https://takshashila.org.in/content/publications/20201005-Constraining-the-Pakistani-Military-Jihadi-Complex-In-a-Post-COVID-World.html){target="_blank"}
+
+**Publication** · CLAWS Journal Article · Oct 2020
+:::
+
+::: {.writing-item}
+[Pakistan's Two-Pronged Game in Kabul](https://thewire.in/external-affairs/pakistans-two-pronged-game-in-kabul){target="_blank"}
+
+**Op-ed** · The Wire · Sep 2020
+:::
+
+::: {.writing-item}
+[COVID-19 Warrants Long Overdue Doctrinal Shifts in Military Planning](https://takshashila.org.in/content/publications/20200902-COVID-19-Warrants-Long-Overdue-Doctrinal-Shifts-in-Military-Planning.html){target="_blank"}
+
+**Publication** · IPPR Journal Article · Sep 2020
+:::
+
+::: {.writing-item}
+[National Security Preparedness & Planning for COVID-19](https://takshashila.org.in/content/publications/20200616-National-Security-Plan-for-COVID19.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · Jun 2020
+:::
+
+::: {.writing-item}
+[India's Bargaining Power with China and US will Grow in Post Covid World](https://theprint.in/opinion/indias-bargaining-power-with-china-and-us-will-grow-in-post-covid-world/420395/){target="_blank"}
+
+**Op-ed** · The Print · May 2020
+:::
+
+::: {.writing-item}
+[India in the Post COVID-19 World Order](https://takshashila.org.in/content/publications/20200507-India-post-Covid-World-Order.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · May 2020
+:::
+
+::: {.writing-item}
+[China's Foreign Policy in the Post-Covid World Order: An Assessment](https://takshashila.org.in/content/publications/20200429-China-Foreign-Policy-in-the-Post-Covid-World-Order.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Apr 2020
+:::
+
+::: {.writing-item}
+[The Economics and Politics of Pakistan's COVID-19 Response](https://takshashila.org.in/content/publications/20200328-TSA-Pakistan-Covid19.html){target="_blank"}
+
+**Publication** · Takshashila Strategic Assessment · Mar 2020
+:::
+
+::: {.writing-item}
+[On US President Trump's India Visit](https://theprint.in/talk-point/will-the-spectacle-of-trump-visit-without-a-trade-deal-boost-india-us-ties/367893/){target="_blank"}
+
+**Op-ed** · The Print · Feb 2020
+:::
+
+::: {.writing-item}
+[The Battle in Pakistan's Military-Jihadi Complex](https://www.telegraphindia.com/opinion/the-battle-in-pakistans-military-jihadi-complex/cid/1726007){target="_blank"}
+
+**Op-ed** · Telegraph India · Dec 2019
+:::
+
+::: {.writing-item}
+[Crystal Gazing into Afghanistan's Political Future](https://www.telegraphindia.com/opinion/crystal-gazing-into-afghanistans-political-future/cid/1718759){target="_blank"}
+
+**Op-ed** · Telegraph India · Nov 2019
+:::
+
+::: {.writing-item}
+[The opinion of Western liberals or conservatives is inconsequential for the J&K situation](https://theprint.in/talk-point/modi-govt-allows-mostly-far-right-eu-mps-jk-smart-diplomacy-counter-western-liberals/312859/){target="_blank"}
+
+**Op-ed** · The Print · Oct 2019
+:::
+
+::: {.writing-item}
+[Howdy Modi: Does it serve India's diplomatic interests?](https://theprint.in/talk-point/is-it-smart-diplomacy-for-pm-modi-to-align-himself-with-donald-trumps-campaign-in-houston/295582/){target="_blank"}
+
+**Op-ed** · The Print · Sep 2019
+:::
+
+::: {.writing-item}
+[A Human Capital Investment Model for India's National Security System](https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India's-National-Security-System.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Sep 2019
+:::
+
+::: {.writing-item}
+[Neither is Russia a reliable friend nor is US a fickle one](https://theprint.in/talk-point/modi-macron-embrace-does-india-have-permanent-friends-or-is-every-alliance-strategic/281108/){target="_blank"}
+
+**Op-ed** · The Print · Aug 2019
+:::
+
+::: {.writing-item}
+[पूर्वी पड़ोसी के साथ रिश्तों की नई पहल](https://www.patrika.com/opinion/this-is-good-news-for-india-bangladesh-relations-4113190/){target="_blank"}
+
+**Op-ed** · Patrika · Jun 2019
+:::
+
+::: {.writing-item}
+[Misguided Talks With the Taliban Won't Bring Peace to Afghanistan](https://thewire.in/south-asia/taliban-afghanistan-peace-talks){target="_blank"}
+
+**Op-ed** · The Wire · May 2019
+:::
+
+::: {.writing-item}
+[Misguided Talks With the Taliban Won't Bring Peace to Afghanistan](https://m.thewire.in/article/south-asia/taliban-afghanistan-peace-talks){target="_blank"}
+
+**Op-ed** · The Wire · May 2019
+:::
+
+::: {.writing-item}
+[Foreign Policy: Time to Be a Major Player](https://www.thinkpragati.com/think/manifesto/7504/foreign-policy-time-to-be-a-major-player){target="_blank"}
+
+**Op-ed** · ThinkPragati · May 2019
+:::
+
+::: {.writing-item}
+[Why Pakistan's Deep State Needs Jaish-e-Mohammad and Masood Azhar](https://www.telegraphindia.com/opinion/why-pakistan-s-deep-state-needs-jaish-e-mohammad-and-masood-azhar/cid/1686425){target="_blank"}
+
+**Op-ed** · Telegraph India · Mar 2019
+:::
+
+::: {.writing-item}
+[Ten Takeaways from the Recent India-Pakistan Escalation](https://theprint.in/opinion/what-pulwama-balakot-proves-a-third-actor-can-still-push-india-and-pakistan-into-a-war/201095/){target="_blank"}
+
+**Op-ed** · The Print · Mar 2019
+:::
+
+::: {.writing-item}
+[How India Should Respond to Donald Trump's Barbs on Afghanistan](https://thewire.in/diplomacy/india-donald-trump-barb-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Jan 2019
+:::
+
+::: {.writing-item}
+[How India Should Respond to Donald Trump's Barbs on Afghanistan](https://m.thewire.in/article/diplomacy/india-donald-trump-barb-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Jan 2019
+:::
+
+::: {.writing-item}
+[India's External Intelligence Agency: Managing the Human Resources Challenge](https://takshashila.org.in/content/publications/20190117-TDD-Managing-the-HR-Challenge.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jan 2019
+:::
+
+::: {.writing-item}
+[We Live in Multiple Neighbourhoods](https://www.thinkpragati.com/2018-in-review/6634/we-live-in-multiple-neighbourhoods/){target="_blank"}
+
+**Op-ed** · ThinkPragati · Jan 2019
+:::
+
+::: {.writing-item}
+[India Will Stay Relevant in Afghanistan, Taliban or No Taliban](https://www.telegraphindia.com/opinion/india-will-stay-relevant-in-afghanistan-taliban-or-no-taliban/cid/1676150){target="_blank"}
+
+**Op-ed** · Telegraph India · Nov 2018
+:::
+
+::: {.writing-item}
+[India will stay relevant in Afghanistan, Taliban or no Taliban](https://www.telegraphindia.com/opinion/india-will-stay-relevant-in-afghanistan-taliban-or-no-taliban/cid/1676150){target="_blank"}
+
+**Op-ed** · Telegraph India · Nov 2018
+:::
+
+::: {.writing-item}
+[Time to Shift Gears on Afghanistan](https://www.thinkpragati.com/opinion/2175/time-shift-gears-afghanistan){target="_blank"}
+
+**Op-ed** · ThinkPragati · Nov 2018
+:::
+
+::: {.writing-item}
+[Israel, States, and India](https://www.thinkpragati.com/opinion/1826/israel-states-india){target="_blank"}
+
+**Op-ed** · ThinkPragati · Oct 2018
+:::
+
+::: {.writing-item}
+[Time to refresh the Afghan relationship](https://www.thehindu.com/opinion/columns/time-to-refresh-afghan-relationship/article7785267.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Oct 2018
+:::
+
+::: {.writing-item}
+[Here are 3 ways Imran Khan can fix Naya Pakistan's terrible economic woes](https://theprint.in/opinion/here-are-3-ways-imran-khan-can-fix-naya-pakistans-terrible-economic-woes/102232){target="_blank"}
+
+**Op-ed** · The Print · Oct 2018
+:::
+
+::: {.writing-item}
+[Deriving India's Strategies for a New World Order](https://takshashila.org.in/content/publications/20180709-TDD-Indias-Strategies-New-World-Order.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jul 2018
+:::
+
+::: {.writing-item}
+[Don't Ignore External Affairs](https://www.thinkpragati.com/opinion/3382/dont-ignore-external-affairs){target="_blank"}
+
+**Op-ed** · ThinkPragati · Feb 2018
+:::
+
+::: {.writing-item}
+[Ingredients of a New World Order](https://www.thinkpragati.com/opinion/2694/ingredients-new-world-order){target="_blank"}
+
+**Op-ed** · ThinkPragati · Nov 2017
+:::
+
+::: {.writing-item}
+[India and the World Order](https://www.thinkpragati.com/bookshelf/2501/india-world-order){target="_blank"}
+
+**Op-ed** · ThinkPragati · Oct 2017
+:::
+
+::: {.writing-item}
+[Anticipating Pakistan's Next Moves in Afghanistan](https://thewire.in/72838/anticipating-pakistans-next-moves-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Oct 2017
+:::
+
+::: {.writing-item}
+[The Other Pakistan: Understanding the Military-Jihadi Complex](https://takshashila.org.in/content/publications/20170917-TDC-The-other-Pakistan.html){target="_blank"}
+
+**Publication** · Book Chapter · Sep 2017
+:::
+
+::: {.writing-item}
+[A Framework to Model the India-Pakistan Conflict Escalation](https://takshashila.org.in/content/publications/20170614-The-India-Pakistan-conflict-escalation-framework.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Jun 2017
+:::
+
+::: {.writing-item}
+[Pakistan's Two-Pronged Game in Kabul](https://m.thewire.in/article/news/pakistans-two-pronged-game-in-kabul){target="_blank"}
+
+**Op-ed** · The Wire · Jun 2017
+:::
+
+::: {.writing-item}
+[Spare a thought for Kashmir](https://www.thehindu.com/thread/politics-and-policy/article8991344.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Apr 2017
+:::
+
+::: {.writing-item}
+[The Sinister History of the ISI](https://www.thinkpragati.com/bookshelf/535/the-sinister-history-of-the-isi){target="_blank"}
+
+**Op-ed** · ThinkPragati · Mar 2017
+:::
+
+::: {.writing-item}
+[Choosing Between Taliban and ISIS: A Dangerous False Dilemma](https://m.thewire.in/article/south-asia/choosing-between-taliban-and-isis-a-dangerous-false-dilemma){target="_blank"}
+
+**Op-ed** · The Wire · Feb 2017
+:::
+
+::: {.writing-item}
+[India, Iran, Russia and Afghanistan: Have Interests Diverged?](https://thewire.in/89722/india-iran-russia-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Dec 2016
+:::
+
+::: {.writing-item}
+[Are India, Iran and Russia Parting Ways on Afghanistan?](https://m.thewire.in/article/news/india-iran-russia-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Dec 2016
+:::
+
+::: {.writing-item}
+[Analysing India Post-Uri Through a Conflict Escalation Framework](https://takshashila.org.in/content/publications/20161201-Analysing-India-Post-Uri-Through-a-Conflict-Escalation-Framework.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · Dec 2016
+:::
+
+::: {.writing-item}
+[A South Asian Manifesto for the Next U.S. President](https://southasianvoices.org/south-asian-manifesto-next-u-s-president/){target="_blank"}
+
+**Op-ed** · South Asian Voices (Stimson Center) · Nov 2016
+:::
+
+::: {.writing-item}
+[Anticipating Pakistan's Next Moves in Afghanistan](https://m.thewire.in/article/news/anticipating-pakistans-next-moves-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Oct 2016
+:::
+
+::: {.writing-item}
+[Balochistan and the 'India' Factor in Pakistan's Civil-Military Equation](https://m.thewire.in/article/south-asia/balochistan-india-factor-pakistans-civil-military-equation){target="_blank"}
+
+**Op-ed** · The Wire · Sep 2016
+:::
+
+::: {.writing-item}
+[The Ins and Outs of the India-US-Afghanistan Trilateral Dialogue](https://m.thewire.in/article/news/the-ins-and-outs-of-the-india-us-afghanistan-trilateral-dialogue){target="_blank"}
+
+**Op-ed** · The Wire · Sep 2016
+:::
+
+::: {.writing-item}
+[Responding to the US Outreach in Afghanistan](https://thewire.in/61309/india-us-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Aug 2016
+:::
+
+::: {.writing-item}
+[India, US Collaboration In Afghanistan Could Herald Change for Region](https://m.thewire.in/article/news/india-us-afghanistan){target="_blank"}
+
+**Op-ed** · The Wire · Aug 2016
+:::
+
+::: {.writing-item}
+[Seven Steps India Must Take to Help Afghanistan in Its War for Survival](https://thewire.in/2016/06/04/seven-steps-india-must-take-to-help-afghanistan-in-its-war-for-survival-40400){target="_blank"}
+
+**Op-ed** · The Wire · Jun 2016
+:::
+
+::: {.writing-item}
+[Talks about talks with Pakistan](https://www.livemint.com/opinion/5uej7mgz2rjqriorxkvini/talks-about-talks-with-pakistan.html){target="_blank"}
+
+**Op-ed** · Mint · Jan 2016
+:::
+
+::: {.writing-item}
+[Takshashila Discussion Document - Sustained Dialogue Process as Indiaâs Pakistan Policy: An assessment](https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-Indiaâs-Pakistan-Policy.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Jan 2016
+:::
+
+::: {.writing-item}
+[Sustained Dialogue Process as India's Pakistan Policy: An Assessment](https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-India's-Pakistan-Policy.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jan 2016
+:::
+
+::: {.writing-item}
+[The Looming United States Pivot Towards Containing China's Influence](https://takshashila.org.in/content/publications/20150824-US-containment-of-China's-influence.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Aug 2015
+:::
+
+::: {.writing-item}
+[The India-Pakistan Conflict Escalation Framework](https://takshashila.org.in/content/publications/20150726-India-Pakistan-conflict-escalation-framework.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jul 2015
+:::
+
+::: {.writing-item}
+[What Value Does BRICS Really Add to India](https://www.ndtv.com/opinion/what-value-does-brics-really-add-to-india-779833){target="_blank"}
+
+**Op-ed** · NDTV · Jul 2015
+:::
+
+::: {.writing-item}
+[India, and the Taliban's Changing Dynamics](https://www.thehindu.com/opinion/columns/world-view-india-and-the-talibans-changing-dynamics/article7430357.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Jul 2015
+:::
+
+::: {.writing-item}
+[ICT Governance Agenda for BRICS: An Eightfold Path](https://takshashila.org.in/content/publications/20150531-ICT-Governance-Agenda-For-BRICS.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · May 2015
+:::
+
+::: {.writing-item}
+[The Eightfold Path to India's Nuclear Fuel Supply Security](https://takshashila.org.in/content/publications/20150520-The-Eightfold-Path-to-Indias-Nuclear-Fuel-Supply-Security.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · May 2015
+:::
+
+::: {.writing-item}
+[Afghanistan: New Entente in Place?](https://www.thehindu.com/opinion/op-ed/article7024864.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Mar 2015
+:::
+
+::: {.writing-item}
+[The Last Stumbling Block](https://pramaanik.wordpress.com/2015/03/15/the-last-stumbling-block/){target="_blank"}
+
+**Blog** · Mar 2015
+:::
+
+::: {.writing-item}
+[Deciphering the Signals Behind Asad Durrani's Utterances](https://pramaanik.wordpress.com/2015/03/15/deciphering-the-signals-behind-asad-durranis-utterances/){target="_blank"}
+
+**Blog** · Mar 2015
+:::
+
+::: {.writing-item}
+[Pakistan's Depiction in Homeland: Sign of a Deeper Malaise](https://pramaanik.wordpress.com/2015/02/11/pakistans-depiction-in-homeland-sign-of-a-deeper-malaise/){target="_blank"}
+
+**Blog** · Feb 2015
+:::
+
+::: {.writing-item}
+[Good Sugar, Bad Sugar; Good Terrorist, Bad Terrorist](https://pramaanik.wordpress.com/2015/01/10/good-sugar-bad-sugar-good-terrorist-bad-terrorist/){target="_blank"}
+
+**Blog** · Jan 2015
+:::
+
+::: {.writing-item}
+[Afghanistan's Quest for Strategic Autonomy](https://www.livemint.com/Opinion/9xAD9GCNG7XlmoLmHbXHLL/Afghanistans-quest-for-strategic-autonomy.html){target="_blank"}
+
+**Op-ed** · Mint · Dec 2014
+:::
+
+::: {.writing-item}
+[Takshashila Strategic Assessment - Risks to Indiaâs national security from tensions along the Iran-Pakistan border](https://takshashila.org.in/content/publications/20141113-Risks-to-Indiaâs-national-security-from-tensions-along-the-Iran-Pakistan-border.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Nov 2014
+:::
+
+::: {.writing-item}
+[Risks to India's National Security from Tensions Along the Iran-Pakistan Border](https://takshashila.org.in/content/publications/20141113-Risks-to-India's-national-security-from-tensions-along-the-Iran-Pakistan-border.html){target="_blank"}
+
+**Publication** · Takshashila Strategic Assessment · Nov 2014
+:::
+
+::: {.writing-item}
+[A Rousing Rendition of an Iconic Pakistani Poem](https://pramaanik.wordpress.com/2014/10/26/a-rousing-rendition-of-an-iconic-pakistani-poem/){target="_blank"}
+
+**Blog** · Oct 2014
+:::
+
+::: {.writing-item}
+[The lure of legalising bilateral disputes](https://www.business-standard.com/article/opinion/pranay-kotasthane-the-lure-of-legalising-bilateral-disputes-114072201299_1.html){target="_blank"}
+
+**Op-ed** · Business Standard · Jul 2014
+:::
+
+::: {.writing-item}
+[Resolving the Indo-Bangladesh Maritime Dispute](https://takshashila.org.in/content/publications/20140629-TDD-Resolving-Indo-Bangladesh-Maritime-Dispute.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jun 2014
+:::
+
+::: {.writing-item}
+[PoJK: The Geopolitics of Names](https://pramaanik.wordpress.com/2014/06/06/pojk-the-geopolitics-of-names/){target="_blank"}
+
+**Blog** · Jun 2014
+:::
+
+::: {.writing-item}
+[What's Common to Money, Terrorism and Weapons?](https://pramaanik.wordpress.com/2014/05/19/whats-common-to-money-terrorism-and-weapons/){target="_blank"}
+
+**Blog** · May 2014
+:::
+
+::: {.writing-item}
+[Observations on the Kashmir Valley — Part 2](https://pramaanik.wordpress.com/2013/11/13/observations-on-the-kashmir-valley-part-22/){target="_blank"}
+
+**Blog** · Nov 2013
+:::
+
+::: {.writing-item}
+[Observations on the Kashmir Valley — Part 1](https://pramaanik.wordpress.com/2013/11/10/observations-on-the-kashmir-valley-part-1/){target="_blank"}
+
+**Blog** · Nov 2013
+:::
+
+::: {.writing-item}
+[Bangladesh Offers Hope](https://pramaanik.wordpress.com/2013/10/02/bangladesh-offers-hope/){target="_blank"}
+
+**Blog** · Oct 2013
+:::
+
+::: {.writing-item}
+[A Brief About Chinese Cultural Geography](https://pramaanik.wordpress.com/2013/09/19/a-brief-about-chinese-cultural-geography/){target="_blank"}
+
+**Blog** · Sep 2013
+:::

@@ -1,0 +1,739 @@
+---
+title: "Public Policy"
+description: "Indian state capacity, regulation, federalism, political economy, and policy frameworks"
+toc: true
+toc-depth: 2
+---
+
+Public policy is the throughline of all my work. I research India's state capacity puzzles, regulatory quality, competitive federalism, and the political economy of reform. My goal is to make policy frameworks accessible to students, practitioners, and curious readers.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Book
+
+[*Missing in Action: Why You Should Care About Public Policy*](../books.html) (Penguin India, 2023) is a primer on Indian public policy through stories, frameworks, and Bollywood references.
+:::
+
+::: {.topic-hero-card}
+### Frameworks
+
+A plain-language collection of [public policy frameworks](https://frameworks.pranaykotas.com) and mental models for thinking about policy problems.
+:::
+
+:::
+
+## Talks & Slides
+
+::: {.talk-card}
+### Indian Society as a Change Maker
+**Event:** Manthan, Hyderabad
+
+**Date:** September 2020
+
+[Download slides →](../assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
+### Democracy, Constitution, and National Power
+**Event:** Army War College, Mhow
+
+**Date:** March 2026
+
+[Download slides →](../assets/slides/AWC-2026_1.pdf){.btn .btn-primary target="_blank"}
+:::
+
+::: {.talk-card}
+### Why is the Indian State Like This Only?
+**Event:** ClassRoom @ The Conversation Room, Kolkata
+
+**Date:** July 2025
+
+:::
+
+## Selected Writings
+
+114 pieces across blog posts, op-eds, and publications.
+
+::: {.writing-item}
+[The Proposed Lok Sabha Seat ApportionmentâWhat Should the Southern States Really Demand?](https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html){target="_blank"}
+
+**Blog** · Mar 10, 2026
+:::
+
+::: {.writing-item}
+[Democracy, Constitution, and National Power](https://takshashila.org.in/content/blogs/20260406-Constitution-National-Power.html){target="_blank"}
+
+**Blog** · Apr 6, 2026
+:::
+
+::: {.writing-item}
+[Opening the doors for Chinese investment again, with caution](https://hindustantimes.com/opinion/opening-the-doors-for-chinese-investment-again-with-caution-101775056465016.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Apr 2, 2026
+:::
+
+::: {.writing-item}
+[The Real Supply Chain Crisis](https://timesofindia.indiatimes.com/blogs/toi-edit-page/the-real-supply-chain-crisis){target="_blank"}
+
+**Op-ed** · Times of India · Apr 16, 2026
+:::
+
+::: {.writing-item}
+[Strengthening the Indian Republic – Public Policy for High School Students](https://takshashila.org.in/content/blogs/20260208-Neev-Strengthening-Indian-Republic.html){target="_blank"}
+
+**Blog** · Feb 2026
+:::
+
+::: {.writing-item}
+[Public Policy and the Omniabsent State](https://takshashila.org.in/content/blogs/20260109-public-policy-and-the-omniabsent-state.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Social Media's Wake-Up Call](https://takshashila.org.in/content/blogs/20251218-social-medias-wake-up-call.html){target="_blank"}
+
+**Blog** · Dec 2025
+:::
+
+::: {.writing-item}
+[After Bihar, the vote share vs seat share debate is back again. Here's why this matters](https://theprint.in/opinion/after-bihar-the-vote-share-vs-seat-share-debate-is-back-again-heres-why-this-matters/2786993/){target="_blank"}
+
+**Op-ed** · The Print · Nov 2025
+:::
+
+::: {.writing-item}
+[Geopolitics of Bengaluru's Yellow Metro Line](https://takshashila.org.in/content/publications/20250909-Geopolitics-of-Bengalurus-Yellow-Metro-Line.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Tannmay Kumarr Baid · Sep 2025
+:::
+
+::: {.writing-item}
+[Yo-yoing is the New Normal](https://takshashila.org.in/content/blogs/20250908-India-US-Tariffs.html){target="_blank"}
+
+**Blog** · Sep 2025
+:::
+
+::: {.writing-item}
+[Rethinking Proportional Representation](https://takshashila.org.in/content/blogs/20250724-proportional-representation.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[English is the MP3 Format of Scripts](https://takshashila.org.in/content/blogs/20250706-English-mp3-script.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[What TN case tells us about the need to ease Centre-state friction](https://timesofindia.indiatimes.com/blogs/toi-edit-page/what-tn-case-tells-us-about-the-need-to-ease-centre-state-friction/){target="_blank"}
+
+**Op-ed** · Times of India · May 2025
+:::
+
+::: {.writing-item}
+[India isn't competing with China. It's up against many city governments](https://theprint.in/opinion/india-isnt-competing-with-china-its-up-against-many-city-governments/2512907/){target="_blank"}
+
+**Op-ed** · The Print · Feb 2025
+:::
+
+::: {.writing-item}
+[Policy tweaks can push private sector R&D](https://www.deccanherald.com/opinion/policy-tweakscan-push-private-sector-rd-3305698){target="_blank"}
+
+**Op-ed** · Deccan Herald · Dec 2024
+:::
+
+::: {.writing-item}
+[Environmental Cooperation: An Imperative for Subcontinental Thinking](https://takshashila.org.in/content/publications/20241023-environmental-cooperation.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Adya Madhavan, Nitin Pai, Anand Arni, Y. Nithiyanandam · Oct 2024
+:::
+
+::: {.writing-item}
+[Perils of decentralisation with Chinese characteristics](https://www.thehindu.com/opinion/op-ed/perils-of-decentralisation-with-chinese-characteristics/article68631225.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Sep 2024
+:::
+
+::: {.writing-item}
+[Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward](https://takshashila.org.in/content/publications/20240906-Karnataka -16th-Finance-Commission.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Sarthak Pradhan · Sep 2024
+:::
+
+::: {.writing-item}
+[Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward](https://takshashila.org.in/content/publications/20240906-Karnataka-16th-Finance-Commission.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Sarthak Pradhan · Sep 2024
+:::
+
+::: {.writing-item}
+[India's fiscal imbalance isn't a North vs South problem. Here's what lies at the 'centre' of it](https://theprint.in/opinion/indias-fiscal-imbalance-isnt-a-north-vs-south-problem-heres-what-lies-at-the-centre-of-it/2249684/){target="_blank"}
+
+**Op-ed** · The Print · Sep 2024
+:::
+
+::: {.writing-item}
+[India's Climb up the Innovation Ladder: Policy Enablers and Impediments](https://takshashila.org.in/content/publications/20240805-Indias-Climb-up-the-Innovation-Ladder.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Sarthak Pradhan · Aug 2024
+:::
+
+::: {.writing-item}
+[Agnipath 2.0: A solution for armed forces and applicants](https://indianexpress.com/article/opinion/columns/agnipath-solution-for-armed-forces-applicants-9392628/){target="_blank"}
+
+**Op-ed** · Indian Express · Jun 2024
+:::
+
+::: {.writing-item}
+[Dr. Jagdish Chandra Asthana Could Have Been a Good Policy Analyst](https://business.outlookindia.com/economy-and-policy/dr-jagdish-chandra-asthana-could-have-been-a-good-policy-analyst){target="_blank"}
+
+**Op-ed** · Outlook · Jun 2024
+:::
+
+::: {.writing-item}
+[A self-harming stance on digital trade tariffs](https://www.hindustantimes.com/opinion/a-self-harming-stance-on-digital-trade-tariffs-101715177245040.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · May 2024
+:::
+
+::: {.writing-item}
+[Why resource distribution is creating a North-South divide](https://timesofindia.indiatimes.com/blogs/voices/why-resource-distribution-is-creating-a-north-south-divide/){target="_blank"}
+
+**Op-ed** · Times of India · Feb 2024
+:::
+
+::: {.writing-item}
+[Republic Day reminder: Let's reclaim the right to economic freedom](https://timesofindia.indiatimes.com/blogs/voices/republic-day-reminder-lets-reclaim-the-right-to-economic-freedom/){target="_blank"}
+
+**Op-ed** · Times of India · Jan 2024
+:::
+
+::: {.writing-item}
+[Pannun case: Time to reimagine spy agency for Information Age](https://timesofindia.indiatimes.com/india/pannun-case-time-to-reimagine-spy-agency-for-information-age/articleshow/106237265.cms){target="_blank"}
+
+**Op-ed** · Times of India · Dec 2023
+:::
+
+::: {.writing-item}
+[The essence of engineering](https://www.nitinpai.in/2023/09/15/the-essence-of-engineering){target="_blank"}
+
+**Op-ed** · Mint · Sep 2023
+:::
+
+::: {.writing-item}
+[The Laptop Licence: Why are Failed Policies Being Revived Again?](https://timesofindia.indiatimes.com/blogs/voices/laptop-licence-why-are-failed-policies-being-revived-again/){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2023
+:::
+
+::: {.writing-item}
+[Swades sans sacrifice: How to rethink IIT brain drain puzzle](https://timesofindia.indiatimes.com/blogs/voices/swades-sans-sacrifice-how-to-rethink-iit-brain-drain-puzzle/){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2023
+:::
+
+::: {.writing-item}
+[The Case for a G20-Led Climate Change Relocation Insurance System](https://takshashila.org.in/content/publications/20230503-T20PB.html){target="_blank"}
+
+**Publication** · Think20 Policy Brief · May 2023
+:::
+
+::: {.writing-item}
+[MEA needs more hands on deck quickly. It must consider surge hiring](https://www.hindustantimes.com/opinion/indias-foreign-policy-capacity-surge-hiring-strategy-needed-for-a-high-stakes-game-101682946542459.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · May 2023
+:::
+
+::: {.writing-item}
+[What the milk shortage saga tells us about letting government control prices](https://timesofindia.indiatimes.com/blogs/voices/what-the-milk-shortage-saga-tells-us-about-letting-government-control-prices/){target="_blank"}
+
+**Op-ed** · Times of India · Apr 2023
+:::
+
+::: {.writing-item}
+[Clingendael Report â Enhancing IndiaâEU Engagement on âMeta-Criticalâ Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-IndiaâEU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Jan 2023
+:::
+
+::: {.writing-item}
+[Why we shouldn't copy-paste EU's 'one nation, one charger' policy](https://timesofindia.indiatimes.com/blogs/voices/why-we-shouldnt-copy-paste-eus-one-nation-one-charger-policy/){target="_blank"}
+
+**Op-ed** · Times of India · Dec 2022
+:::
+
+::: {.writing-item}
+[An Open Tech Strategy for India](https://takshashila.org.in/content/publications/20221223-open-tech-strategy-for-india.html){target="_blank"}
+
+**Publication** · Takshashila Report · with Nitin Pai · Dec 2022
+:::
+
+::: {.writing-item}
+[Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of Indiaâs Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-Indiaâs-Defence-Financing.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Nov 2022
+:::
+
+::: {.writing-item}
+[Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India's Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Nov 2022
+:::
+
+::: {.writing-item}
+[Neither Guns nor Butter: The Inconvenient Truth of India's Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India's-Defence-Financing.html){target="_blank"}
+
+**Publication** · Book Chapter · Nov 2022
+:::
+
+::: {.writing-item}
+[Why liquor reforms in India are so complicated](https://timesofindia.indiatimes.com/blogs/voices/hic-hic-hiccups-why-liquor-reforms-in-india-are-so-complicated/){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2022
+:::
+
+::: {.writing-item}
+[Takshashila Issue Brief - Killing of al-Zawahiri Raises More Questions than Provides Answers](https://takshashila.org.in/content/publications/20220805-Killing-of-al-Zawahiri-Raises -More-Questions-than-Provides-Answers.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Srikrishna Upadhyaya and Anand Arni · Aug 2022
+:::
+
+::: {.writing-item}
+[Whatever happens with Agnipath scheme, it offers 3 real lessons for future reform](https://theprint.in/opinion/whatever-happens-with-agnipath-scheme-it-offers-3-real-lessons-for-future-reform/1051195/){target="_blank"}
+
+**Op-ed** · The Print · Jul 2022
+:::
+
+::: {.writing-item}
+[Restarting the Post-Pandemic Indian Economy](https://takshashila.org.in/content/publications/20220722-Restarting-the-Post-Pandemic-Indian-Economy.html){target="_blank"}
+
+**Publication** · Takshashila–Hudson Institute Blue Paper · Jul 2022
+:::
+
+::: {.writing-item}
+[How the Defence Pension Bill became a Big Burden](https://www.hindustantimes.com/opinion/how-the-defence-pension-bill-became-a-big-burden-101656081802755.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jun 2022
+:::
+
+::: {.writing-item}
+[Rough Calculations on Agnipath's Pension-Saving Potential show why the Change is Crucial](https://timesofindia.indiatimes.com/blogs/voices/the-rs-34500-crore-argument-rough-calculations-on-agnipaths-pension-saving-potential-show-why-the-change-is-crucial/){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2022
+:::
+
+::: {.writing-item}
+[Now that Agnipath is here, it must be made to work](https://www.nitinpai.in/2022/06/19/now-that-agnipath-is-here-it-must-be-made-to-work){target="_blank"}
+
+**Op-ed** · Mint · Jun 2022
+:::
+
+::: {.writing-item}
+[Comments on NITI Aayog's Draft Battery Swapping Policy](https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog's-Draft-Battery-Swapping-Policy.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Jun 2022
+:::
+
+::: {.writing-item}
+[Harnessing Trade Policy to Build India's Semiconductor Industry](https://takshashila.org.in/content/publications/20220530-Harnessing Trade Policy to Build Indias-Semiconductor-Industry.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[Atmashakti Over Atmanirbharta: Learn Right Lessons from Russia Sanctions](https://timesofindia.indiatimes.com/blogs/voices/atmashakti-not-atmanirbharta-learn-right-lessons-from-russia-sanctions-attempting-self-reliance-in-technology-is-self-defeating/){target="_blank"}
+
+**Op-ed** · Times of India · Mar 2022
+:::
+
+::: {.writing-item}
+[Comments to Parliamentary Standing Committee on Science & Technology (FY 2022-23)](https://takshashila.org.in/content/publications/20220214-Policy-advisory-on-Demand-for-grants-Union-Budget-FY22-23.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Feb 2022
+:::
+
+::: {.writing-item}
+[Why the govt shouldn't decide what you pay for an air ticket](https://timesofindia.indiatimes.com/blogs/voices/why-the-govt-shouldnt-decide-what-you-pay-for-an-air-ticket){target="_blank"}
+
+**Op-ed** · Times of India · Aug 2021
+:::
+
+::: {.writing-item}
+[Managed Reopening After Lockdown: Recommendations for State Governments](https://takshashila.org.in/content/publications/20210614-Managed-Reopening-After-Lockdown.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Jun 2021
+:::
+
+::: {.writing-item}
+[Blaming the government's pandemic response? Do it for the right reasons](https://timesofindia.indiatimes.com/blogs/voices/blaming-the-governments-pandemic-response-do-it-for-the-right-reasons/){target="_blank"}
+
+**Op-ed** · Times of India · May 2021
+:::
+
+::: {.writing-item}
+[Comments to Parliamentary Standing Committee on Science and Technology (FY 2021-22)](https://takshashila.org.in/content/publications/20210311-comments-to-parliamentary-standing-committee-on-science-and-technology-environment-forests-and-climate-change-on-demand-for-grants-dfgs-in-the-budget-for-fy-2021-22.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Mar 2021
+:::
+
+::: {.writing-item}
+[Making State Finance Commissions work](https://www.deccanherald.com/opinion/making-state-finance-commissions-work-955933.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Feb 2021
+:::
+
+::: {.writing-item}
+[House defence panel must ask 4 key questions — from lower expenditure to pension bill](https://theprint.in/opinion/house-defence-panel-must-ask-4-key-questions-from-lower-expenditure-to-pension-bill/606100/){target="_blank"}
+
+**Op-ed** · The Print · Feb 2021
+:::
+
+::: {.writing-item}
+[The world is changing. India needs to get its priorities right](https://www.hindustantimes.com/analysis/the-world-is-changing-india-needs-to-get-its-priorities-right/story-efnmKpYckKUMegDkrUzf7M.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2020
+:::
+
+::: {.writing-item}
+[Managing India's Defence Expenditure Requires a Whole-of-Government Approach](https://theprint.in/opinion/not-fair-to-cut-defence-pay-pensions-and-inject-funds-in-airlines-banks/542965/){target="_blank"}
+
+**Op-ed** · The Print · Nov 2020
+:::
+
+::: {.writing-item}
+[A COVID-19 Vaccine Deployment Strategy for India](https://takshashila.org.in/content/publications/20201105-A-COVID-19-Vaccine-Deployment-Strategy-For-India.html){target="_blank"}
+
+**Publication** · IPPR Journal Article · Nov 2020
+:::
+
+::: {.writing-item}
+[A COVID-19 Vaccine Deployment Strategy for India](https://takshashila.org.in/content/publications/20200904-COVID-19-Vaccine-Deployment-Strategy-for-India.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Slide Doc · with Shambhavi Naik, Ameya Paleja, Mihir Mahajan, Narayan Ramachandran, Sunila Dixit, Rahul Matthan, and Nitin Pai · Sep 2020
+:::
+
+::: {.writing-item}
+[Supplementing State Policing Capacity for COVID-19 Duties](https://takshashila.org.in/content/publications/20200903-Supplementing-Policing-Capacity-for-COVID-19-Duties.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Sep 2020
+:::
+
+::: {.writing-item}
+[COVID-19 Warrants Long Overdue Doctrinal Shifts in Military Planning](https://takshashila.org.in/content/publications/20200902-COVID-19-Warrants-Long-Overdue-Doctrinal-Shifts-in-Military-Planning.html){target="_blank"}
+
+**Publication** · IPPR Journal Article · Sep 2020
+:::
+
+::: {.writing-item}
+[National Security Preparedness & Planning for COVID-19](https://takshashila.org.in/content/publications/20200616-National-Security-Plan-for-COVID19.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · Jun 2020
+:::
+
+::: {.writing-item}
+[India's Bargaining Power with China and US will Grow in Post Covid World](https://theprint.in/opinion/indias-bargaining-power-with-china-and-us-will-grow-in-post-covid-world/420395/){target="_blank"}
+
+**Op-ed** · The Print · May 2020
+:::
+
+::: {.writing-item}
+[India in the Post COVID-19 World Order](https://takshashila.org.in/content/publications/20200507-India-post-Covid-World-Order.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · May 2020
+:::
+
+::: {.writing-item}
+[When Does a Crisis Become a Policy Opportunity?](https://www.deccanherald.com/opinion/coronavirus-turning-a-crisis-into-a-policy-opportunity-829310.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Apr 2020
+:::
+
+::: {.writing-item}
+[The Economics and Politics of Pakistan's COVID-19 Response](https://takshashila.org.in/content/publications/20200328-TSA-Pakistan-Covid19.html){target="_blank"}
+
+**Publication** · Takshashila Strategic Assessment · Mar 2020
+:::
+
+::: {.writing-item}
+[Is India's rising defence pension bill affecting modernisation of military? 5 myths busted](https://theprint.in/opinion/indias-defence-pension-bill-affecting-military-5-myths-busted/379289/){target="_blank"}
+
+**Op-ed** · The Print · Mar 2020
+:::
+
+::: {.writing-item}
+[The Regressive Nature of Central Transfers for Health](https://takshashila.org.in/content/publications/20191219-TWP-Central-Transfers-on-Health-PK-DK-PS-AC-2018-03.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Dec 2019
+:::
+
+::: {.writing-item}
+[The opinion of Western liberals or conservatives is inconsequential for the J&K situation](https://theprint.in/talk-point/modi-govt-allows-mostly-far-right-eu-mps-jk-smart-diplomacy-counter-western-liberals/312859/){target="_blank"}
+
+**Op-ed** · The Print · Oct 2019
+:::
+
+::: {.writing-item}
+[Takshashila Discussion Document - A Human Capital Investment Model for Indiaâs National Security System](https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-Indiaâs-National-Security-System.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Sep 2019
+:::
+
+::: {.writing-item}
+[A Human Capital Investment Model for India's National Security System](https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India's-National-Security-System.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Sep 2019
+:::
+
+::: {.writing-item}
+[Finance Commission's New Problem: A Separate Defence Fund](https://www.deccanherald.com/opinion/finance-commission-s-new-problem-separate-defence-fund-753535.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Aug 2019
+:::
+
+::: {.writing-item}
+[Quality of Service Based Differential Pricing for Data Services](https://takshashila.org.in/content/publications/20190801-Quality-of-Service-Based-Differential-Pricing-for-Data-Services.html){target="_blank"}
+
+**Publication** · Takshashila Policy Advisory · Aug 2019
+:::
+
+::: {.writing-item}
+[संकट में भी छिपे हैं अवसर](https://www.patrika.com/opinion/globalization-chances-are-hidden-in-crisis-3865289/){target="_blank"}
+
+**Op-ed** · Patrika · Jun 2019
+:::
+
+::: {.writing-item}
+[Equity sans reservations: Imagining alternate ways for affirmative action](https://www.firstpost.com/india/look-beyond-quotas-for-equality-6650451.html){target="_blank"}
+
+**Op-ed** · Firstpost · May 2019
+:::
+
+::: {.writing-item}
+[Focus on Voting Security Instead of Just EVM Security](https://www.ozy.com/opinion/its-time-to-trust-electronic-voting-in-the-worlds-largest-democracy/93478){target="_blank"}
+
+**Op-ed** · Ozy · Apr 2019
+:::
+
+::: {.writing-item}
+[India's External Intelligence Agency: Managing the Human Resources Challenge](https://takshashila.org.in/content/publications/20190117-TDD-Managing-the-HR-Challenge.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · Jan 2019
+:::
+
+::: {.writing-item}
+[We Live in Multiple Neighbourhoods](https://www.thinkpragati.com/2018-in-review/6634/we-live-in-multiple-neighbourhoods/){target="_blank"}
+
+**Op-ed** · ThinkPragati · Jan 2019
+:::
+
+::: {.writing-item}
+[Takshashila Working Paper - The Regressive Nature of Central Transfers for Health](https://takshashila.org.in/content/publications/20181219-TWP-Central-Transfers-on-Health.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper 2018-03. · with Devika Kher, Pavan Srinath, and Aashish Chajjer · Dec 2018
+:::
+
+::: {.writing-item}
+[Takshashila Discussion Document - Deriving India's Strategies for a New World Order](https://takshashila.org.in/content/publications/20180709-TDD-Indias-Strategies-New-World-Order-AK-PK-AM-2018-02.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Anupam Manur and Anirudh KanisettI · Jul 2018
+:::
+
+::: {.writing-item}
+[A Qualitative and Quantitative Analysis of Public Health Expenditure in India](https://takshashila.org.in/content/publications/20180705-A-Qualitative-and-Quantitative-Analysis-of-Public-Health-Expenditure-in-India.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Jul 2018
+:::
+
+::: {.writing-item}
+[Why the south-vs-north debate is a flawed way to analyse the 15th Finance Commission formula](https://theprint.in/opinion/why-the-south-vs-north-debate-is-a-flawed-way-to-analyse-the-15th-finance-commission-formula/44706/){target="_blank"}
+
+**Op-ed** · The Print · Mar 2018
+:::
+
+::: {.writing-item}
+[Discard the Emigration Clearance System](https://www.thinkpragati.com/opinion/3239/discard-emigration-system){target="_blank"}
+
+**Op-ed** · ThinkPragati · Jan 2018
+:::
+
+::: {.writing-item}
+[Differentiating Unintended Consequences from Unanticipated Ones: A Policy Framework](https://takshashila.org.in/content/publications/20171219-TWP-Differentiating-Unintended-Consequences-From-Unanticipated-Ones-A-Policy-Framework-VKS-PK-2017-02.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Dec 2017
+:::
+
+::: {.writing-item}
+[Right and Wrong: Ages Past](https://www.thinkpragati.com/opinion/1003/right-wrong-ages-past){target="_blank"}
+
+**Op-ed** · ThinkPragati · Apr 2017
+:::
+
+::: {.writing-item}
+[Trapped in a Municipal Mindset](https://www.thinkpragati.com/opinion/890/trapped-municipal-mindset){target="_blank"}
+
+**Op-ed** · ThinkPragati · Mar 2017
+:::
+
+::: {.writing-item}
+[Individual Liberty vs Public Security in a Radically Networked Society](https://takshashila.org.in/content/publications/20170117-Individual-Liberty-vs-Public-Security-in-a-RNS.html){target="_blank"}
+
+**Publication** · Book Chapter · Jan 2017
+:::
+
+::: {.writing-item}
+[Beyond Distrust: How Should Citizens View Their Government?](https://pramaanik.wordpress.com/2016/11/27/beyond-distrust-how-should-citizens-view-their-government/){target="_blank"}
+
+**Blog** · Nov 2016
+:::
+
+::: {.writing-item}
+[Love thy nation, watch thy government](https://www.thehindu.com/thread/politics-and-policy/article7895966.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Nov 2016
+:::
+
+::: {.writing-item}
+[A South Asian Manifesto for the Next U.S. President](https://southasianvoices.org/south-asian-manifesto-next-u-s-president/){target="_blank"}
+
+**Op-ed** · South Asian Voices (Stimson Center) · Nov 2016
+:::
+
+::: {.writing-item}
+[Karnataka's Changing Fiscal Landscape after the 14th Finance Commission](https://takshashila.org.in/content/publications/20160809-Karnataka-Changing-Fiscal-Landscape-after-FFC.html){target="_blank"}
+
+**Publication** · Economic and Political Weekly · Aug 2016
+:::
+
+::: {.writing-item}
+[A Global Climate Change Relocation Insurance Framework](https://takshashila.org.in/content/publications/20151210-A-Global-Climate-Change-Relocation-Insurance-Framework.html){target="_blank"}
+
+**Publication** · Takshashila Policy Brief · Dec 2015
+:::
+
+::: {.writing-item}
+[The Eightfold Path to India's Nuclear Fuel Supply Security](https://takshashila.org.in/content/publications/20150520-The-Eightfold-Path-to-Indias-Nuclear-Fuel-Supply-Security.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · May 2015
+:::
+
+::: {.writing-item}
+[Shivaji Asaa Hota — This Is Who Shivaji Was](https://pramaanik.wordpress.com/2015/03/15/shivaji-asaa-hota-this-is-who-shivaji-was/){target="_blank"}
+
+**Blog** · Mar 2015
+:::
+
+::: {.writing-item}
+[सामाजिक क्रांति और भारतीय संविधान: एक अद्वितीय प्रयोग](https://pramaanik.wordpress.com/2015/02/11/social-revolution-constitution/){target="_blank"}
+
+**Blog** · Feb 2015
+:::
+
+::: {.writing-item}
+[On Effecting Change](https://pramaanik.wordpress.com/2015/01/19/on-effecting-change/){target="_blank"}
+
+**Blog** · Jan 2015
+:::
+
+::: {.writing-item}
+[The Risks of Conflating Poverty Alleviation with Economic Equality](https://pramaanik.wordpress.com/2015/01/10/the-risks-of-conflating-poverty-alleviation-with-economic-equality/){target="_blank"}
+
+**Blog** · Jan 2015
+:::
+
+::: {.writing-item}
+[Yaadein — یادیں](https://pramaanik.wordpress.com/2015/01/07/yaadein-%DB%8C%D8%A7%D8%AF%DB%8C%DA%BA/){target="_blank"}
+
+**Blog** · Jan 2015
+:::
+
+::: {.writing-item}
+[Raising the Costs of Honking on Bangalore's Roads](https://pramaanik.wordpress.com/2014/10/25/rising-the-costs-of-honking-on-bangalores-roads/){target="_blank"}
+
+**Blog** · Oct 2014
+:::
+
+::: {.writing-item}
+[मापदंड स्वंतंत्रता के](https://pramaanik.wordpress.com/2014/08/15/%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%A6%E0%A4%82%E0%A4%A1-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%82%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87/){target="_blank"}
+
+**Blog** · Aug 2014
+:::
+
+::: {.writing-item}
+[The lure of legalising bilateral disputes](https://www.business-standard.com/article/opinion/pranay-kotasthane-the-lure-of-legalising-bilateral-disputes-114072201299_1.html){target="_blank"}
+
+**Op-ed** · Business Standard · Jul 2014
+:::
+
+::: {.writing-item}
+[Errors of Omission and Commission: How VLSI Relates to Subsidies](https://pramaanik.wordpress.com/2014/07/07/errors-of-omission-and-commission-how-vlsi-relates-to-subsidies/){target="_blank"}
+
+**Blog** · Jul 2014
+:::
+
+::: {.writing-item}
+[The Entertainment Divide](https://pramaanik.wordpress.com/2014/07/04/the-entertainment-divide/){target="_blank"}
+
+**Blog** · Jul 2014
+:::
+
+::: {.writing-item}
+[The Tale of Two Commissions](https://pramaanik.wordpress.com/2014/06/20/the-tale-of-two-commissions/){target="_blank"}
+
+**Blog** · Jun 2014
+:::
+
+::: {.writing-item}
+[Identity Insecurity](https://pramaanik.wordpress.com/2014/06/01/identity-insecurity/){target="_blank"}
+
+**Blog** · Jun 2014
+:::
+
+::: {.writing-item}
+[Everywhere He L...](https://pramaanik.wordpress.com/2014/06/01/everywhere-he-l/){target="_blank"}
+
+**Blog** · Jun 2014
+:::
+
+::: {.writing-item}
+[Can Stereotypes Be Broken?](https://pramaanik.wordpress.com/2014/05/15/can-stereotypes-be-broken/){target="_blank"}
+
+**Blog** · May 2014
+:::
+
+::: {.writing-item}
+[The Traffic Signal Talisman](https://pramaanik.wordpress.com/2014/03/27/the-traffic-signal-talisman/){target="_blank"}
+
+**Blog** · Mar 2014
+:::
+
+::: {.writing-item}
+[Profitability of Public Transport Systems](https://pramaanik.wordpress.com/2014/02/26/profitability-of-public-transport-systems/){target="_blank"}
+
+**Blog** · Feb 2014
+:::
+
+::: {.writing-item}
+[Tryst with Subsidy](https://pramaanik.wordpress.com/2014/01/14/tryst-with-subsidy/){target="_blank"}
+
+**Blog** · Jan 2014
+:::
+
+::: {.writing-item}
+[Of Brittle Sticks and Tasteless Carrots](https://pramaanik.wordpress.com/2014/01/06/of-brittle-sticks-and-tasteless-carrots/){target="_blank"}
+
+**Blog** · Jan 2014
+:::
+
+::: {.writing-item}
+[Mature Arguments Please!](https://pramaanik.wordpress.com/2013/10/20/mature-arguments-please/){target="_blank"}
+
+**Blog** · Oct 2013
+:::
+
+::: {.writing-item}
+[The Furor Over the Modest Onion](https://pramaanik.wordpress.com/2013/09/21/the-furor-over-the-modest-onion/){target="_blank"}
+
+**Blog** · Sep 2013
+:::

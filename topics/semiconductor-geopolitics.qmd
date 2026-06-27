@@ -1,16 +1,17 @@
 ---
 title: "Semiconductor Geopolitics"
-description: "A gateway to my work on chips, fabs, supply chains, and technology geopolitics"
+description: "Chips, fabs, supply chains, and the geopolitics of semiconductor manufacturing"
 toc: true
+toc-depth: 2
 ---
 
-Semiconductors sit at the intersection of technology, economics, national security, trade, and industrial policy. This page brings together my work on chip supply chains, India's semiconductor strategy, fabrication and packaging, and the geopolitics of technological interdependence.
+Semiconductors sit at the intersection of technology, economics, national security, trade, and industrial policy. This page brings together my work on chip supply chains, India's semiconductor strategy, and the geopolitics of technological interdependence.
 
 ::: {.topic-hero}
 ::: {.topic-hero-card}
 ### Start here
 
-[*When the Chips Are Down: A Deep Dive into a Global Crisis*](../books.qmd#when-the-chips-are-down-a-deep-dive-into-a-global-crisis) explains how semiconductors became a meta-critical technology and why chip supply chains now shape geopolitics.
+[*When the Chips Are Down: A Deep Dive into a Global Crisis*](../books.html#when-the-chips-are-down-a-deep-dive-into-a-global-crisis) explains how semiconductors became a meta-critical technology and why chip supply chains now shape geopolitics.
 :::
 
 ::: {.topic-hero-card}
@@ -18,64 +19,284 @@ Semiconductors sit at the intersection of technology, economics, national securi
 
 The [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) monitors India's fabs, ATMP/OSAT units, compound semiconductor projects, milestones, investment, slippage, and technical complexity.
 :::
-:::
-
-## Core Questions
-
-- What should India's semiconductor strategy prioritise: leading-edge fabs, mature nodes, packaging, design, equipment, or talent?
-- How can countries reduce asymmetric dependence in chip supply chains without falling into technology autarky?
-- What does semiconductor manufacturing reveal about state capacity, industrial policy, and global technology alliances?
-- How should India work with partners such as the US, Japan, Taiwan, Australia, and the EU?
-
-## Projects
-
-::: {.project-grid}
-
-::: {.project-card .featured}
-### [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com)
-
-::: {.project-meta}
-Tracker · India · Manufacturing
-:::
-
-Interactive tracker of India's semiconductor manufacturing facilities, including status, investment, milestones, slippage, and technical complexity.
-
-::: {.project-actions}
-[Open tracker](https://fabs.pranaykotas.com){.btn .btn-primary}
-[GitHub](https://github.com/pranaykotas/india-semiconductor-tracker){.btn .btn-outline-primary}
-:::
-:::
-
-::: {.project-card}
-### [OECD Semiconductor Watch](https://oecdwatch.pranaykotas.com)
-
-::: {.project-meta}
-Tracker · OECD · Policy research
-:::
-
-A curated watch on OECD semiconductor research and what it means for India's policy community.
-
-::: {.project-actions}
-[Open project](https://oecdwatch.pranaykotas.com){.btn .btn-primary}
-[GitHub](https://github.com/pranaykotas/oecdwatch){.btn .btn-outline-primary}
-:::
-:::
 
 :::
 
 ## Talks & Slides
 
-I try to make slides from my semiconductor talks publicly available. Start with the [Semiconductor Geopolitics section on the Talks page](../talks.qmd#semiconductor-geopolitics), including lectures on India's semiconductor strategy and the geopolitical context shaping chip supply chains.
+::: {.talk-card}
+### India's Semiconductor Strategy: A Policy Overview
+**Event:** CHIDIPLO Paris Policy Dialogue on *Semiconductor Industrial and Innovation Policy:What Works and What Does Not*
+
+**Date:** February 11, 2026
+
+[Download slides →](../assets/slides/CHIPDIPLO-India.pdf){.btn .btn-primary target="_blank"}
+:::
 
 ## Selected Writings
 
-My semiconductor writing appears across formats:
+44 pieces across blog posts, op-eds, and publications.
 
-- [Blog](../blog/index.qmd) — filter by **Semiconductor Geopolitics**.
-- [Op-eds](../op-eds/index.qmd) — filter by **Semiconductor Geopolitics**.
-- [Publications](../publications/index.qmd) — filter by **Semiconductor Geopolitics**.
-- [Books](../books.qmd) — see *When the Chips Are Down*.
+::: {.writing-item}
+[Investigating the Potential of Pax Silica](https://takshashila.org.in/content/blogs/20260406-pax-silica.html){target="_blank"}
 
-## Related Themes
+**Blog** · Apr 6, 2026
+:::
 
-Semiconductor geopolitics connects to my work on [Critical Minerals](../talks.qmd#critical-minerals), AI geopolitics, technology policy, trade, industrial strategy, and public finance.
+::: {.writing-item}
+[Why India's semiconductor story is a work in progress](https://www.hindustantimes.com/opinion/why-india-s-semiconductor-story-is-a-work-in-progress-101772205036557.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Feb 2026
+:::
+
+::: {.writing-item}
+[India Formally Joins the Pax Silica](https://takshashila.org.in/content/blogs/20260223-india-formally-joins-pax-silica.html){target="_blank"}
+
+**Blog** · Feb 2026
+:::
+
+::: {.writing-item}
+[Calm Down and Keep Executing: Analysing the Progress of Semiconductor-related Policies through Budgetary Allocations](https://takshashila.org.in/content/blogs/20260203-semiconductor-budget-article.html){target="_blank"}
+
+**Blog** · Feb 2026
+:::
+
+::: {.writing-item}
+[Challenges and Opportunities for India-Japan Semiconductor Collaboration](https://takshashila.org.in/content/blogs/20260109-challenges-opportunities-for-india-japan-semiconductor-collaboration.html){target="_blank"}
+
+**Blog** · Jan 2026
+:::
+
+::: {.writing-item}
+[Pax Silica Minus India](https://takshashila.org.in/content/blogs/20251218-pax-silica-initial-view.html){target="_blank"}
+
+**Blog** · Dec 2025
+:::
+
+::: {.writing-item}
+[Implications of H20 Sale Resumption to China](https://takshashila.org.in/content/blogs/20250723-H20-China.html){target="_blank"}
+
+**Blog** · Jul 2025
+:::
+
+::: {.writing-item}
+[Reconfiguring supply chains in a world where trust's eroding](https://www.moneycontrol.com/news/opinion/reconfiguring-supply-chains-in-a-world-where-trust-s-eroding-13201132.html){target="_blank"}
+
+**Op-ed** · Moneycontrol · Jun 2025
+:::
+
+::: {.writing-item}
+[China's moves must recast India's critical minerals push](https://www.thehindu.com/opinion/op-ed/chinas-moves-must-recast-indias-critical-minerals-push/article69128387.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Jan 2025
+:::
+
+::: {.writing-item}
+[The shifting sands within global supply chains](https://www.thehindu.com/opinion/op-ed/the-shifting-sands-within-global-supply-chains/article68788375.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Nov 2024
+:::
+
+::: {.writing-item}
+[Chip-Sourcing: India's Semiconductor Moonshot](https://thediplomat.com/2024/10/chip-sourcing-indias-semiconductor-moonshot/){target="_blank"}
+
+**Op-ed** · The Diplomat · Oct 2024
+:::
+
+::: {.writing-item}
+[How India is moving fast to becoming semiconductor 'aatmanirbhar'](https://www.firstpost.com/opinion/how-india-is-moving-fast-to-becoming-semiconductor-aatmanirbhar-13776367.html){target="_blank"}
+
+**Op-ed** · Firstpost · May 2024
+:::
+
+::: {.writing-item}
+[A practical agenda for India-Australia semiconductor collaboration](https://www.aspistrategist.org.au/a-practical-agenda-for-india-australia-semiconductor-collaboration/){target="_blank"}
+
+**Op-ed** · ASPI – The Strategist · Apr 2024
+:::
+
+::: {.writing-item}
+[The need to overhaul a semiconductor scheme](https://www.thehindu.com/opinion/op-ed/the-need-to-overhaul-a-semiconductor-scheme/article67768726.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Jan 2024
+:::
+
+::: {.writing-item}
+[Like Chandrayaan, India's semiconductor push aims for the moon, but success is not guaranteed](https://scroll.in/article/1060768/like-chandrayaan-indias-semiconductor-push-aims-for-the-moon-but-success-is-not-guaranteed){target="_blank"}
+
+**Op-ed** · Scroll.in · Jan 2024
+:::
+
+::: {.writing-item}
+[A new book examines how India can set up new and world-class semiconductor facilities](https://scroll.in/article/1060814/){target="_blank"}
+
+**Op-ed** · Scroll.in · Dec 2023
+:::
+
+::: {.writing-item}
+[Chandrayaan and Chips: Space Lessons for India's Semiconductor Program?](https://casi.sas.upenn.edu/iit/pranaykotasthane-abhirammanchi){target="_blank"}
+
+**Op-ed** · CASI, University of Pennsylvania · Dec 2023
+:::
+
+::: {.writing-item}
+[Chipmaking subsidies are not the answer to supply security worries](https://asia.nikkei.com/Opinion/Chipmaking-subsidies-are-not-the-answer-to-supply-security-worries){target="_blank"}
+
+**Op-ed** · Nikkei Asia · Oct 2023
+:::
+
+::: {.writing-item}
+[Learning from the CHIPS Act of the U.S.](https://www.thehindu.com/opinion/op-ed/learning-from-the-chips-act-of-the-us/article67172378.ece){target="_blank"}
+
+**Op-ed** · The Hindu · Aug 2023
+:::
+
+::: {.writing-item}
+[In the Chip War, US Has the Edge Over China](https://www.hindustantimes.com/opinion/in-the-chip-war-us-has-the-edge-over-china-101690900110589.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Aug 2023
+:::
+
+::: {.writing-item}
+[Confronting Trade-offs for India's Electronics Manufacturing Success](https://lkyspp.nus.edu.sg/cag/publications/center-publications/publication-article/detail/cib228-1){target="_blank"}
+
+**Op-ed** · Centre on Asia and Globalisation, NUS · Jul 2023
+:::
+
+::: {.writing-item}
+[A road map to propel US-India chips push](https://www.hindustantimes.com/opinion/a-road-map-to-propel-us-india-chips-push-101686632430523.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jun 2023
+:::
+
+::: {.writing-item}
+[AI Race Must Not Overlook AI Hardware](https://takshashila.org.in/content/publications/20230320-AI-Race-AI-Hardware.html){target="_blank"}
+
+**Publication** · Takshashila Issue Brief · with Shrikrishna Upadhyaya · Mar 2023
+:::
+
+::: {.writing-item}
+[Clingendael Report â Enhancing IndiaâEU Engagement on âMeta-Criticalâ Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-IndiaâEU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Takshashila Publication · Jan 2023
+:::
+
+::: {.writing-item}
+[Enhancing India–EU Engagement on 'Meta-Critical' Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-India%E2%80%93EU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Clingendael Report · Jan 2023
+:::
+
+::: {.writing-item}
+[The US and China are battling for semiconductor supremacy](https://www.hindustantimes.com/opinion/the-us-and-china-are-battling-for-semiconductor-supremacy-101666965400761.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Oct 2022
+:::
+
+::: {.writing-item}
+[India's Russia problem will grow: Locked out of semiconductor supply, Moscow will be hard-pressed to fulfil New Delhi's military needs](https://timesofindia.indiatimes.com/blogs/toi-edit-page/indias-russia-problem-will-grow-locked-out-of-semiconductor-supply-moscow-will-be-hard-pressed-to-fulfil-new-delhis-military-needs/){target="_blank"}
+
+**Op-ed** · Times of India · Sep 2022
+:::
+
+::: {.writing-item}
+[India's Semiconductor Push should Focus on Revamping the DLI Scheme](https://www.hindustantimes.com/opinion/indias-semiconductor-push-should-focus-on-revamping-the-dli-scheme-101657959377978.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jul 2022
+:::
+
+::: {.writing-item}
+[Harnessing Trade Policy to Build India's Semiconductor Industry](https://takshashila.org.in/content/publications/20220530-Harnessing Trade Policy to Build Indias-Semiconductor-Industry.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[Harnessing Trade Policy to Build India's Semiconductor Industry](https://takshashila.org.in/content/publications/20220503-Harnessing-trade-policies-to-build-Indias-semiconductor-industry.html){target="_blank"}
+
+**Publication** · Hinrich Foundation Report · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[Harnessing trade policy to build India's semiconductor industry](https://www.hinrichfoundation.com/research/wp/tech/trade-policy-build-india-semiconductor-industry/){target="_blank"}
+
+**Op-ed** · Hinrich Foundation · May 2022
+:::
+
+::: {.writing-item}
+[What the Quad must do to build a resilient semiconductor chain](https://timesofindia.indiatimes.com/blogs/toi-edit-page/3-ideas-for-4-countries-hunting-for-chips-what-the-quad-must-do-to-build-a-resilient-semiconductor-chain/){target="_blank"}
+
+**Op-ed** · Times of India · May 2022
+:::
+
+::: {.writing-item}
+[Complement to Succeed: A Case for India-Taiwan Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20220503-A-Case-for-India-Taiwan-Collaboration-on-Semiconductors.html){target="_blank"}
+
+**Publication** · Taiwan Asia Exchange Foundation · with Arjun Gargeyas · May 2022
+:::
+
+::: {.writing-item}
+[The Semiconductor Question in the Russia-Ukraine Conflict](https://takshashila.org.in/content/publications/20220324-The-Semiconductor-Question-in-the-Russia-Ukraine-Conflict.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Arjun Gargeyas and Aditya Prateek · Mar 2022
+:::
+
+::: {.writing-item}
+[Are Government's New Schemes For Semiconductors Enough To Make India Atmanirbhar?](https://www.outlookindia.com/website/story/business-news-are-governments-new-schemes-for-semiconductors-enough-to-make-india-atmanirbhar/407936){target="_blank"}
+
+**Op-ed** · Outlook India · Jan 2022
+:::
+
+::: {.writing-item}
+[In Software-obsessed India, Hardware Finally Gets Place in the Sun](https://www.news18.com/news/opinion/rs-76000-crore-push-to-semiconductors-in-software-obsessed-india-hardware-finally-gets-place-in-the-sun-4563878.html){target="_blank"}
+
+**Op-ed** · News18 · Dec 2021
+:::
+
+::: {.writing-item}
+[India Needs a 20-Year Semiconductor Strategy](https://www.hindustantimes.com/opinion/india-needs-a-20-year-semiconductor-strategy-101638457241356.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Dec 2021
+:::
+
+::: {.writing-item}
+[The Quad Makes the First Siliconpolitik Move](https://www.isas.nus.edu.sg/papers/the-quad-makes-the-first-siliconpolitik-move/){target="_blank"}
+
+**Op-ed** · ISAS, National University of Singapore · Oct 2021
+:::
+
+::: {.writing-item}
+[In Quad's Semiconductor Gambit against China, India Stands to Gain](https://news18.com/news/opinion/in-quads-semiconductor-gambit-against-china-india-stands-to-gain-4245311.html){target="_blank"}
+
+**Op-ed** · News18 · Sep 2021
+:::
+
+::: {.writing-item}
+[India's Semiconductor Ecosystem: A SWOT Analysis](https://takshashila.org.in/content/publications/20210809-indias-semiconductor-ecosystem-swot-analysis.html){target="_blank"}
+
+**Publication** · Takshashila Discussion SlideDoc · with Anup Rajput, Samparna Tripathy, Amol Sarin · Aug 2021
+:::
+
+::: {.writing-item}
+[How to Beat China in the High-Tech Race](https://timesofindia.indiatimes.com/how-to-beat-china-in-the-high-tech-race/articleshow/83739897.cms){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2021
+:::
+
+::: {.writing-item}
+[Siliconpolitik: The Case for a Quad Semiconductor Partnership](https://takshashila.org.in/content/publications/20210427-Siliconpolitik-The-Case-for-a-Quad-Semiconductor-Partnership.html){target="_blank"}
+
+**Publication** · ISAS Working Paper · Apr 2021
+:::
+
+::: {.writing-item}
+[China's Semiconductor Gold Rush: A Reality Check](https://www.scmp.com/tech/article/3109569/chinas-semiconductor-gold-rush-reality-check){target="_blank"}
+
+**Op-ed** · South China Morning Post · Nov 2020
+:::
+
+::: {.writing-item}
+[How Covid-19 Changes the Geopolitics of Semiconductor Supply Chains](https://www.scmp.com/tech/enterprises/article/3086998/how-covid-19-changes-geopolitics-semiconductor-supply-chains){target="_blank"}
+
+**Op-ed** · South China Morning Post · Jun 2020
+:::

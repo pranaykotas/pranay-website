@@ -1,0 +1,218 @@
+---
+title: "Public Finance"
+description: "Fiscal federalism, municipal finance, taxation, subsidies, and government expenditure"
+toc: true
+toc-depth: 2
+---
+
+Public finance is the skeleton key to understanding the Indian state. I research fiscal federalism — how money flows between the Union and state governments — municipal finance, the politics of taxation, and why India's fiscal architecture shapes everything from infrastructure to welfare.
+
+::: {.topic-hero}
+::: {.topic-hero-card}
+### Key stat
+
+Urban areas contribute 60% of India's GDP, yet the total self-generated revenue of all municipal corporations combined is merely 0.4% of GDP. There will be no Viksit Bharat without decent cities.
+:::
+
+::: {.topic-hero-card}
+### Big idea
+
+We need a [Regulatory Responsibility Act](../big-ideas.html) on the lines of the FRBM Act — a law for regulatory discipline, not just fiscal discipline.
+:::
+
+:::
+
+## Talks & Slides
+
+::: {.talk-card}
+### The regressive nature of central transfers on health
+**Event:** CEPPF, Patna
+
+**Date:** December 7, 2018
+
+[Download slides →](../assets/slides/central-transfers-health.pdf){.btn .btn-primary target="_blank"}
+:::
+
+## Selected Writings
+
+30 pieces across blog posts, op-eds, and publications.
+
+::: {.writing-item}
+[Calm Down and Keep Executing: Analysing the Progress of Semiconductor-related Policies through Budgetary Allocations](https://takshashila.org.in/content/blogs/20260203-semiconductor-budget-article.html){target="_blank"}
+
+**Blog** · Feb 2026
+:::
+
+::: {.writing-item}
+[Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward](https://takshashila.org.in/content/publications/20240906-Karnataka -16th-Finance-Commission.html){target="_blank"}
+
+**Publication** · Takshashila Publication · with Sarthak Pradhan · Sep 2024
+:::
+
+::: {.writing-item}
+[Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward](https://takshashila.org.in/content/publications/20240906-Karnataka-16th-Finance-Commission.html){target="_blank"}
+
+**Publication** · Takshashila Discussion Document · with Sarthak Pradhan · Sep 2024
+:::
+
+::: {.writing-item}
+[India's fiscal imbalance isn't a North vs South problem. Here's what lies at the 'centre' of it](https://theprint.in/opinion/indias-fiscal-imbalance-isnt-a-north-vs-south-problem-heres-what-lies-at-the-centre-of-it/2249684/){target="_blank"}
+
+**Op-ed** · The Print · Sep 2024
+:::
+
+::: {.writing-item}
+[Why resource distribution is creating a North-South divide](https://timesofindia.indiatimes.com/blogs/voices/why-resource-distribution-is-creating-a-north-south-divide/){target="_blank"}
+
+**Op-ed** · Times of India · Feb 2024
+:::
+
+::: {.writing-item}
+[A gradual approach on defence spending](https://www.hindustantimes.com/opinion/a-gradual-approach-on-defence-spending-101676298678102.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Feb 2023
+:::
+
+::: {.writing-item}
+[India's Defence Budget: As Border Tensions With China Simmer, Can Govt Level Up?](https://www.thequint.com/voices/opinion/indias-defence-budget-as-border-tensions-with-china-simmer-can-govt-level-up){target="_blank"}
+
+**Op-ed** · The Quint · Jan 2023
+:::
+
+::: {.writing-item}
+[Neither Guns nor Butter: The Inconvenient Truth of India's Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India's-Defence-Financing.html){target="_blank"}
+
+**Publication** · Book Chapter · Nov 2022
+:::
+
+::: {.writing-item}
+[How the Defence Pension Bill became a Big Burden](https://www.hindustantimes.com/opinion/how-the-defence-pension-bill-became-a-big-burden-101656081802755.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Jun 2022
+:::
+
+::: {.writing-item}
+[Rough Calculations on Agnipath's Pension-Saving Potential show why the Change is Crucial](https://timesofindia.indiatimes.com/blogs/voices/the-rs-34500-crore-argument-rough-calculations-on-agnipaths-pension-saving-potential-show-why-the-change-is-crucial/){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2022
+:::
+
+::: {.writing-item}
+[Four ways to stop pay, pension bill eating up our defence budget](https://timesofindia.indiatimes.com/blogs/voices/four-ways-to-stop-pay-pension-bill-eating-up-our-defence-budget){target="_blank"}
+
+**Op-ed** · Times of India · Jun 2022
+:::
+
+::: {.writing-item}
+[Dear Govt of India, Here's Why a Cess Needs Impact Analysis Report](https://www.thequint.com/voices/opinion/indian-tax-system-surcharges-cess-economic-impact-centre-versus-states-modi-government-federalism){target="_blank"}
+
+**Op-ed** · The Quint · Apr 2021
+:::
+
+::: {.writing-item}
+[Making State Finance Commissions work](https://www.deccanherald.com/opinion/making-state-finance-commissions-work-955933.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Feb 2021
+:::
+
+::: {.writing-item}
+[House defence panel must ask 4 key questions — from lower expenditure to pension bill](https://theprint.in/opinion/house-defence-panel-must-ask-4-key-questions-from-lower-expenditure-to-pension-bill/606100/){target="_blank"}
+
+**Op-ed** · The Print · Feb 2021
+:::
+
+::: {.writing-item}
+[Does the budget meet India's defence requirements?](https://www.hindustantimes.com/opinion/does-the-budget-meet-india-s-defence-requirements-101612360493530.html){target="_blank"}
+
+**Op-ed** · Hindustan Times · Feb 2021
+:::
+
+::: {.writing-item}
+[Looking beyond the Budget numbers to see if government schemes really work](https://www.deccanherald.com/opinion/looking-beyond-the-budget-numbers-to-see-if-government-schemes-really-work-945225.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Jan 2021
+:::
+
+::: {.writing-item}
+[Managing India's Defence Expenditure Requires a Whole-of-Government Approach](https://theprint.in/opinion/not-fair-to-cut-defence-pay-pensions-and-inject-funds-in-airlines-banks/542965/){target="_blank"}
+
+**Op-ed** · The Print · Nov 2020
+:::
+
+::: {.writing-item}
+[Is India's rising defence pension bill affecting modernisation of military? 5 myths busted](https://theprint.in/opinion/indias-defence-pension-bill-affecting-military-5-myths-busted/379289/){target="_blank"}
+
+**Op-ed** · The Print · Mar 2020
+:::
+
+::: {.writing-item}
+[Karnataka Budget Could Have Done More to Spur Growth](https://www.deccanherald.com/opinion/karnataka-budget-could-have-done-more-to-spur-growth-810873.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Mar 2020
+:::
+
+::: {.writing-item}
+[The Regressive Nature of Central Transfers for Health](https://takshashila.org.in/content/publications/20191219-TWP-Central-Transfers-on-Health-PK-DK-PS-AC-2018-03.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Dec 2019
+:::
+
+::: {.writing-item}
+[Finance Commission's New Problem: A Separate Defence Fund](https://www.deccanherald.com/opinion/finance-commission-s-new-problem-separate-defence-fund-753535.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Aug 2019
+:::
+
+::: {.writing-item}
+[A Qualitative and Quantitative Analysis of Public Health Expenditure in India](https://takshashila.org.in/content/publications/20180705-A-Qualitative-and-Quantitative-Analysis-of-Public-Health-Expenditure-in-India.html){target="_blank"}
+
+**Publication** · Takshashila Working Paper · Jul 2018
+:::
+
+::: {.writing-item}
+[Why the south-vs-north debate is a flawed way to analyse the 15th Finance Commission formula](https://theprint.in/opinion/why-the-south-vs-north-debate-is-a-flawed-way-to-analyse-the-15th-finance-commission-formula/44706/){target="_blank"}
+
+**Op-ed** · The Print · Mar 2018
+:::
+
+::: {.writing-item}
+[Karnataka's Changing Fiscal Landscape](https://www.epw.in/journal/2016/33/commentary/karnatakas-changing-fiscal-landscape.html){target="_blank"}
+
+**Op-ed** · Economic and Political Weekly · Aug 2016
+:::
+
+::: {.writing-item}
+[Karnataka's Changing Fiscal Landscape after the 14th Finance Commission](https://takshashila.org.in/content/publications/20160809-Karnataka-Changing-Fiscal-Landscape-after-FFC.html){target="_blank"}
+
+**Publication** · Economic and Political Weekly · Aug 2016
+:::
+
+::: {.writing-item}
+[State budget: Time to set its priorities right](https://www.deccanherald.com/content/535173/state-budget-time-set-its.html){target="_blank"}
+
+**Op-ed** · Deccan Herald · Mar 2016
+:::
+
+::: {.writing-item}
+[The Shifting Political Economy of Centrally Sponsored Schemes](https://thewire.in/2016/03/06/the-shifting-political-economy-of-centrally-sponsored-schemes-24009){target="_blank"}
+
+**Op-ed** · The Wire · Mar 2016
+:::
+
+::: {.writing-item}
+[Impact of Fourteenth Finance Commission](https://www.epw.in/journal/2015/46-47/commentary/impact-fourteenth-finance-commission.html){target="_blank"}
+
+**Op-ed** · Economic and Political Weekly · Nov 2015
+:::
+
+::: {.writing-item}
+[The Tale of Two Commissions](https://pramaanik.wordpress.com/2014/06/20/the-tale-of-two-commissions/){target="_blank"}
+
+**Blog** · Jun 2014
+:::
+
+::: {.writing-item}
+[Tryst with Subsidy](https://pramaanik.wordpress.com/2014/01/14/tryst-with-subsidy/){target="_blank"}
+
+**Blog** · Jan 2014
+:::
