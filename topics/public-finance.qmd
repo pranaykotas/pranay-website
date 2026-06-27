@@ -37,6 +37,10 @@ We need a [Regulatory Responsibility Act](../big-ideas.html) on the lines of the
 
 30 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [Calm Down and Keep Executing: Analysing the Progress of Semiconductor-related Policies through Budgetary Allocations](https://takshashila.org.in/content/blogs/20260203-semiconductor-budget-article.html){target="_blank"}
 
@@ -216,3 +220,8 @@ We need a [Regulatory Responsibility Act](../big-ideas.html) on the lines of the
 
 **Blog** · Jan 2014
 :::
+
+```{=html}
+</div>
+<button class="show-more-btn" id="show-more-btn" onclick="document.getElementById('writings-list').classList.toggle('expanded'); this.textContent = this.textContent === 'Show all 30 pieces' ? 'Show fewer' : 'Show all 30 pieces';">Show all 30 pieces</button>
+```

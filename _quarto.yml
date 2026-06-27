@@ -114,3 +114,4 @@ format:
     link-external-newwindow: true
     mainfont: "DM Sans"
     monofont: "JetBrains Mono"
+    include-after-body: _includes/back-to-top.html

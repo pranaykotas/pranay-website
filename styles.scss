@@ -30,6 +30,10 @@ $card-border-radius: 8px;
 html {
   scroll-behavior: smooth;
   font-size: 17px;
+
+  @media (max-width: 768px) {
+    font-size: 16px;
+  }
 }
 
 body {
@@ -37,9 +41,54 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: $body-bg;
   color: $body-color;
+
+  @media (max-width: 768px) {
+    line-height: 1.7;
+  }
 }
 
 img { max-width: 100%; height: auto; }
+
+// ── Mobile navbar: hide secondary items ─────────────────────────
+@media (max-width: 991.98px) {
+  .navbar-nav .nav-item:has(a[href*="newsletter"]),
+  .navbar-nav .nav-item:has(a[href*="podcast"]),
+  .navbar-nav .nav-item:has(a[aria-label="RSS Feed"]) {
+    display: none;
+  }
+}
+
+// ── Back to top button ──────────────────────────────────────────
+.back-to-top {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: $primary;
+  color: #fff;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+
+  &.visible {
+    opacity: 0.8;
+    visibility: visible;
+  }
+
+  &:hover {
+    opacity: 1;
+  }
+}
 
 // ── Headings ──────────────────────────────────────────────────────
 h1, h2, h3, h4, h5, h6 {
@@ -994,6 +1043,34 @@ hr {
   gap: 0.55rem;
   margin: 0 !important;
   font-family: $font-family-sans-serif !important;
+}
+
+// ── Topic page: show-more for long lists ─────────────────────────
+.writings-list .writing-item:nth-child(n+16) {
+  display: none;
+}
+
+.writings-list.expanded .writing-item:nth-child(n+16) {
+  display: block;
+}
+
+.show-more-btn {
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 0.45rem 1.2rem;
+  background: $accent-light;
+  border: 1px solid darken($accent-light, 10%);
+  border-radius: 20px;
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  color: $accent;
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover {
+    background: darken($accent-light, 5%);
+    border-color: $accent;
+  }
 }
 
 // ── Topic page writing items ─────────────────────────────────────

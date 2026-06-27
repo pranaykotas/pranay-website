@@ -37,6 +37,10 @@ The [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) mo
 
 44 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [Investigating the Potential of Pax Silica](https://takshashila.org.in/content/blogs/20260406-pax-silica.html){target="_blank"}
 
@@ -300,3 +304,8 @@ The [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) mo
 
 **Op-ed** · South China Morning Post · Jun 2020
 :::
+
+```{=html}
+</div>
+<button class="show-more-btn" id="show-more-btn" onclick="document.getElementById('writings-list').classList.toggle('expanded'); this.textContent = this.textContent === 'Show all 44 pieces' ? 'Show fewer' : 'Show all 44 pieces';">Show all 44 pieces</button>
+```

@@ -54,6 +54,10 @@ A plain-language collection of [public policy frameworks](https://frameworks.pra
 
 114 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [The Proposed Lok Sabha Seat ApportionmentâWhat Should the Southern States Really Demand?](https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html){target="_blank"}
 
@@ -737,3 +741,8 @@ A plain-language collection of [public policy frameworks](https://frameworks.pra
 
 **Blog** · Sep 2013
 :::
+
+```{=html}
+</div>
+<button class="show-more-btn" id="show-more-btn" onclick="document.getElementById('writings-list').classList.toggle('expanded'); this.textContent = this.textContent === 'Show all 114 pieces' ? 'Show fewer' : 'Show all 114 pieces';">Show all 114 pieces</button>
+```

@@ -37,6 +37,10 @@ Critical minerals supply chains are closely linked to semiconductor manufacturin
 
 15 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [Letâs make critical minerals deal work](https://hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html){target="_blank"}
 
@@ -126,3 +130,7 @@ Critical minerals supply chains are closely linked to semiconductor manufacturin
 
 **Publication** · Takshashila Publication · Jun 2022
 :::
+
+```{=html}
+</div>
+```

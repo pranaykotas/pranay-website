@@ -55,6 +55,10 @@ The [AI for Public Policy Directory](https://aipublicpolicy.org) is a searchable
 
 60 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [An Analysis of the India-EU Technology Action Agenda](https://takshashila.org.in/content/blogs/20260130-science-magazine-india-eu-response.html){target="_blank"}
 
@@ -414,3 +418,8 @@ The [AI for Public Policy Directory](https://aipublicpolicy.org) is a searchable
 
 **Blog** · Jul 2014
 :::
+
+```{=html}
+</div>
+<button class="show-more-btn" id="show-more-btn" onclick="document.getElementById('writings-list').classList.toggle('expanded'); this.textContent = this.textContent === 'Show all 60 pieces' ? 'Show fewer' : 'Show all 60 pieces';">Show all 60 pieces</button>
+```

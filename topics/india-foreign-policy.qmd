@@ -37,6 +37,10 @@ The *Matsyanyaaya* section of [Anticipating the Unintended](../newsletter.html) 
 
 117 pieces across blog posts, op-eds, and publications.
 
+```{=html}
+<div class="writings-list" id="writings-list">
+```
+
 ::: {.writing-item}
 [Chinaâs critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
 
@@ -738,3 +742,8 @@ The *Matsyanyaaya* section of [Anticipating the Unintended](../newsletter.html) 
 
 **Blog** · Sep 2013
 :::
+
+```{=html}
+</div>
+<button class="show-more-btn" id="show-more-btn" onclick="document.getElementById('writings-list').classList.toggle('expanded'); this.textContent = this.textContent === 'Show all 117 pieces' ? 'Show fewer' : 'Show all 117 pieces';">Show all 117 pieces</button>
+```
