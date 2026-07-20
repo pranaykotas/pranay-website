@@ -10,7 +10,15 @@
 <atom:link href="https://pranaykotas.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on public policy, technology, and geopolitics</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ASMLâs Blowout Quarter Is a Geopolitical Signal</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution</description>
+  <category>India Foreign Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Democracy, Constitution, and National Power</title>
   <link>https://pranaykotas.com/</link>
@@ -172,15 +180,6 @@
   <category>Public Policy</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Implications of H20 Sale Resumption to China</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution</description>
-  <category>AI Geopolitics</category>
-  <category>Semiconductor Geopolitics</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Wed, 23 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
