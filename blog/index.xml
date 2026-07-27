@@ -9,8 +9,17 @@
 <link>https://pranaykotas.com/blog/</link>
 <atom:link href="https://pranaykotas.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on public policy, technology, and geopolitics</description>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Thu, 23 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>China Touts AI Clout, But Its Openness Wonât Last</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution</description>
+  <category>AI Geopolitics</category>
+  <category>India Foreign Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>ASMLâs Blowout Quarter Is a Geopolitical Signal</title>
   <link>https://pranaykotas.com/</link>
@@ -172,14 +181,6 @@
   <category>Technology Policy</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Rethinking Proportional Representation</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution</description>
-  <category>Public Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
