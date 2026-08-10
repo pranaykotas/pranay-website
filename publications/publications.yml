@@ -6,6 +6,12 @@
 #   path:        Full URL to paper/PDF/DOI
 #   categories:  List of tags
 
+- title: "Why Is China Giving Away Its AI Models?"
+  date: 2026-08-07
+  description: "Takshashila Publication"
+  path: "https://takshashila.org.in/content/publications/20260807-why-is-china-giving-away-its-ai-models.html"
+  categories: [AI Geopolitics, India Foreign Policy]
+
 - title: "Should the US Sell Advanced GPUs to China? An Indian Perspective"
   date: 2026-04-29
   description: "Takshashila Issue Brief 2026-15."
