@@ -16,8 +16,7 @@ website:
   site-url: https://pranaykotas.com
 
   navbar:
-    background: "#1a1a2e"
-    foreground: "#ffffff"
+    # Colors are styled entirely in styles.scss (.navbar), not here.
     left:
       - text: "Home"
         href: index.qmd

@@ -22,6 +22,19 @@ We need a [Regulatory Responsibility Act](../big-ideas.html) on the lines of the
 
 :::
 
+## Related Ideas & Notes
+
+::: {.idea-card}
+### Industrial Policy has become a religion
+China is its prophet, and even its mistakes are seen as masterstrokes. Industrial policy overlooks the information problem — governments don't know enough to pick winners consistently. [Read more →](../big-ideas.html)
+:::
+
+::: {.field-note-card}
+Of 100 rupees earned by the government, 61 rupees in Pakistan, 66 rupees in Sri Lanka, and 25 rupees in India go into paying interest (not principal) on existing loans. Feldstein's warning is relevant: "Fiscal deficits are like obesity. You can see your weight rising on the scale before your health suffers."
+
+[More Field Notes →](../field-notes/index.html#public-finance)
+:::
+
 ## Talks & Slides
 
 ::: {.talk-card}

@@ -22,6 +22,18 @@ A plain-language collection of [public policy frameworks](https://frameworks.pra
 
 :::
 
+## Related Ideas & Notes
+
+::: {.idea-card}
+### 3 missing meta-institutions in our democracy
+Parliament's own think tank, an institution for vertical and horizontal bargaining, and an independent fiscal council — the meta-institutions the Indian Republic is missing altogether. [Read more →](../big-ideas.html)
+:::
+
+::: {.idea-card}
+### State Capacity is a flow, not a stock
+State capacity isn't cumulative — it needs constant investment and maintenance. Without it, even well-built institutions decay. [Read more →](../big-ideas.html)
+:::
+
 ## Talks & Slides
 
 ::: {.talk-card}

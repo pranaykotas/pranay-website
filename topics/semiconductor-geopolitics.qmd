@@ -22,6 +22,20 @@ The [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com) mo
 
 :::
 
+## Related Ideas & Notes
+
+::: {.field-note-card}
+We need to rethink the blanket ban on *.cn websites. Today I wanted to read the widely-discussed paper on China's semiconductor ambitions, but I can't do that without a VPN. I have to rely on Western news reportage. How do we fight an adversary we know so little about?
+
+[More Field Notes →](../field-notes/index.html#technology-geopolitics)
+:::
+
+::: {.field-note-card}
+Three examples show how competitive federalism without guardrails can go wrong — including the Maharashtra-Gujarat tussle over the display and semiconductor fab plant.
+
+[More Field Notes →](../field-notes/index.html#technology-geopolitics)
+:::
+
 ## Talks & Slides
 
 ::: {.talk-card}

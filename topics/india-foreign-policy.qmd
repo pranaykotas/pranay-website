@@ -22,6 +22,19 @@ The *Matsyanyaaya* section of [Anticipating the Unintended](../newsletter.html) 
 
 :::
 
+## Related Ideas & Notes
+
+::: {.idea-card}
+### Indian state governments should permanent trade and investment desks in important business centres of the world
+States understand their own comparative advantages, needs, and challenges far better than the union government — economic paradiplomacy lets them act on that directly. [Read more →](../big-ideas.html)
+:::
+
+::: {.field-note-card}
+Biden administration overestimated America's narrative power and Trump administration is overestimating America's coercive power. Don't underestimate the agency of nation-states. They will find smart ways to bypass coercion and restrictions.
+
+[More Field Notes →](../field-notes/index.html#observations)
+:::
+
 ## Talks & Slides
 
 ::: {.talk-card}

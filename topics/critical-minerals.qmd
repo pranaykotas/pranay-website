@@ -22,6 +22,14 @@ Critical minerals supply chains are closely linked to semiconductor manufacturin
 
 :::
 
+## Related Ideas & Notes
+
+::: {.field-note-card}
+I'm curious about this. When the US imposed chip export controls, many reports claimed that this would propel China to catch up. Now that China has put export restrictions on dumb rare earth magnets, I haven't yet come across reports saying the rest of the world will catch up…
+
+[More Field Notes →](../field-notes/index.html#technology-geopolitics)
+:::
+
 ## Talks & Slides
 
 ::: {.talk-card}
