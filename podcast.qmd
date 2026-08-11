@@ -45,3 +45,15 @@ See a sample episode
 - Technology and digital governance
 - Constitutional and institutional questions
 - Ideas in economics, history, and political science
+
+---
+
+## YouTube Show — with Amit Varma and Shruti Rajagopalan
+
+I also co-host a YouTube show with **Amit Varma** and **Shruti Rajagopalan**, covering economics, public policy, and ideas.
+
+```{=html}
+<div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
+  <a href="https://www.youtube.com/channel/UC9l0XrC2ZS6M4TlqbCGqjvQ" class="btn btn-primary" target="_blank">Watch on YouTube →</a>
+</div>
+```

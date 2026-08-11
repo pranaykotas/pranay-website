@@ -31,38 +31,14 @@ website:
             href: publications/index.qmd
           - text: "Field Notes"
             href: field-notes/index.qmd
-      - text: "Books"
-        href: books.qmd
+          - text: "Books"
+            href: books.qmd
       - text: "Courses"
         href: courses.qmd
       - text: "Talks"
         href: talks.qmd
       - text: "Big Ideas"
         href: big-ideas.qmd
-      - text: "Topics"
-        menu:
-          - text: "Semiconductor Geopolitics"
-            href: topics/semiconductor-geopolitics.qmd
-          - text: "Critical Minerals"
-            href: topics/critical-minerals.qmd
-          - text: "Technology Geopolitics"
-            href: topics/technology-geopolitics.qmd
-          - text: "India Foreign Policy"
-            href: topics/india-foreign-policy.qmd
-          - text: "Public Policy"
-            href: topics/public-policy.qmd
-          - text: "Public Finance"
-            href: topics/public-finance.qmd
-      - text: "Projects"
-        menu:
-          - text: "All Projects"
-            href: projects.qmd
-          - text: "Semiconductor Tracker"
-            href: https://fabs.pranaykotas.com
-          - text: "AI for Public Policy Directory"
-            href: https://aipublicpolicy.org
-          - text: "GitHub"
-            href: https://github.com/pranaykotas
     right:
       - text: "Newsletter"
         href: newsletter.qmd

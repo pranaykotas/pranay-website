@@ -76,6 +76,20 @@ description: "Books on public policy, technology geopolitics, and public finance
       "inLanguage": "en",
       "sameAs": "https://www.wikidata.org/wiki/Q139565662",
       "url": "https://www.amazon.in/We-Citizens-Strengthening-Indian-Republic/dp/0143463551"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://pranaykotas.com/books/#fiscal-fables",
+      "name": "Fiscal Fables: A Citizen's Guide to Public Finance",
+      "author": [
+        { "@id": "https://pranaykotas.com/#pranay" },
+        { "@type": "Person", "name": "Sarthak Pradhan" }
+      ],
+      "datePublished": "2026",
+      "publisher": { "@type": "Organization", "name": "Penguin Business" },
+      "isbn": "9789377303958",
+      "inLanguage": "en",
+      "url": "https://www.amazon.in/Fiscal-Fables-Citizens-Public-Finance/dp/9377303958"
     }
   ]
 }
@@ -189,19 +203,36 @@ The idea of India was an audacious dream. The fulfilment of this dream lies upon
 
 ---
 
-## Upcoming
+### Fiscal Fables: A Citizen's Guide to Public Finance
 
-### Fiscal Fables
-
+::: {.book-card}
+::: {.grid}
+::: {.g-col-3}
+![Fiscal Fables (2026)](images/fiscal-fables.png){.book-cover}
+:::
+::: {.g-col-9}
 **Co-authored with:** Sarthak Pradhan
 
-*Penguin Random House India, 2026*
+*Penguin Business, 2026*
 
 There is an unending debate on the north-south claims on government money. Every election cycle unmistakably sees a discussion on freebies and corruption. The states and the union continue to have multiple disagreements concerning the Goods and Services Tax. And while Indian cities contribute to the bulk of its GDP, they are perennially begging for money. Finally, every few months, commentators advocate for raising taxes on the wealthy to alleviate income inequality.
 
 Discussions around the topics listed above are now commonplace, yet they often take place in the absence of a grasp on public finance concepts, even though this discipline provides a framework to understand the role of a government in the economy. One probable reason is that public finance books written in India are academic and dry.
 
-That’s where Fiscal Fables comes in. Our book demystifies India's public finances to a lay audience. It explains public finance concepts with the help of relatable stories and examples, to make this vital knowledge accessible to a general interest reader.
+That's where Fiscal Fables comes in. Our book demystifies India's public finances to a lay audience. It explains public finance concepts with the help of relatable stories and examples, to make this vital knowledge accessible to a general interest reader.
+
+[Buy on Amazon →](https://www.amazon.in/Fiscal-Fables-Citizens-Public-Finance/dp/9377303958) | [Penguin →](https://www.penguin.co.in/book/fiscal-fables/)
+:::
+:::
+:::
+
+---
+
+## Upcoming
+
+### Winning Without Becoming China
+
+Chapter plans are in progress.
 
 ---
 

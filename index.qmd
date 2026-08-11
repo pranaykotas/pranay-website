@@ -27,6 +27,10 @@ about:
 
 I am a public policy researcher at the [Takshashila Institution](https://takshashila.org.in), where I work on India's public policy puzzles at the intersection of technology, economics, and geopolitics. I write [op-eds](op-eds/) and [blog posts](blog/), co-host the [Puliyabaazi](podcast.qmd) podcast, co-write the [Anticipating the Unintended](newsletter.qmd) newsletter, and [teach](courses.qmd) courses on public policy and geopolitics.
 
+## Topics
+
+I write on [Semiconductor Geopolitics](topics/semiconductor-geopolitics.qmd), [Critical Minerals](topics/critical-minerals.qmd), [Technology Geopolitics](topics/technology-geopolitics.qmd), [India Foreign Policy](topics/india-foreign-policy.qmd), [Public Policy](topics/public-policy.qmd), and [Public Finance](topics/public-finance.qmd) — each page collects my writing, talks, and papers on that theme.
+
 ## Ideas & Observations
 
 ::: {.grid}
