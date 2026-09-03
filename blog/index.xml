@@ -10,7 +10,15 @@
 <atom:link href="https://pranaykotas.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays on public policy, technology, and geopolitics</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 23 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Semicon 2.0 Gets the Big Things Right</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Takshashila Institution</description>
+  <category>Public Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>China Touts AI Clout, But Its Openness Won’t Last</title>
   <link>https://pranaykotas.com/</link>
@@ -172,15 +180,6 @@
   <category>India Foreign Policy</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Open Source AI Becomes a Strategic Priority</title>
-  <link>https://pranaykotas.com/</link>
-  <description>Takshashila Institution</description>
-  <category>AI Geopolitics</category>
-  <category>Technology Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
