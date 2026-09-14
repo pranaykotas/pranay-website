@@ -6,6 +6,12 @@
 #   path:        Full URL to paper/PDF/DOI
 #   categories:  List of tags
 
+- title: "Takshashila Policy Advisory: Draft SHANTI Rules and Regulations, 2026"
+  date: 2026-09-11
+  description: "Takshashila Publication"
+  path: "https://takshashila.org.in/content/publications/20260911-shanti-policy-advisory.html"
+  categories: [Public Policy]
+
 - title: "Does India Have Leverage Against the US and China?"
   date: 2026-09-07
   description: "Takshashila Publication"
