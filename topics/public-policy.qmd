@@ -71,7 +71,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 ```
 
 ::: {.writing-item}
-[The Proposed Lok Sabha Seat ApportionmentâWhat Should the Southern States Really Demand?](https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html){target="_blank"}
+[The Proposed Lok Sabha Seat Apportionment—What Should the Southern States Really Demand?](https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html){target="_blank"}
 
 **Blog** · Mar 10, 2026
 :::
@@ -269,7 +269,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 :::
 
 ::: {.writing-item}
-[Clingendael Report â Enhancing IndiaâEU Engagement on âMeta-Criticalâ Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-IndiaâEU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
+[Clingendael Report – Enhancing India–EU Engagement on ‘Meta-Critical’ Technologies: A Case for Collaboration on Semiconductors](https://takshashila.org.in/content/publications/20230105-Enhancing-India–EU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Jan 2023
 :::
@@ -287,7 +287,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 :::
 
 ::: {.writing-item}
-[Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of Indiaâs Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-Indiaâs-Defence-Financing.html){target="_blank"}
+[Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India’s Defence Financing](https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India’s-Defence-Financing.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Nov 2022
 :::
@@ -491,7 +491,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 :::
 
 ::: {.writing-item}
-[Takshashila Discussion Document - A Human Capital Investment Model for Indiaâs National Security System](https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-Indiaâs-National-Security-System.html){target="_blank"}
+[Takshashila Discussion Document - A Human Capital Investment Model for India’s National Security System](https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India’s-National-Security-System.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Sep 2019
 :::

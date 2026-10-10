@@ -9,38 +9,44 @@
 # Note: Mint/"The Intersection" articles link to nitinpai.in (where the column
 # is republished) because livemint.com blocks external access.
 
-- title: "Chinaâs chokehold on critical minerals is loosening, but not quickly"
-  date: Sep 24, 2026
+- title: "India-US: Difficult times call for difficult measures"
+  date: 2026-10-08
+  description: "Hindustan Times"
+  path: "https://hindustantimes.com/opinion/indiaus-difficult-times-call-for-difficult-measures-101791397964788.html"
+  categories: [India Foreign Policy]
+
+- title: "China’s chokehold on critical minerals is loosening, but not quickly"
+  date: 2026-09-24
   description: "Moneycontrol"
   path: "https://moneycontrol.com/news/opinion/china-s-chokehold-on-critical-minerals-is-loosening-but-not-quickly-14036770.html"
   categories: [Critical Minerals, India Foreign Policy]
 
-- title: "Chinaâs open AI advantage may not last forever"
-  date: Sep 16, 2026
+- title: "China’s open AI advantage may not last forever"
+  date: 2026-09-16
   description: "The Hindu"
   path: "https://thehindu.com/opinion/op-ed/chinas-open-ai-advantage-may-not-last-forever/article71469258.ece"
   categories: [AI Geopolitics, India Foreign Policy]
 
 - title: "Semicon 2.0 gets it right on the issues that matter"
-  date: Sep 9, 2026
+  date: 2026-09-09
   description: "Hindustan Times"
   path: "https://hindustantimes.com/opinion/semicon-2-0-gets-it-right-on-the-issues-that-matter-101788885452464.html"
-  categories: [Public Policy]
+  categories: [Semiconductor Geopolitics]
 
-- title: "Let's make China work for us, securely: Building India's domestic compute, keeping good terms with US"
-  date: Jul 22, 2026
+- title: "Let’s make China work for us, securely: Building India’s domestic compute, keeping good terms with US"
+  date: 2026-07-22
   description: "Hindustan Times"
   path: "https://hindustantimes.com/opinion/lets-make-china-work-for-us-securely-building-indias-domestic-compute-keeping-good-terms-with-us-pax-silica-anthropic-101784679849823.html"
   categories: [India Foreign Policy]
 
 - title: "Let’s make critical minerals deal work"
-  date: Jun 5, 2026
+  date: 2026-06-05
   description: "Hindustan Times"
   path: "https://hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html"
   categories: [Critical Minerals]
 
 - title: "China’s critical minerals export ban falls short"
-  date: Apr 21, 2026
+  date: 2026-04-21
   description: "Thinkchina"
   path: "https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero"
   categories: [Critical Minerals, India Foreign Policy]
@@ -298,13 +304,13 @@
   categories: [India Foreign Policy]
 
 - title: "The Real Supply Chain Crisis"
-  date: Apr 16, 2026
+  date: 2026-04-16
   description: "Times of India"
   path: "https://timesofindia.indiatimes.com/blogs/toi-edit-page/the-real-supply-chain-crisis"
   categories: [Political Economy]
 
 - title: "Opening the doors for Chinese investment again, with caution"
-  date: Apr 2, 2026
+  date: 2026-04-02
   description: "Hindustan Times"
   path: "https://hindustantimes.com/opinion/opening-the-doors-for-chinese-investment-again-with-caution-101775056465016.html"
   categories: [Public Policy]
@@ -421,7 +427,7 @@
   date: 2024-12-07
   description: "India's World"
   path: "https://indiasworld.in/why-india-needs-a-techno-strategic-doctrine/"
-  categories: [Technology Geopolitics, Indian Foreign Policy]
+  categories: [Technology Geopolitics, India Foreign Policy]
 
 - title: "Policy tweaks can push private sector R&D"
   date: 2024-12-06

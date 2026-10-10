@@ -850,6 +850,14 @@ hr {
   margin: 1.5rem 0 2rem;
 }
 
+// ── Homepage "Recent Writings" listing ────────────────────────────
+#listing-recent-writings {
+  // category chips filtered client-side don't make sense for a 6-item list
+  .listing-categories {
+    display: none;
+  }
+}
+
 .home-search-trigger {
   display: flex;
   align-items: center;

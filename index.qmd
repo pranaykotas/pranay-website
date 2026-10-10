@@ -21,6 +21,15 @@ about:
     - icon: envelope
       text: Email
       href: "#contact"
+listing:
+  - id: recent-writings
+    contents: blog/blog.yml
+    type: default
+    sort: "date desc"
+    max-items: 6
+    categories: false
+    sort-ui: false
+    filter-ui: false
 ---
 
 ```{=html}
@@ -119,7 +128,7 @@ about:
 
 ## About Me
 
-I am a public policy researcher at the [Takshashila Institution](https://takshashila.org.in), where I work on India's public policy puzzles at the intersection of technology, economics, and geopolitics. I write [op-eds](op-eds/) and [blog posts](blog/), co-host the [Puliyabaazi](podcast.qmd) podcast, co-write the [Anticipating the Unintended](newsletter.qmd) newsletter, and [teach](courses.qmd) courses on public policy and geopolitics.
+I am a public policy researcher at the [Takshashila Institution](https://takshashila.org.in), where I work on India's public policy puzzles at the intersection of technology, economics, and geopolitics. I write [op-eds](op-eds/) and [blog posts](blog/), co-host the [Puliyabaazi](podcast.qmd) podcast and the [Watching the Wheels](podcast.qmd#watching-the-wheels) YouTube show, co-write the [Anticipating the Unintended](newsletter.qmd) newsletter, and [teach](courses.qmd) courses on public policy and geopolitics.
 
 ## Topics
 

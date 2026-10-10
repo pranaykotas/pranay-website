@@ -2,3 +2,7 @@
 _site/
 .claude/
 podcast/
+
+# Python bytecode cache
+__pycache__/
+*.pyc

@@ -55,7 +55,7 @@ Biden administration overestimated America's narrative power and Trump administr
 ```
 
 ::: {.writing-item}
-[Chinaâs critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
+[China’s critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
 
 **Op-ed** · Thinkchina · Apr 21, 2026
 :::
@@ -607,7 +607,7 @@ Biden administration overestimated America's narrative power and Trump administr
 :::
 
 ::: {.writing-item}
-[Takshashila Discussion Document - Sustained Dialogue Process as Indiaâs Pakistan Policy: An assessment](https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-Indiaâs-Pakistan-Policy.html){target="_blank"}
+[Takshashila Discussion Document - Sustained Dialogue Process as India’s Pakistan Policy: An assessment](https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-India’s-Pakistan-Policy.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Jan 2016
 :::
@@ -691,7 +691,7 @@ Biden administration overestimated America's narrative power and Trump administr
 :::
 
 ::: {.writing-item}
-[Takshashila Strategic Assessment - Risks to Indiaâs national security from tensions along the Iran-Pakistan border](https://takshashila.org.in/content/publications/20141113-Risks-to-Indiaâs-national-security-from-tensions-along-the-Iran-Pakistan-border.html){target="_blank"}
+[Takshashila Strategic Assessment - Risks to India’s national security from tensions along the Iran-Pakistan border](https://takshashila.org.in/content/publications/20141113-Risks-to-India’s-national-security-from-tensions-along-the-Iran-Pakistan-border.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Nov 2014
 :::

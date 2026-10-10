@@ -50,13 +50,13 @@ I'm curious about this. When the US imposed chip export controls, many reports c
 ```
 
 ::: {.writing-item}
-[Letâs make critical minerals deal work](https://hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html){target="_blank"}
+[Let’s make critical minerals deal work](https://hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html){target="_blank"}
 
 **Op-ed** · Hindustan Times · Jun 5, 2026
 :::
 
 ::: {.writing-item}
-[Chinaâs critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
+[China’s critical minerals export ban falls short](https://thinkchina.sg/economy/chinas-critical-minerals-export-ban-falls-short?ref=top-hero){target="_blank"}
 
 **Op-ed** · Thinkchina · Apr 21, 2026
 :::
@@ -134,7 +134,7 @@ I'm curious about this. When the US imposed chip export controls, many reports c
 :::
 
 ::: {.writing-item}
-[Takshashila Policy Advisory - Comments on NITI Aayogâs Draft Battery Swapping Policy](https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayogâs-Draft-Battery-Swapping-Policy.html){target="_blank"}
+[Takshashila Policy Advisory - Comments on NITI Aayog’s Draft Battery Swapping Policy](https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog’s-Draft-Battery-Swapping-Policy.html){target="_blank"}
 
 **Publication** · Takshashila Publication · Jun 2022
 :::

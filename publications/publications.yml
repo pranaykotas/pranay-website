@@ -6,6 +6,7 @@
 #   path:        Full URL to paper/PDF/DOI
 #   categories:  List of tags
 
+
 - title: "Takshashila Policy Advisory: Draft SHANTI Rules and Regulations, 2026"
   date: 2026-09-11
   description: "Takshashila Publication"
@@ -16,42 +17,6 @@
   date: 2026-09-07
   description: "Takshashila Publication"
   path: "https://takshashila.org.in/content/publications/20260907-india-has-leverage-against-the-us-and-china.html"
-  categories: [India Foreign Policy]
-
-- title: "Clingendael Report â Enhancing IndiaâEU Engagement on âMeta-Criticalâ Technologies: A Case for Collaboration on Semiconductors"
-  date: 2023-01-05
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20230105-Enhancing-IndiaâEU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html"
-  categories: [Semiconductor Geopolitics, Political Economy]
-
-- title: "Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of Indiaâs Defence Financing"
-  date: 2022-11-07
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-Indiaâs-Defence-Financing.html"
-  categories: [Public Policy]
-
-- title: "Takshashila Policy Advisory - Comments on NITI Aayogâs Draft Battery Swapping Policy"
-  date: 2022-06-09
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayogâs-Draft-Battery-Swapping-Policy.html"
-  categories: [Critical Minerals]
-
-- title: "Takshashila Discussion Document - A Human Capital Investment Model for Indiaâs National Security System"
-  date: 2019-09-24
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-Indiaâs-National-Security-System.html"
-  categories: [Public Policy]
-
-- title: "Takshashila Discussion Document - Sustained Dialogue Process as Indiaâs Pakistan Policy: An assessment"
-  date: 2016-01-09
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-Indiaâs-Pakistan-Policy.html"
-  categories: [India Foreign Policy]
-
-- title: "Takshashila Strategic Assessment - Risks to Indiaâs national security from tensions along the Iran-Pakistan border"
-  date: 2014-11-13
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20141113-Risks-to-Indiaâs-national-security-from-tensions-along-the-Iran-Pakistan-border.html"
   categories: [India Foreign Policy]
 
 - title: "Why Is China Giving Away Its AI Models?"
@@ -66,71 +31,17 @@
   path: "https://takshashila.org.in/content/publications/20260429-Nvidia-and-China-India.html"
   categories: [India Foreign Policy]
 
-- title: "Clingendael Report – Enhancing India–EU Engagement on ‘Meta-Critical’ Technologies: A Case for Collaboration on Semiconductors"
-  date: 2023-01-05
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20230105-Enhancing-India–EU-Engagement-on-Meta-Critical-Technologies-A-Case-for-Collaboration-on-Semiconductors.html"
-  categories: [Semiconductor Geopolitics, Political Economy]
-
-- title: "Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India’s Defence Financing"
-  date: 2022-11-07
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India’s-Defence-Financing.html"
-  categories: [Public Policy]
-
-- title: "Takshashila Policy Advisory - Comments on NITI Aayog’s Draft Battery Swapping Policy"
-  date: 2022-06-09
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog’s-Draft-Battery-Swapping-Policy.html"
-  categories: [Critical Minerals]
-
-- title: "Takshashila Discussion Document - A Human Capital Investment Model for India’s National Security System"
-  date: 2019-09-24
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India’s-National-Security-System.html"
-  categories: [Public Policy]
-
-- title: "Takshashila Discussion Document - Sustained Dialogue Process as India’s Pakistan Policy: An assessment"
-  date: 2016-01-09
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-India’s-Pakistan-Policy.html"
-  categories: [India Foreign Policy]
-
-- title: "Takshashila Strategic Assessment - Risks to India’s national security from tensions along the Iran-Pakistan border"
-  date: 2014-11-13
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20141113-Risks-to-India’s-national-security-from-tensions-along-the-Iran-Pakistan-border.html"
-  categories: [India Foreign Policy]
-
 - title: "Sand Slipping Through Fingers"
   date: 2026-03-30
   description: "Takshashila Discussion Document 2026-09. · with Amit Kumar"
   path: "https://takshashila.org.in/content/publications/China-Ga-Ge-Export-Restrictions-29032026.html"
   categories: [Critical Minerals]
 
-- title: "Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward"
-  date: 2024-09-06
-  description: "Takshashila Publication · with Sarthak Pradhan"
-  path: "https://takshashila.org.in/content/publications/20240906-Karnataka -16th-Finance-Commission.html"
-  categories: [Public Policy, Public Finance]
-
-- title: "Book Chapter - Neither Guns nor Butter: The Inconvenient Truth of India's Defence Financing"
-  date: 2022-11-07
-  description: "Takshashila Publication"
-  path: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter.html"
-  categories: [Public Policy]
-
 - title: "Takshashila Issue Brief - Killing of al-Zawahiri Raises More Questions than Provides Answers"
   date: 2022-08-05
   description: "Takshashila Publication · with Srikrishna Upadhyaya and Anand Arni"
   path: "https://takshashila.org.in/content/publications/20220805-Killing-of-al-Zawahiri-Raises -More-Questions-than-Provides-Answers.html"
   categories: [Public Policy]
-
-- title: "Harnessing Trade Policy to Build India's Semiconductor Industry"
-  date: 2022-05-30
-  description: "Takshashila Publication · with Arjun Gargeyas"
-  path: "https://takshashila.org.in/content/publications/20220530-Harnessing Trade Policy to Build Indias-Semiconductor-Industry.html"
-  categories: [Public Policy, Semiconductor Geopolitics]
 
 - title: "A COVID-19 Vaccine Deployment Strategy for India"
   date: 2020-09-04
@@ -148,6 +59,7 @@
   date: 2018-07-09
   description: "Takshashila Publication · with Anupam Manur and Anirudh KanisettI"
   path: "https://takshashila.org.in/content/publications/20180709-TDD-Indias-Strategies-New-World-Order-AK-PK-AM-2018-02.html"
+  alias: "https://takshashila.org.in/content/publications/20180709-TDD-Indias-Strategies-New-World-Order.html"
   categories: [Public Policy]
 
 - title: "India Should Double Down on Rare Earth Recycling"
@@ -177,7 +89,7 @@
 - title: "Karnataka at the 16th Finance Commission: Concerns, Prospects, and a Way Forward"
   date: 2024-09-06
   description: "Takshashila Discussion Document · with Sarthak Pradhan"
-  path: "https://takshashila.org.in/content/publications/20240906-Karnataka-16th-Finance-Commission.html"
+  path: "https://takshashila.org.in/content/publications/20240906-Karnataka -16th-Finance-Commission.html"
   categories: [Public Finance, Political Economy]
 
 - title: "India's Climb up the Innovation Ladder: Policy Enablers and Impediments"
@@ -249,7 +161,8 @@
 - title: "Neither Guns nor Butter: The Inconvenient Truth of India's Defence Financing"
   date: 2022-11-07
   description: "Book Chapter"
-  path: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India's-Defence-Financing.html"
+  path: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter-The-Inconvenient-Truth-of-India’s-Defence-Financing.html"
+  alias: "https://takshashila.org.in/content/publications/20221107-Neither-Guns-nor-Butter.html"
   categories: [Public Finance, Public Policy]
 
 - title: "Restarting the Post-Pandemic Indian Economy"
@@ -261,13 +174,14 @@
 - title: "Comments on NITI Aayog's Draft Battery Swapping Policy"
   date: 2022-06-09
   description: "Takshashila Policy Advisory"
-  path: "https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog's-Draft-Battery-Swapping-Policy.html"
+  path: "https://takshashila.org.in/content/publications/20220609-Comments-on-NITI-Aayog’s-Draft-Battery-Swapping-Policy.html"
   categories: [Technology Policy, Public Policy]
 
 - title: "Harnessing Trade Policy to Build India's Semiconductor Industry"
   date: 2022-05-30
   description: "Hinrich Foundation Report · with Arjun Gargeyas"
   path: "https://takshashila.org.in/content/publications/20220503-Harnessing-trade-policies-to-build-Indias-semiconductor-industry.html"
+  alias: "https://takshashila.org.in/content/publications/20220530-Harnessing Trade Policy to Build Indias-Semiconductor-Industry.html"
   categories: [Semiconductor Geopolitics, Technology Policy]
 
 - title: "Complement to Succeed: A Case for India-Taiwan Collaboration on Semiconductors"
@@ -369,7 +283,7 @@
 - title: "A Human Capital Investment Model for India's National Security System"
   date: 2019-09-24
   description: "Takshashila Discussion Document"
-  path: "https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India's-National-Security-System.html"
+  path: "https://takshashila.org.in/content/publications/20190924-TDD-Human-Capital-Investment-Model-for-India’s-National-Security-System.html"
   categories: [Public Policy, India Foreign Policy]
 
 - title: "Quality of Service Based Differential Pricing for Data Services"
@@ -389,12 +303,6 @@
   description: "Takshashila Working Paper"
   path: "https://takshashila.org.in/content/publications/20180705-A-Qualitative-and-Quantitative-Analysis-of-Public-Health-Expenditure-in-India.html"
   categories: [Public Finance, Public Policy]
-
-- title: "Deriving India's Strategies for a New World Order"
-  date: 2018-07-09
-  description: "Takshashila Discussion Document"
-  path: "https://takshashila.org.in/content/publications/20180709-TDD-Indias-Strategies-New-World-Order.html"
-  categories: [India Foreign Policy]
 
 - title: "Differentiating Unintended Consequences from Unanticipated Ones: A Policy Framework"
   date: 2017-12-19
@@ -435,7 +343,7 @@
 - title: "Sustained Dialogue Process as India's Pakistan Policy: An Assessment"
   date: 2016-01-09
   description: "Takshashila Discussion Document"
-  path: "https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-India's-Pakistan-Policy.html"
+  path: "https://takshashila.org.in/content/publications/20160109-Sustained-Dialogue-Process-as-India’s-Pakistan-Policy.html"
   categories: [India Foreign Policy]
 
 - title: "A Global Climate Change Relocation Insurance Framework"
@@ -471,7 +379,7 @@
 - title: "Risks to India's National Security from Tensions Along the Iran-Pakistan Border"
   date: 2014-11-13
   description: "Takshashila Strategic Assessment"
-  path: "https://takshashila.org.in/content/publications/20141113-Risks-to-India's-national-security-from-tensions-along-the-Iran-Pakistan-border.html"
+  path: "https://takshashila.org.in/content/publications/20141113-Risks-to-India’s-national-security-from-tensions-along-the-Iran-Pakistan-border.html"
   categories: [India Foreign Policy]
 
 - title: "Resolving the Indo-Bangladesh Maritime Dispute"

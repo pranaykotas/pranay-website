@@ -48,9 +48,9 @@ See a sample episode
 
 ---
 
-## YouTube Show — with Amit Varma and Shruti Rajagopalan
+## Watching the Wheels — with Amit Varma and Shruti Rajagopalan {#watching-the-wheels}
 
-I also co-host a YouTube show with **Amit Varma** and **Shruti Rajagopalan**, covering economics, public policy, and ideas.
+I also co-host **Watching the Wheels**, a YouTube show with **Amit Varma** and **Shruti Rajagopalan**, covering economics, public policy, and ideas.
 
 ```{=html}
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">

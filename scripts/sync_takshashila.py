@@ -9,7 +9,7 @@ Run locally:   pip install requests beautifulsoup4 && python scripts/sync_taksha
 import os
 import re
 import sys
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urlparse, urljoin, unquote
 
 import requests
 from bs4 import BeautifulSoup
@@ -188,16 +188,28 @@ def normalize_url(url: str) -> str:
     return url
 
 
+def dedup_key(url: str) -> str:
+    """
+    Deduplication key: normalize_url plus percent-decoding, so that the same
+    URL written in different forms (raw unicode vs percent-encoded) matches.
+    """
+    return unquote(normalize_url(url))
+
+
 def read_existing_paths(yaml_path: str) -> set[str]:
-    """Collect normalised 'path:' values from an existing YAML file."""
+    """
+    Collect dedup keys for 'path:' values from an existing YAML file.
+    Also reads 'alias:' values: alternate URLs Takshashila uses for an entry
+    already listed under a different path, so the sync doesn't re-add it.
+    """
     paths: set[str] = set()
     if not os.path.exists(yaml_path):
         return paths
     with open(yaml_path, encoding="utf-8") as fh:
         for line in fh:
-            m = re.match(r'\s*path:\s*"?([^"#\n]+)"?', line)
+            m = re.match(r'\s*(?:path|alias):\s*"?([^"#\n]+)"?', line)
             if m:
-                paths.add(normalize_url(m.group(1).strip().strip('"').strip("'")))
+                paths.add(dedup_key(m.group(1).strip().strip('"').strip("'")))
     return paths
 
 
@@ -228,12 +240,37 @@ def read_existing_entries(yaml_path: str) -> str:
     return content[idx:].lstrip("\n")
 
 
+def sanitize_text(text: str) -> str:
+    """
+    Fix double-encoded mojibake that appears when a UTF-8 page is decoded
+    as latin-1 (e.g. 'â' + control chars instead of en dash / curly quotes),
+    then drop any remaining C1 control characters.
+    """
+    fixes = {
+        "\u00e2\u0080\u0093": "\u2013",  # en dash
+        "\u00e2\u0080\u0094": "\u2014",  # em dash
+        "\u00e2\u0080\u0098": "\u2018",  # left single quote
+        "\u00e2\u0080\u0099": "\u2019",  # right single quote
+        "\u00e2\u0080\u009c": "\u201c",  # left double quote
+        "\u00e2\u0080\u009d": "\u201d",  # right double quote
+        "\u00e2\u0080\u00a6": "\u2026",  # ellipsis
+        # partial forms: a proper/ASCII quote followed by stray remnants
+        "\u2019\u0080\u0099": "\u2019",
+    }
+    for bad, good in fixes.items():
+        text = text.replace(bad, good)
+    text = re.sub(r"'\u0080\u0099", "\u2019", text)  # ASCII ' + remnant -> curly
+    # drop any remaining C1 control characters
+    text = re.sub(r"[\u0080-\u009f]", "", text)
+    return text
+
+
 def entry_to_yaml(entry: dict) -> str:
     """Serialise one entry dict to a YAML block string."""
     cats = entry.get("categories", ["Public Policy"])
     cats_str = ", ".join(cats)
-    title = entry["title"].replace('"', '\\"')
-    desc  = entry["description"].replace('"', '\\"')
+    title = sanitize_text(entry["title"]).replace('"', '\\"')
+    desc  = sanitize_text(entry["description"]).replace('"', '\\"')
     path  = entry["path"]
     date  = entry["date"]
     return (
@@ -271,7 +308,10 @@ def get_soup(url: str) -> BeautifulSoup | None:
     try:
         resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
         resp.raise_for_status()
-        return BeautifulSoup(resp.text, "html.parser")
+        # Pass raw bytes (not resp.text): if the server omits charset in
+        # Content-Type, requests falls back to latin-1 and mis-decodes UTF-8
+        # (mojibake). BeautifulSoup's UnicodeDammit detects encoding correctly.
+        return BeautifulSoup(resp.content, "html.parser")
     except Exception as exc:
         print(f"  [WARN] Could not fetch {url}: {exc}")
         return None
@@ -299,7 +339,7 @@ def parse_listing_date(text: str) -> str:
     # Already ISO
     if re.match(r"\d{4}-\d{2}-\d{2}", text):
         return text[:10]
-    # 'Month D, YYYY' or 'Month DD, YYYY'
+    # 'Month D, YYYY' or 'Month DD, YYYY' (full or abbreviated month names)
     m = re.match(
         r"(\w+)\s+(\d{1,2}),?\s+(\d{4})", text
     )
@@ -309,6 +349,10 @@ def parse_listing_date(text: str) -> str:
             "april": "04", "may": "05", "june": "06",
             "july": "07", "august": "08", "september": "09",
             "october": "10", "november": "11", "december": "12",
+            # abbreviations (e.g. 'Jul 23, 2026')
+            "jan": "01", "feb": "02", "mar": "03", "apr": "04",
+            "jun": "06", "jul": "07", "aug": "08", "sep": "09",
+            "sept": "09", "oct": "10", "nov": "11", "dec": "12",
         }
         mn = months.get(m.group(1).lower())
         if mn:
@@ -404,7 +448,7 @@ def scrape_publications(soup: BeautifulSoup, existing_paths: set[str]) -> list[d
         href = urljoin(TEAM_PAGE, parent.get("href", ""))
         href = normalize_url(href)
 
-        if href in existing_paths:
+        if dedup_key(href) in existing_paths:
             continue  # already known
 
         print(f"  [PUB] New: {href}")
@@ -452,7 +496,7 @@ def scrape_blogs(soup: BeautifulSoup, existing_paths: set[str]) -> list[dict]:
             continue
         href = normalize_url(urljoin(TEAM_PAGE, link_el.get("href", "")))
 
-        if href in existing_paths:
+        if dedup_key(href) in existing_paths:
             continue
 
         title_el = item.select_one(".listing-title")
@@ -507,7 +551,7 @@ def scrape_opeds(soup: BeautifulSoup, existing_paths: set[str]) -> list[dict]:
             continue
         href = normalize_url(urljoin(TEAM_PAGE, link_el.get("href", "")))
 
-        if href in existing_paths:
+        if dedup_key(href) in existing_paths:
             continue
 
         title_el = item.select_one(".listing-title")
