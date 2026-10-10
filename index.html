@@ -37,6 +37,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -45,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-52198b3b944b26e1adba686d1cc19f71.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-442b7355238d54d3e44efed6a68c8288.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,8 +75,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-writings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-writings'] = new List('listing-recent-writings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Pranay Kotasthane">
 <meta property="og:description" content="Policy researcher, educator, and writer at the Takshashila Institution. Writing on semiconductor geopolitics, critical minerals, technology policy, and Indian public finance.">
@@ -327,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
 </script>
 <section id="about-me" class="level2">
 <h2 data-anchor-id="about-me">About Me</h2>
-<p>I am a public policy researcher at the <a href="https://takshashila.org.in">Takshashila Institution</a>, where I work on India’s public policy puzzles at the intersection of technology, economics, and geopolitics. I write <a href="op-eds/">op-eds</a> and <a href="blog/">blog posts</a>, co-host the <a href="./podcast.html">Puliyabaazi</a> podcast, co-write the <a href="./newsletter.html">Anticipating the Unintended</a> newsletter, and <a href="./courses.html">teach</a> courses on public policy and geopolitics.</p>
+<p>I am a public policy researcher at the <a href="https://takshashila.org.in">Takshashila Institution</a>, where I work on India’s public policy puzzles at the intersection of technology, economics, and geopolitics. I write <a href="op-eds/">op-eds</a> and <a href="blog/">blog posts</a>, co-host the <a href="./podcast.html">Puliyabaazi</a> podcast and the <a href="./podcast.html#watching-the-wheels">Watching the Wheels</a> YouTube show, co-write the <a href="./newsletter.html">Anticipating the Unintended</a> newsletter, and <a href="./courses.html">teach</a> courses on public policy and geopolitics.</p>
 </section>
 <section id="topics" class="level2">
 <h2 data-anchor-id="topics">Topics</h2>
@@ -394,7 +455,131 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="recent-writings" class="level2">
 <h2 data-anchor-id="recent-writings">Recent Writings</h2>
-<div id="recent-writings">
+<div id="listing-recent-writings" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="U2VtaWNvbmR1Y3RvciUyMEdlb3BvbGl0aWNz" data-listing-date-sort="1788134400000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260831-semicon2-gets-big-v2.html" class="no-external">Semicon 2.0 Gets the Big Things Right</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VtaWNvbmR1Y3RvciUyMEdlb3BvbGl0aWNz'); return false;">Semiconductor Geopolitics</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260831-semicon2-gets-big-v2.html" class="no-external">
+<p>Takshashila Institution</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260831-semicon2-gets-big-v2.html" class="no-external">
+<div class="listing-date">
+Aug 31, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="QUklMjBHZW9wb2xpdGljcyUyQ0luZGlhJTIwRm9yZWlnbiUyMFBvbGljeQ==" data-listing-date-sort="1784764800000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260723-china-ai-governance-waico-india.html" class="no-external">China Touts AI Clout, But Its Openness Won’t Last</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBHZW9wb2xpdGljcw=='); return false;">AI Geopolitics</div>
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kaWElMjBGb3JlaWduJTIwUG9saWN5'); return false;">India Foreign Policy</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260723-china-ai-governance-waico-india.html" class="no-external">
+<p>Takshashila Institution</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260723-china-ai-governance-waico-india.html" class="no-external">
+<div class="listing-date">
+Jul 23, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="SW5kaWElMjBGb3JlaWduJTIwUG9saWN5" data-listing-date-sort="1784246400000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260717-asml-geopolitical-signal.html" class="no-external">ASML’s Blowout Quarter Is a Geopolitical Signal</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kaWElMjBGb3JlaWduJTIwUG9saWN5'); return false;">India Foreign Policy</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260717-asml-geopolitical-signal.html" class="no-external">
+<p>Takshashila Institution</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260717-asml-geopolitical-signal.html" class="no-external">
+<div class="listing-date">
+Jul 17, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="UHVibGljJTIwUG9saWN5" data-listing-date-sort="1775433600000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260406-Constitution-National-Power.html" class="no-external">Democracy, Constitution, and National Power</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwUG9saWN5'); return false;">Public Policy</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260406-Constitution-National-Power.html" class="no-external">
+<p>Takshashila Institution</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260406-Constitution-National-Power.html" class="no-external">
+<div class="listing-date">
+Apr 6, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="U2VtaWNvbmR1Y3RvciUyMEdlb3BvbGl0aWNz" data-listing-date-sort="1775433600000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260406-pax-silica.html" class="no-external">Investigating the Potential of Pax Silica</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VtaWNvbmR1Y3RvciUyMEdlb3BvbGl0aWNz'); return false;">Semiconductor Geopolitics</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260406-pax-silica.html" class="no-external">
+<p>Takshashila Institution</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260406-pax-silica.html" class="no-external">
+<div class="listing-date">
+Apr 6, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="UHVibGljJTIwUG9saWN5" data-listing-date-sort="1773100800000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html" class="no-external">The Proposed Lok Sabha Seat Apportionment—What Should the Southern States Really Demand?</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwUG9saWN5'); return false;">Public Policy</div>
+</div>
+<div class="delink listing-description"><a href="https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html" class="no-external">
+<p>Takshashila Institution · with Suman Joshi</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="https://takshashila.org.in/content/blogs/20260418_proposed-lok-sabha-seat-apportionment.html" class="no-external">
+<div class="listing-date">
+Mar 10, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
 <a href="blog/" class="btn btn-outline-primary">View all posts →</a>
 </section>
@@ -827,7 +1012,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Pranay Kotasthane</p>
+<p>© 2026 Pranay Kotasthane</p>
 </div>   
     <div class="nav-footer-center">
 <p>Made with <a href="https://quarto.org">Quarto</a></p>

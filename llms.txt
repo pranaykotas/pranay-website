@@ -4,7 +4,7 @@
 
 ## About
 
-Pranay Kotasthane is a policy researcher at the Takshashila Institution. He co-authors *Anticipating the Unintended*, a weekly policy newsletter, and co-hosts *Puliyabaazi*, a Hindi-Urdu podcast on public policy. He has co-authored two books on semiconductors and public policy.
+Pranay Kotasthane is a policy researcher at the Takshashila Institution. He co-authors *Anticipating the Unintended*, a weekly policy newsletter; co-hosts *Puliyabaazi*, a Hindi-Urdu podcast on public policy; and co-hosts *Watching the Wheels*, a YouTube show on economics and public policy with Amit Varma and Shruti Rajagopalan. He has co-authored four books on semiconductors, public policy, and public finance.
 
 Key areas of expertise:
 - Semiconductor geopolitics and India's chip strategy
@@ -15,17 +15,17 @@ Key areas of expertise:
 
 ## Pages
 
-- [Home](https://pranaykotasthane.com/): Overview and recent writings
-- [Blog](https://pranaykotasthane.com/blog/): Long-form analysis and commentary
-- [Op-eds](https://pranaykotasthane.com/op-eds/): Published opinion pieces (The Hindu, Mint, Indian Express, HT, ThePrint, TOI, and others, 2014–present)
-- [Publications](https://pranaykotasthane.com/publications/): Academic papers, policy briefs, and research reports
-- [Books](https://pranaykotasthane.com/books.html): Co-authored books including works on semiconductors and public policy
-- [Talks](https://pranaykotasthane.com/talks.html): Lecture slides from conferences and institutions
-- [Courses](https://pranaykotasthane.com/courses.html): Courses taught at Takshashila Institution
-- [Newsletter](https://pranaykotasthane.com/newsletter.html): *Anticipating the Unintended* — weekly policy thoughtletter
-- [Podcast](https://pranaykotasthane.com/podcast.html): *Puliyabaazi* — Hindi-Urdu podcast on policy and economics
-- [Big Ideas](https://pranaykotasthane.com/big-ideas.html): Long-horizon policy ideas, frameworks, and hypotheses under development
-- [Field Notes](https://pranaykotasthane.com/field-notes/): Short observations, quips, and insights on policy, geopolitics, cities, and the craft of research
+- [Home](https://pranaykotas.com/): Overview and recent writings
+- [Blog](https://pranaykotas.com/blog/): Long-form analysis and commentary
+- [Op-eds](https://pranaykotas.com/op-eds/): Published opinion pieces (The Hindu, Mint, Indian Express, HT, ThePrint, TOI, and others, 2014–present)
+- [Publications](https://pranaykotas.com/publications/): Academic papers, policy briefs, and research reports
+- [Books](https://pranaykotas.com/books.html): Co-authored books including works on semiconductors and public policy
+- [Talks](https://pranaykotas.com/talks.html): Lecture slides from conferences and institutions
+- [Courses](https://pranaykotas.com/courses.html): Courses taught at Takshashila Institution
+- [Newsletter](https://pranaykotas.com/newsletter.html): *Anticipating the Unintended* — weekly policy thoughtletter
+- [Podcast](https://pranaykotas.com/podcast.html): *Puliyabaazi* — Hindi-Urdu podcast on policy and economics, and *Watching the Wheels* — a YouTube show with Amit Varma and Shruti Rajagopalan
+- [Big Ideas](https://pranaykotas.com/big-ideas.html): Long-horizon policy ideas, frameworks, and hypotheses under development
+- [Field Notes](https://pranaykotas.com/field-notes/): Short observations, quips, and insights on policy, geopolitics, cities, and the craft of research
 
 ## Contact
 
