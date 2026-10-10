@@ -16,7 +16,7 @@ I try to open access to my slides from talks I have delivered on semiconductor g
 
 Overview of India's semiconductor policy landscape, the India Semiconductor Mission, and the geopolitical context shaping chip supply chains.
 
-[Download slides →](assets/slides/CHIPDIPLO-India.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/CHIPDIPLO-India.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
@@ -30,7 +30,7 @@ Overview of India's semiconductor policy landscape, the India Semiconductor Miss
 
 I have given several versions of this talk, most recently being for the 66th cohort of India's top military institution for learning strategy, the National Defence College. In this talk, I explain the past, present, and future of mineral politics.
 
-[Download slides →](assets/slides/NDC-2026.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/NDC-2026.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
@@ -44,7 +44,7 @@ I have given several versions of this talk, most recently being for the 66th coh
 
 A fresh lecture for IMA India's CEO forum on why technology geopolitics has become a first-order business concern, and how firms should read the contest between the US, China, and middle powers.
 
-[Download slides →](assets/slides/IMA-CEO-HTG.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/IMA-CEO-HTG.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}
@@ -54,7 +54,7 @@ A fresh lecture for IMA India's CEO forum on why technology geopolitics has beco
 
 A variant of the high tech geopolitics deck, tailored for young leaders at ISB. Covers the means, goals, and fallouts of technology contestation, and the misconceptions that shape business and policy responses.
 
-[Download slides →](assets/slides/ISB-htg.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/ISB-htg.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}
@@ -64,7 +64,7 @@ A variant of the high tech geopolitics deck, tailored for young leaders at ISB. 
 
 The means, goals, and fallouts of technology contestation.
 
-[Download slides →](assets/slides/IIMB-tech-geopolitics.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/IIMB-tech-geopolitics.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
@@ -98,7 +98,7 @@ My third Pint of View lecture, this time on the geopolitics of AI. As usual, the
 :::
 :::
 
-[Download slides →](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
 :::
 
 :::{.talk-card}
@@ -108,7 +108,7 @@ My third Pint of View lecture, this time on the geopolitics of AI. As usual, the
 
 This talk analyses the domains, instruments, and narratives of AI geopolitics.
 
-[Download slides →](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
 
 :::
 
@@ -122,7 +122,7 @@ This talk analyses the domains, instruments, and narratives of AI geopolitics.
 **Date:** December 7, 2018
 
 Transfers are not linked to health indicators. Instead, such transfers by and large tend to be incremental. The specific purpose transfer system for health has not been very helpful in offsetting the fiscal disabilities of the poorer states. States tend to substitute grants received from the union for their own spending. Hence no commensurate increase in overall spending.
-[Download slides →](assets/slides/central-transfers-health.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/central-transfers-health.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
@@ -136,7 +136,7 @@ Transfers are not linked to health indicators. Instead, such transfers by and la
 
 Institutionally, there are three major actors in any community: the market, the State, and the civil society. However, in the state vs markets debate, we often forget that civil society itself can be a powerful actor for positive change. This is true especially in the Indian context where the ability of Indian society to correct itself has been underplayed, underestimated, and undermined by the Indian State. This talk makes a case for why certain tasks are best left for the Indian society to resolve. 
 
-[Download slides →](assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}
@@ -146,7 +146,7 @@ Institutionally, there are three major actors in any community: the market, the 
 
 In this lecture to select officers of the Indian armed forces, conducted as part of their training at the Army War College, I spoke about the Indian constitutional design. I discussed features of the Constitution that impinge on India's national power.
 
-[Download slides →](assets/slides/AWC-2026_1.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/AWC-2026_1.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}
@@ -168,7 +168,7 @@ Here are some images from the talk.
 :::
 :::
 
-[Download slides →](assets/slides/ClassRoom-talk.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/ClassRoom-talk.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ---
@@ -182,6 +182,6 @@ Here are some images from the talk.
 
 How disruption in the Strait of Hormuz would propagate to India through energy, trade, and remittance channels — and what India's resilience options look like across short, medium, and long horizons.
 
-[Download slides →](assets/slides/india_resilience_idcc--2-.pdf){.btn .btn-primary target="_blank"}
+[Download slides](assets/slides/india_resilience_idcc--2-.pdf){.btn .btn-primary target="_blank"}
 :::
 

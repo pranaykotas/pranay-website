@@ -93,7 +93,7 @@ At the top of the body, add the attribution block:
 <div class="op-ed-source">
   <div class="op-ed-source-label">Originally published in</div>
   <div class="op-ed-source-pub">Mint</div>
-  <a href="https://livemint.com/..." class="op-ed-source-link" target="_blank">Read original →</a>
+  <a href="https://livemint.com/..." class="op-ed-source-link" target="_blank">Read original</a>
 </div>
 ```
 ```
@@ -104,7 +104,7 @@ Then paste the article text. For excerpts only, add at the bottom:
 ::: {.read-more-box}
 *Excerpt only — the article continues at the original publication.*
 
-[Read the full article at Mint →](https://livemint.com/...){.btn .btn-primary target="_blank"}
+[Read the full article at Mint](https://livemint.com/...){.btn .btn-primary target="_blank"}
 :::
 ```
 
@@ -142,7 +142,7 @@ Edit `books.qmd` directly. Each book uses this structure:
 
 Short description.
 
-[Buy →](url) | [Read excerpt →](url)
+[Buy](url) | [Read excerpt](url)
 :::
 :::
 :::
@@ -161,7 +161,7 @@ Edit `courses.qmd` directly. Each course:
 
 Description of the course.
 
-[Learn more →](url)
+[Learn more](url)
 :::
 ```
 
@@ -280,7 +280,8 @@ podcast.qmd
 | Accent (amber) | `#B85C00` |
 | Accent light (tint) | `#F5ECE0` |
 | Body font | DM Sans (Google Fonts) |
-| Heading / body-text font | Playfair Display (Google Fonts) |
+| Display font (large titles, site name, pull quotes) | Playfair Display (Google Fonts) |
+| Body-text serif (paragraphs) | Source Serif 4 (Google Fonts) |
 
 To change colours, edit the variables at the top of `styles.scss`.
 

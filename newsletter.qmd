@@ -12,8 +12,8 @@ We've been publishing weekly since 2019.
 
 ```{=html}
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
-  <a href="https://publicpolicy.substack.com" class="btn btn-primary" target="_blank">Subscribe on Substack →</a>
-  <a href="https://publicpolicy.substack.com/archive" class="btn btn-outline-primary" target="_blank">Browse the archive →</a>
+  <a href="https://publicpolicy.substack.com" class="btn btn-primary" target="_blank">Subscribe on Substack</a>
+  <a href="https://publicpolicy.substack.com/archive" class="btn btn-outline-primary" target="_blank">Browse the archive</a>
 </div>
 ```
 

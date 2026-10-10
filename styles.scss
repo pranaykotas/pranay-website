@@ -13,6 +13,7 @@ $body-bg:          #FAFAF7;   // warm off-white
 // ── Typography ───────────────────────────────────────────────────
 $font-family-sans-serif: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 $headings-font-family:   "Playfair Display", Georgia, "Times New Roman", serif;
+$body-serif:             "Source Serif 4", Georgia, "Times New Roman", serif; // long-form reading text
 $font-size-base:   1.05rem;
 $line-height-base: 1.8;
 $headings-font-weight: 700;
@@ -31,7 +32,7 @@ $space-xl:  2.5rem;
 /*-- scss:rules --*/
 
 // ── Fonts ─────────────────────────────────────────────────────────
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300;1,9..40,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
 
 // ── Base ──────────────────────────────────────────────────────────
 html {
@@ -288,7 +289,7 @@ a {
   }
 
   .listing-title a {
-    font-family: $headings-font-family;
+    font-family: $font-family-sans-serif;
     font-size: 1.2rem;
     font-weight: 600;
     color: $primary;
@@ -345,11 +346,9 @@ a {
   }
 
   thead th {
-    font-family: $headings-font-family;
-    font-size: 0.82rem;
+    font-family: $font-family-sans-serif;
+    font-size: 0.85rem;
     font-weight: 600;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
     color: $secondary;
     border-bottom: 2px solid $primary;
     padding: 0.6rem 0.75rem;
@@ -443,7 +442,7 @@ a {
   padding: $space-md 1.5rem;
 
   h3 {
-    font-family: $headings-font-family;
+    font-family: $font-family-sans-serif;
     font-size: 1.1rem;
     margin-top: 0;
     margin-bottom: 0.4rem;
@@ -512,7 +511,7 @@ a {
   padding: 2rem;
   margin: 1.5rem 0;
 
-  h3 { font-family: $headings-font-family; }
+  h3 { font-family: $font-family-sans-serif; }
 }
 
 // ── Podcast / listen links ────────────────────────────────────────
@@ -584,8 +583,8 @@ hr {
 // Applies on individual blog post pages (not listing pages)
 .quarto-title ~ * p,
 #quarto-document-content p {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 1.08rem;
+  font-family: $body-serif;
+  font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.85;
 }
@@ -614,15 +613,13 @@ hr {
   flex-wrap: wrap;
 
   .op-ed-source-label {
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.07em;
+    font-size: 0.85rem;
     color: $secondary;
     font-weight: 500;
   }
 
   .op-ed-source-pub {
-    font-family: $headings-font-family;
+    font-family: $font-family-sans-serif;
     font-size: 1.1rem;
     font-weight: 700;
     color: $primary;
@@ -685,7 +682,7 @@ hr {
     display: block;
     font-size: 1.1rem;
     color: $accent;
-    font-family: $headings-font-family;
+    font-family: $font-family-sans-serif;
     margin-bottom: 0.25rem;
   }
 
@@ -845,39 +842,11 @@ hr {
   margin-bottom: 0.75rem;
 }
 
-// ── Homepage search bar ───────────────────────────────────────────
-.home-search-bar {
-  margin: 1.5rem 0 2rem;
-}
-
-// ── Homepage "Recent Writings" listing ────────────────────────────
-#listing-recent-writings {
+// ── Homepage "Latest writing" listing ─────────────────────────────
+#listing-latest-writing {
   // category chips filtered client-side don't make sense for a 6-item list
   .listing-categories {
     display: none;
-  }
-}
-
-.home-search-trigger {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  max-width: 520px;
-  padding: 0.7rem 1.1rem;
-  background: #fff;
-  border: 1.5px solid #D4CECC;
-  border-radius: 8px;
-  color: $secondary;
-  font-size: 0.95rem;
-  font-family: $font-family-sans-serif;
-  cursor: pointer;
-  text-align: left;
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
-
-  &:hover {
-    border-color: $accent;
-    box-shadow: 0 0 0 3px rgba($accent, 0.12);
-    color: $body-color;
   }
 }
 
@@ -1009,10 +978,8 @@ hr {
   background: $accent-light;
   color: $accent;
   font-family: $font-family-sans-serif;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 500;
 }
 
 .project-actions {
@@ -1157,4 +1124,98 @@ hr {
   font-size: 0.72rem;
   font-weight: 500;
   cursor: pointer;
+}
+
+// ── Homepage book feature (Fiscal Fables) ─────────────────────────
+// The one bold element on the homepage: navy panel, cover + display title.
+.book-feature {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 2.5rem 0;
+  padding: 2rem 2.25rem;
+  background: $primary;
+  border-radius: 8px;
+  color: #E8ECF3;
+
+  img {
+    width: 100%;
+    border-radius: 3px;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+  }
+
+  // Display-size title is where Playfair earns its place
+  .book-feature-title {
+    font-family: $headings-font-family;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.15;
+    color: #fff;
+    margin: 0 0 0.35rem;
+  }
+
+  .book-feature-sub {
+    font-family: $font-family-sans-serif;
+    font-size: 0.95rem;
+    color: #B9C3D4;
+    margin: 0 0 1rem;
+  }
+
+  .book-feature-blurb {
+    font-family: $font-family-sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #E8ECF3;
+    margin: 0 0 1.25rem;
+    max-width: 60ch;
+  }
+
+  .book-feature-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.25rem;
+    align-items: center;
+  }
+
+  .btn-primary {
+    background: $accent;
+    border-color: $accent;
+    color: #fff;
+
+    &:hover, &:focus-visible {
+      background: darken($accent, 8%);
+      border-color: darken($accent, 8%);
+    }
+  }
+
+  a:not(.btn) {
+    color: #F2C894;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+
+    &:hover { color: #fff; }
+  }
+
+  a:focus-visible {
+    outline: 2px solid #F2C894;
+    outline-offset: 3px;
+  }
+
+  @media (max-width: 576px) {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    padding: 1.5rem;
+
+    img { width: 120px; }
+    .book-feature-title { font-size: 1.6rem; }
+  }
+}
+
+// Paired "all items" links under the homepage writing list
+.home-more-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
 }

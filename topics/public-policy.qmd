@@ -26,12 +26,12 @@ A plain-language collection of [public policy frameworks](https://frameworks.pra
 
 ::: {.idea-card}
 ### 3 missing meta-institutions in our democracy
-Parliament's own think tank, an institution for vertical and horizontal bargaining, and an independent fiscal council — the meta-institutions the Indian Republic is missing altogether. [Read more →](../big-ideas.html)
+Parliament's own think tank, an institution for vertical and horizontal bargaining, and an independent fiscal council — the meta-institutions the Indian Republic is missing altogether. [Read more](../big-ideas.html)
 :::
 
 ::: {.idea-card}
 ### State Capacity is a flow, not a stock
-State capacity isn't cumulative — it needs constant investment and maintenance. Without it, even well-built institutions decay. [Read more →](../big-ideas.html)
+State capacity isn't cumulative — it needs constant investment and maintenance. Without it, even well-built institutions decay. [Read more](../big-ideas.html)
 :::
 
 ## Talks & Slides
@@ -42,7 +42,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 
 **Date:** September 2020
 
-[Download slides →](../assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
+[Download slides](../assets/slides/Manthan-Societism.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}
@@ -51,7 +51,7 @@ State capacity isn't cumulative — it needs constant investment and maintenance
 
 **Date:** March 2026
 
-[Download slides →](../assets/slides/AWC-2026_1.pdf){.btn .btn-primary target="_blank"}
+[Download slides](../assets/slides/AWC-2026_1.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.talk-card}

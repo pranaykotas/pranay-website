@@ -12,7 +12,7 @@ What began as a podcast has now spawned into a Hindi Substack and a magazine!
 
 ```{=html}
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
-  <a href="https://puliyabaazi.in" class="btn btn-primary" target="_blank">Visit Puliyabaazi.in →</a>
+  <a href="https://puliyabaazi.in" class="btn btn-primary" target="_blank">Visit Puliyabaazi.in</a>
 </div>
 ```
 
@@ -54,6 +54,6 @@ I also co-host **Watching the Wheels**, a YouTube show with **Amit Varma** and *
 
 ```{=html}
 <div style="display:flex;gap:1rem;flex-wrap:wrap;margin:1.5rem 0;">
-  <a href="https://www.youtube.com/channel/UC9l0XrC2ZS6M4TlqbCGqjvQ" class="btn btn-primary" target="_blank">Watch on YouTube →</a>
+  <a href="https://www.youtube.com/channel/UC9l0XrC2ZS6M4TlqbCGqjvQ" class="btn btn-primary" target="_blank">Watch on YouTube</a>
 </div>
 ```

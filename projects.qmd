@@ -16,7 +16,7 @@ These projects are public-facing. I have left out unreleased experiments, intern
 ### [India Semiconductor Manufacturing Tracker](https://fabs.pranaykotas.com)
 
 ::: {.project-meta}
-Tracker · Semiconductors · India
+Tracker
 :::
 
 An interactive tracker for India's semiconductor manufacturing facilities: fabs, ATMP/OSAT units, compound semiconductor projects, milestones, investment, slippage, and technology complexity.
@@ -31,7 +31,7 @@ An interactive tracker for India's semiconductor manufacturing facilities: fabs,
 ### [AI for Public Policy Directory](https://aipublicpolicy.org)
 
 ::: {.project-meta}
-Directory · AI · Public policy
+Directory
 :::
 
 A community-curated, searchable directory of AI tools, dashboards, and projects built for public policy.
@@ -46,7 +46,7 @@ A community-curated, searchable directory of AI tools, dashboards, and projects 
 ### [Frameworks for Public Policy](https://frameworks.pranaykotas.com)
 
 ::: {.project-meta}
-Reference · Frameworks · Policy thinking
+Reference
 :::
 
 A growing collection of public-policy frameworks and mental models explained in plain language, drawn from books, papers, and years of writing at *Anticipating the Unintended*.
@@ -61,7 +61,7 @@ A growing collection of public-policy frameworks and mental models explained in 
 ### [ParliamentWatch](https://parliamentcommittee.streamlit.app)
 
 ::: {.project-meta}
-Tracker · Parliament · AI summaries
+Tracker
 :::
 
 A tool to browse, search, and generate AI-powered summaries of Indian Parliamentary Committee reports from Departmentally Related Standing Committees.
@@ -82,7 +82,7 @@ A tool to browse, search, and generate AI-powered summaries of Indian Parliament
 ### [OECD Semiconductor Watch](https://oecdwatch.pranaykotas.com)
 
 ::: {.project-meta}
-Tracker · OECD · Semiconductors
+Tracker
 :::
 
 Curated OECD semiconductor research, interpreted for India's policy community.
@@ -97,7 +97,7 @@ Curated OECD semiconductor research, interpreted for India's policy community.
 ### [Tracking People's Daily — China-US Rhetoric Dashboard](https://pranaykotas.github.io/china-us-rhetoric/)
 
 ::: {.project-meta}
-Dashboard · China · Geopolitics
+Dashboard
 :::
 
 An interactive dashboard tracking how Chinese government officials characterise the United States over time, based on systematic analysis of the *Tracking People's Daily* newsletter.
@@ -118,7 +118,7 @@ An interactive dashboard tracking how Chinese government officials characterise 
 ### [Takshashila Scholar](https://takshashilainst.github.io/scholar-web/)
 
 ::: {.project-meta}
-Research tool · AI · Methods
+Research tool
 :::
 
 A browser-based companion for Takshashila research methods: policy analysis, stakeholder mapping, causal loops, drafting, review, and guided research workflows.

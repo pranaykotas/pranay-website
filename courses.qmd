@@ -15,7 +15,7 @@ I design and teach courses at the [Takshashila Institution](https://takshashila.
 
 I co-teach a course on public finance with Sarthak Pradhan.
 
-[Learn more →](https://school.takshashila.org.in/)
+[Learn more](https://school.takshashila.org.in/)
 :::
 
 ::: {.course-card}
@@ -26,7 +26,7 @@ I co-teach a course on public finance with Sarthak Pradhan.
 
 Exploring the intersection of emerging technologies and geopolitics, including AI, semiconductors, and critical minerals
 
-[Learn more →](https://school.takshashila.org.in/)
+[Learn more](https://school.takshashila.org.in/)
 :::
 
 ## Past Modules
