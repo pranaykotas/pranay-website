@@ -15,9 +15,13 @@ listing:
       description: "Publication"
       title: "Article"
     date-format: "MMM YYYY"
+    feed:
+      title: "Pranay Kotasthane — Op-eds"
+      description: "Opinion pieces in Indian newspapers and magazines"
+      items: 20
 ---
 
-Opinion pieces published in newspapers, magazines, and online outlets. Titles link to the original publication.
+Opinion pieces published in newspapers, magazines, and online outlets. Titles link to the original publication. Follow new op-eds via [RSS](index.xml).
 
 ::: {#op-eds-list}
 :::

@@ -46,20 +46,20 @@ website:
       - icon: rss
         href: blog/index.xml
         aria-label: RSS Feed
-      - icon: twitter
-        href: https://twitter.com/pranaykotas
-        aria-label: Twitter
+      - icon: twitter-x
+        href: https://x.com/pranaykotas
+        aria-label: X (Twitter)
       - icon: linkedin
-        href: https://linkedin.com/in/pranaykotasthane
+        href: https://www.linkedin.com/in/pranaykotas/
         aria-label: LinkedIn
 
   page-footer:
     left: |
-      &copy; 2026 Pranay Kotasthane
+      &copy; <span class="footer-year">2026</span> Pranay Kotasthane<script>document.querySelectorAll(".footer-year").forEach(e=>e.textContent=new Date().getFullYear())</script>
     center: |
       Made with [Quarto](https://quarto.org)
     right: |
-      [Blog via RSS](blog/index.xml)
+      [Blog via RSS](/blog/index.xml)
 
   favicon: images/favicon.png
 

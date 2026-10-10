@@ -71,6 +71,36 @@ The means, goals, and fallouts of technology contestation.
 
 ## AI Geopolitics
 
+::: {.talk-card}
+### The Geopolitics of AI: Perspectives and Implications
+**Event:** [Pint of View](https://www.linkedin.com/posts/pranaykotas_did-my-third-pint-of-viewlecture-this-weekend-ugcPost-7508120273338970113-5McC/)
+**Date:** September 2026
+
+My third Pint of View lecture, this time on the geopolitics of AI. As usual, the questions were top-notch. I hope many more such knowledge communities flourish in India.
+
+:::columns
+:::column
+![Pranay presenting the title slide, The Geopolitics of AI](images/pint-of-view-ai-1.jpg)
+:::
+
+:::column
+![A packed audience listening to the lecture](images/pint-of-view-ai-2.jpg)
+:::
+:::
+
+:::columns
+:::column
+![Group photo with the Pint of View audience](images/pint-of-view-ai-3.jpg)
+:::
+
+:::column
+![Conversations continuing after the talk](images/pint-of-view-ai-4.jpg)
+:::
+:::
+
+[Download slides →](assets/slides/AIGeopolitics.pdf){.btn .btn-primary target="_blank"}
+:::
+
 :::{.talk-card}
 ### The Geopolitics of AI: Perspectives and Implications
 **Event:** Lecture for the Takshashila GCPP Tech Policy course
@@ -130,11 +160,11 @@ Here are some images from the talk.
 
 :::columns
 :::column
-![](images/kolkata-1.jpeg)
+![Pranay speaking at The Conversation Room, Kolkata](images/kolkata-1.jpeg)
 :::
 
 :::column
-![](images/kolkata-2.jpeg)
+![Pranay explaining assumptions about the Indian State, Kolkata](images/kolkata-2.jpeg)
 :::
 :::
 
