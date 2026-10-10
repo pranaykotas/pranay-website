@@ -165,12 +165,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/pranaykotas"> <i class="bi bi-twitter" role="img" aria-label="Twitter">
+    <a class="nav-link" href="https://x.com/pranaykotas"> <i class="bi bi-twitter-x" role="img" aria-label="X (Twitter)">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://linkedin.com/in/pranaykotasthane"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+    <a class="nav-link" href="https://www.linkedin.com/in/pranaykotas/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -1154,13 +1154,14 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Pranay Kotasthane</p>
+© <span class="footer-year">2026</span> Pranay Kotasthane
+<script>document.querySelectorAll(".footer-year").forEach(e=>e.textContent=new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
 <p>Made with <a href="https://quarto.org">Quarto</a></p>
 </div>
     <div class="nav-footer-right">
-<p><a href="blog/index.xml">Blog via RSS</a></p>
+<p><a href="../blog/index.xml">Blog via RSS</a></p>
 </div>
   </div>
 </footer>
