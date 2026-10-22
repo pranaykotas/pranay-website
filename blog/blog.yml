@@ -1,6 +1,30 @@
 # External blog posts on Takshashila website
 # Add new entries at the top.
 
+- title: "Don’t Linearly Extrapolate China’s Tech Rise"
+  date: 2026-10-20
+  description: "Takshashila Institution"
+  path: "https://takshashila.org.in/content/blogs/20261020-china-tech-linear-extrapolation.html"
+  categories: [India Foreign Policy]
+
+- title: "Whose Job Is It?"
+  date: 2026-10-20
+  description: "Takshashila Institution"
+  path: "https://takshashila.org.in/content/blogs/20261020-neev-whose-job-is-it.html"
+  categories: [Public Policy]
+
+- title: "How to Think About Samaaj, Sarkaar, and Bazaar"
+  date: 2026-10-20
+  description: "Takshashila Institution"
+  path: "https://takshashila.org.in/content/blogs/20261020-samaaj-sarkaar-bazaar.html"
+  categories: [Public Policy]
+
+- title: "Tunnel Boring Machines Are the Lithography Machines of Construction"
+  date: 2026-10-20
+  description: "Takshashila Institution"
+  path: "https://takshashila.org.in/content/blogs/20261020-tbm-export-controls.html"
+  categories: [Public Policy]
+
 - title: "Semicon 2.0 Gets the Big Things Right"
   date: 2026-08-31
   description: "Takshashila Institution"
