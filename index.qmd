@@ -63,7 +63,20 @@ listing:
         "@type": "Organization",
         "name": "Takshashila Institution",
         "url": "https://takshashila.org.in"
-      }
+      },
+      "subjectOf": [
+        { "@type": "NewsArticle", "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html" },
+        { "@type": "NewsArticle", "url": "https://www.wsj.com/articles/indias-manufacturing-push-takes-an-audacious-gamble-on-chips-11670946984" },
+        { "@type": "NewsArticle", "url": "https://www.wsj.com/opinion/indias-big-semiconductor-bet-e0e60891" },
+        { "@type": "NewsArticle", "url": "https://www.wsj.com/opinion/does-india-even-have-any-cards-ba4b7010" },
+        { "@type": "NewsArticle", "url": "https://www.economist.com/business/2024/06/20/indias-electronics-industry-is-surging" },
+        { "@type": "NewsArticle", "url": "https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start" },
+        { "@type": "NewsArticle", "url": "https://www.economist.com/asia/2025/05/01/indias-new-chip-fab-rises-from-the-dust" },
+        { "@type": "NewsArticle", "url": "https://www.straitstimes.com/world/china-export-ban-on-engineers-and-equipment-disrupts-manufacturing-overseas" },
+        { "@type": "NewsArticle", "url": "https://www.straitstimes.com/asia/south-asia/calls-mount-to-redraw-electoral-boundaries-across-india-to-ensure-fair-representation" },
+        { "@type": "NewsArticle", "url": "https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in" },
+        { "@type": "NewsArticle", "url": "https://www.scmp.com/week-asia/economics/article/3151284/india-courts-chip-makers-taiwan-and-quad-its-side-it-takes" }
+      ]
     },
     {
       "@type": "Book",
@@ -134,6 +147,8 @@ listing:
 ## About Me
 
 I am a public policy researcher at the [Takshashila Institution](https://takshashila.org.in), where I work on India's public policy puzzles at the intersection of technology, economics, and geopolitics. I write [op-eds](op-eds/) and [blog posts](blog/), co-host the [Puliyabaazi](podcast.qmd) podcast and the [Watching the Wheels](podcast.qmd#watching-the-wheels) YouTube show, co-write the [Anticipating the Unintended](newsletter.qmd) newsletter, and [teach](courses.qmd) courses on public policy and geopolitics.
+
+My work on technology geopolitics and public policy has been cited in *The New York Times* ([1](https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html)), *The Wall Street Journal* ([1](https://www.wsj.com/articles/indias-manufacturing-push-takes-an-audacious-gamble-on-chips-11670946984), [2](https://www.wsj.com/opinion/indias-big-semiconductor-bet-e0e60891), [3](https://www.wsj.com/opinion/does-india-even-have-any-cards-ba4b7010)), *The Economist* ([1](https://www.economist.com/business/2024/06/20/indias-electronics-industry-is-surging), [2](https://www.economist.com/finance-and-economics/2024/05/16/narendra-modis-flagship-growth-scheme-is-off-to-a-sluggish-start), [3](https://www.economist.com/asia/2025/05/01/indias-new-chip-fab-rises-from-the-dust)), *The Straits Times* ([1](https://www.straitstimes.com/world/china-export-ban-on-engineers-and-equipment-disrupts-manufacturing-overseas), [2](https://www.straitstimes.com/asia/south-asia/calls-mount-to-redraw-electoral-boundaries-across-india-to-ensure-fair-representation), [3](https://www.straitstimes.com/asia/south-asia/boring-war-china-cuts-tbm-exports-india-digs-in)), and the *South China Morning Post* ([1](https://www.scmp.com/week-asia/economics/article/3151284/india-courts-chip-makers-taiwan-and-quad-its-side-it-takes)).
 
 ```{=html}
 <section class="book-feature" aria-label="New book: Fiscal Fables">
