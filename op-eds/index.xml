@@ -10,7 +10,15 @@
 <atom:link href="https://pranaykotas.com/op-eds/index.xml" rel="self" type="application/rss+xml"/>
 <description>Opinion pieces in Indian newspapers and magazines</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Thu, 08 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>India &amp; L’Affaire Huang</title>
+  <link>https://pranaykotas.com/</link>
+  <description>Times of India</description>
+  <category>Public Policy</category>
+  <guid>https://pranaykotas.com/</guid>
+  <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>India-US: Difficult times call for difficult measures</title>
   <link>https://pranaykotas.com/</link>
@@ -169,15 +177,6 @@
   <category>India Foreign Policy</category>
   <guid>https://pranaykotas.com/</guid>
   <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Digital Strategic Autonomy: The Case for an EU-India Open Tech Maitri</title>
-  <link>https://pranaykotas.com/</link>
-  <description>India&#39;s World</description>
-  <category>Technology Geopolitics</category>
-  <category>India Foreign Policy</category>
-  <guid>https://pranaykotas.com/</guid>
-  <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
